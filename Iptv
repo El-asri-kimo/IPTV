@@ -167,3 +167,5 @@ http://174.138.184.166:25461/livesport_ios/livesport_android/57
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
 #EXTINF:-1, Osn Action
 http://www.elahmad.com/tv/teledunet.php?id=102256
+#EXTINF:-1, Bein Sports 1
+http://am.freestreams-live1.com/beinsp1-fr1/
