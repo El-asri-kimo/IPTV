@@ -165,3 +165,5 @@ http://174.138.184.166:25461/livesport_ios/livesport_android/56
 http://174.138.184.166:25461/livesport_ios/livesport_android/57
 #EXTINF:-1,ARRIYADIA
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1, Osn Action
+http://www.elahmad.com/tv/teledunet.php?id=102256
