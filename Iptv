@@ -94,19 +94,27 @@ http://s1.urhdiptv.net:8080/Manaf/Manaf123/120804
 #EXTINF:-1,BEIN SPORTS MAX 2 
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/120803
 
-#EXTINF:-1,BEIN SPORTS Max 1 SD
-http://195.230.23.8:25461/goldstv.com/zVSBfEVhKE/7820
-#EXTINF:-1,BEIN SPORTS Max 2 SD
-http://195.230.23.8:25461/goldstv.com/zVSBfEVhKE/7821
-#EXTINF:-1,beIN SPORTS MAX SD 1 
-http://195.230.23.8:25461/goldstv.com/zVSBfEVhKE/7839
-#EXTINF:-1,beIN SPORTS MAX SD 2 
-http://195.230.23.8:25461/goldstv.com/zVSBfEVhKE/7840
 
-#EXTINF:-1,Bein Sport Max 1 SD
-http://new-pro.tv:8080/4474494445842022/Nadim2022/290292
-#EXTINF:-1,Bein Sport Max 2 SD
-http://new-pro.tv:8080/4474494445842022/Nadim2022/290293
+
+#EXTINF:-1,beIN SPORTS MAX 1 
+http://yassooo.com:8080/Manaf/Manaf123/120000
+#EXTINF:-1,beIN SPORTS MAX 2 
+http://yassooo.com:8080/Manaf/Manaf123/119999
+
+#EXTINF:-1,BEIN SPORTS MAX 1 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120000
+#EXTINF:-1,BEIN SPORTS MAX 2 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/119999
+#EXTINF:-1,BEIN SPORTS MAX 1 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120678
+#EXTINF:-1,BEIN SPORTS MAX 2 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120679
+#EXTINF:-1,BEIN SPORTS MAX 1 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120804
+#EXTINF:-1,BEIN SPORTS MAX 2 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120803
+
+
 
 ####            KIMO HD             ####
 
@@ -120,26 +128,27 @@ http://yazansportpro.xyz:25461/livesport_ios/livesport_android/94
 http://n3.anfalrou.xyz:80/live/9962564400/index.m3u8
 #EXTINF:-1, KIMO SPORTS MAX HD2
 http://n3.anfalrou.xyz:80/live/88002555210/index.m3u8
-#EXTINF:-1, KIMO SPORT PREMIUM 1HD
-http://n3.anfalrou.xyz:80/live/616165500160/index.m3u8
-#EXTINF:-1, KIMO SPORT PREMIUM 2HD
-http://n3.anfalrou.xyz:80/live/6161949878/index.m3u8
-#EXTINF:-1, KIMO SPORT PREMIUM 3HD
-http://n3.anfalrou.xyz:80/live/61512788878/index.m3u8
-#EXTINF:-1, KIMO SPORTS 1HD
-http://n3.anfalrou.xyz:80/live/918454578001/index.m3u8
-#EXTINF:-1, KIMO SPORTS 2HD
-http://n3.anfalrou.xyz:80/live/69854211/index.m3u8
-#EXTINF:-1, KIMO SPORTS 3HD
-http://n3.anfalrou.xyz:80/live/645587700/index.m3u8
-#EXTINF:-1, KIMO SPORTS 4HD
-http://n3.anfalrou.xyz:80/live/9787488847/index.m3u8
-#EXTINF:-1, KIMO SPORTS 5HD
-http://n3.anfalrou.xyz:80/live/610303030/index.m3u8
+
+#EXTINF:-1,KIMO SPORT PREMIUM 1HD
+http://l3.amaniyouhra.xyz:80/live/61616/index.m3u8
+#EXTINF:-1,KIMO SPORT PREMIUM 2HD
+http://l3.amaniyouhra.xyz:80/live/6161949878/index.m3u8
+#EXTINF:-1,KIMO SPORT PREMIUM 3HD
+http://l3.amaniyouhra.xyz:80/live/61512788878/index.m3u8
+#EXTINF:-1,KIMO SPORTS 1HD
+http://l3.amaniyouhra.xyz:80/live/918454578001/index.m3u8
+#EXTINF:-1,KIMO SPORTS 2HD
+http://l3.amaniyouhra.xyz:80/live/69854211/index.m3u8
+#EXTINF:-1,KIMO SPORTS 3HD
+http://l3.amaniyouhra.xyz:80/live/645587700/index.m3u8
+#EXTINF:-1,KIMO SPORTS 4HD
+http://l3.amaniyouhra.xyz:80/live/9787488847/index.m3u8
+#EXTINF:-1,KIMO SPORTS 5HD
+http://l3.amaniyouhra.xyz:80/live/610303030/index.m3u8
 #EXTINF:-1,KIMO SPORTS 6HD
-http://n3.anfalrou.xyz:80/live/1515000000/index.m3u8
+http://l3.amaniyouhra.xyz:80/live/1515000000/index.m3u8
 #EXTINF:-1,KIMO SPORTS 7HD
-http://n3.anfalrou.xyz:80/live/791001144/index.m3u8
+http://l3.amaniyouhra.xyz:80/live/791001144/index.m3u8
  
 ####            KIMO SD             ####
 
@@ -152,26 +161,36 @@ http://yazansportpro.xyz:25461/livesport_ios/livesport_android/93
 http://n3.anfalrou.xyz:80/live/500025550/index.m3u8
 #EXTINF:-1,KIMO SPORTS MAX 2
 http://n3.anfalrou.xyz:80/live/515140033710/index.m3u8
+
+#EXTINF:-1,KIMO SPORTS MAX 1
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/92
+#EXTINF:-1,KIMO SPORTS MAX 2
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/93
+
+#EXTINF:-1,KIMO SPORTS MAX 1
+http://l21.amaniyouhra.xyz:80/live/50002/index.m3u8
+#EXTINF:-1,KIMO SPORTS MAX 2
+http://l3.amaniyouhra.xyz:80/live/51514/index.m3u8
 #EXTINF:-1,KIMO SPORT PREMIUM 1SD
-http://n3.anfalrou.xyz:80/live/8882425700160/index.m3u8
+http://l3.amaniyouhra.xyz:80/live/88824/index.m3u8
 #EXTINF:-1,KIMO SPORT PREMIUM 2SD
-http://n3.anfalrou.xyz:80/live/794812458/index.m3u8
+http://l3.amaniyouhra.xyz:80/live/794812458/index.m3u8
 #EXTINF:-1,KIMO SPORT PREMIUM 3SD
-http://n3.anfalrou.xyz:80/live/179885588/index.m3u8
+http://l3.amaniyouhra.xyz:80/live/179885588/index.m3u8
 #EXTINF:-1,KIMO SPORTS 1SD
-http://n3.anfalrou.xyz:80/live/978488877005/index.m3u8
+http://l3.amaniyouhra.xyz:80/live/978488877005/index.m3u8
 #EXTINF:-1,KIMO SPORTS 2SD
-http://n3.anfalrou.xyz:80/live/10011244/index.m3u8
+http://l3.amaniyouhra.xyz:80/live/10011244/index.m3u8
 #EXTINF:-1,KIMO SPORTS 3SD
-http://n3.anfalrou.xyz:80/live/161988840/index.m3u8
+http://l3.amaniyouhra.xyz:80/live/161988840/index.m3u8
 #EXTINF:-1,KIMO SPORTS 4SD
-http://n3.anfalrou.xyz:80/live/0103088447/index.m3u8
+http://l3.amaniyouhra.xyz:80/live/0103088447/index.m3u8
 #EXTINF:-1,KIMO SPORTS 5SD
-http://n3.anfalrou.xyz:80/live/115451004/index.m3u8
+http://l3.amaniyouhra.xyz:80/live/115451004/index.m3u8
 #EXTINF:-1,KIMO SPORTS 6SD
-http://n3.anfalrou.xyz:80/live/788550011/index.m3u8
+http://l3.amaniyouhra.xyz:80/live/788550011/index.m3u8
 #EXTINF:-1,KIMO SPORTS 7SD
-http://n3.anfalrou.xyz:80/live/100666696/index.m3u8
+http://l3.amaniyouhra.xyz:80/live/100666696/index.m3u8
 
 ####         BEIN FULL             ####
 
