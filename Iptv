@@ -374,3 +374,71 @@ http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="TeleMaroc.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="General",Télé Maroc (1080p)
 https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
+
+####           MBC GROUPE          ####
+
+#EXTINF:-1,MBC1 HD
+http://yassooo.com:8080/Manaf/Manaf123/80275
+#EXTINF:-1,MBC2 HD
+http://yassooo.com:8080/Manaf/Manaf123/80274
+#EXTINF:-1,MBC3 HD
+http://yassooo.com:8080/Manaf/Manaf123/80273
+#EXTINF:-1,MBC4 HD
+http://yassooo.com:8080/Manaf/Manaf123/80272
+#EXTINF:-1,MBC Drama HD
+http://yassooo.com:8080/Manaf/Manaf123/80271
+#EXTINF:-1,MBC Action HD
+http://yassooo.com:8080/Manaf/Manaf123/80270
+#EXTINF:-1,MBC Bollywood HD
+http://yassooo.com:8080/Manaf/Manaf123/80269
+#EXTINF:-1,MBC Variety HD
+http://yassooo.com:8080/Manaf/Manaf123/80268
+#EXTINF:-1,MBC Masir1 HD
+http://yassooo.com:8080/Manaf/Manaf123/80267
+#EXTINF:-1,MBC Drama+ HD
+http://yassooo.com:8080/Manaf/Manaf123/80266
+#EXTINF:-1,MBC Masir2 HD
+http://yassooo.com:8080/Manaf/Manaf123/80265
+#EXTINF:-1,MBC MAX HD
+http://yassooo.com:8080/Manaf/Manaf123/80264
+#EXTINF:-1,MBC Iraq HD
+http://yassooo.com:8080/Manaf/Manaf123/80263
+#EXTINF:-1,MBC 1 SD
+http://yassooo.com:8080/Manaf/Manaf123/80262
+#EXTINF:-1,MBC 2 SD
+http://yassooo.com:8080/Manaf/Manaf123/80261
+#EXTINF:-1,MBC 3 SD
+http://yassooo.com:8080/Manaf/Manaf123/80260
+#EXTINF:-1,MBC 4 SD
+http://yassooo.com:8080/Manaf/Manaf123/80259
+#EXTINF:-1,MBC Bollywood SD
+http://yassooo.com:8080/Manaf/Manaf123/80258
+#EXTINF:-1,MBC Max SD
+http://yassooo.com:8080/Manaf/Manaf123/80257
+#EXTINF:-1,MBC Iraq SD
+http://yassooo.com:8080/Manaf/Manaf123/80256
+#EXTINF:-1,MBC Action SD
+http://yassooo.com:8080/Manaf/Manaf123/80255
+#EXTINF:-1,MBC Drama SD
+http://yassooo.com:8080/Manaf/Manaf123/80254
+
+####             NETFLIX            #####
+
+#EXTINF:-1,Netflix Action
+http://yassooo.com:8080/Manaf/Manaf123/79885
+#EXTINF:-1,Netflix Arabic
+http://yassooo.com:8080/Manaf/Manaf123/79884
+#EXTINF:-1,Netflix Comedy
+http://yassooo.com:8080/Manaf/Manaf123/79883
+#EXTINF:-1,Netflix Crime
+http://yassooo.com:8080/Manaf/Manaf123/79882
+#EXTINF:-1,Netflix Drama
+http://yassooo.com:8080/Manaf/Manaf123/79881
+#EXTINF:-1,Netflix Horror
+http://yassooo.com:8080/Manaf/Manaf123/79880
+#EXTINF:-1,Netflix Mystery
+http://yassooo.com:8080/Manaf/Manaf123/79879
+#EXTINF:-1,Netflix Romance
+http://yassooo.com:8080/Manaf/Manaf123/79878
+#EXTINF:-1,Netflix Sci-Fi
+http://yassooo.com:8080/Manaf/Manaf123/79877
