@@ -170,9 +170,6 @@ http://geo-stream.xyz:8880/live/54393917/67737458/466086.ts
 #EXTINF:-1,SSC5
 http://geo-stream.xyz:8880/live/54393917/67737458/466093.ts
 
-####             USA         ####
-#EXTINF:-1 tvg-id="GloryKickboxing.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AQbc1ER.jpg" group-title="Sports",Glory Kickboxing (432p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
 #####            OSN          ####
 
 #EXTINF:-1,OSN Yahala
