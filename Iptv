@@ -171,28 +171,6 @@ http://s1.urhdiptv.net:8080/Manaf/Manaf123/120804
 #EXTINF:-1,BEIN SPORTS MAX 2 
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/120803
 
- 
-####            KIMO SD             ####
-
-#EXTINF:-1,KIMO SPORTS MAX 1
-http://yazansportpro.xyz:25461/livesport_ios/livesport_android/92
-#EXTINF:-1,KIMO SPORTS MAX 2
-http://yazansportpro.xyz:25461/livesport_ios/livesport_android/93
-
-#EXTINF:-1,KIMO SPORTS MAX 1
-http://n3.anfalrou.xyz:80/live/500025550/index.m3u8
-#EXTINF:-1,KIMO SPORTS MAX 2
-http://n3.anfalrou.xyz:80/live/515140033710/index.m3u8
-
-#EXTINF:-1,KIMO SPORTS MAX 1
-http://yazansportpro.xyz:25461/livesport_ios/livesport_android/92
-#EXTINF:-1,KIMO SPORTS MAX 2
-http://yazansportpro.xyz:25461/livesport_ios/livesport_android/93
-
-#EXTINF:-1,KIMO SPORTS MAX 1
-http://l21.amaniyouhra.xyz:80/live/50002/index.m3u8
-#EXTINF:-1,KIMO SPORTS MAX 2
-
 
 ####         BEIN FULL             ####
 
