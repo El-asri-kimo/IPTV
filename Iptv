@@ -99,34 +99,6 @@ http://s1.urhdiptv.net:8080/Manaf/Manaf123/120804
 #EXTINF:-1,BEIN SPORTS MAX 2 
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/120803
 
-
-
-####            KIMO HD             ####
-
-
-
-
-
-#EXTINF:-1,KIMO SPORTS 1 Premium 
-http://174.138.184.166:25461/livesport_ios/livesport_android/13
-#EXTINF:-1,KIMO SPORT PREMIUM 2HD
-http://l3.amaniyouhra.xyz:80/live/6161949878/index.m3u8
-#EXTINF:-1,KIMO SPORT PREMIUM 3HD
-http://l3.amaniyouhra.xyz:80/live/61512788878/index.m3u8
-#EXTINF:-1,KIMO SPORTS 1HD
-http://l3.amaniyouhra.xyz:80/live/918454578001/index.m3u8
-#EXTINF:-1,KIMO SPORTS 2HD
-http://l3.amaniyouhra.xyz:80/live/69854211/index.m3u8
-#EXTINF:-1,KIMO SPORTS 3HD
-http://l3.amaniyouhra.xyz:80/live/645587700/index.m3u8
-#EXTINF:-1,beIN Sports 4 HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/19
-#EXTINF:-1,KIMO SPORTS 5HD
-http://l3.amaniyouhra.xyz:80/live/610303030/index.m3u8
-#EXTINF:-1,KIMO SPORTS 6HD
-http://l3.amaniyouhra.xyz:80/live/1515000000/index.m3u8
-#EXTINF:-1,KIMO SPORTS 7HD
-http://l3.amaniyouhra.xyz:80/live/791001144/index.m3u8
  
 ####            KIMO SD             ####
 
@@ -148,66 +120,46 @@ http://yazansportpro.xyz:25461/livesport_ios/livesport_android/93
 #EXTINF:-1,KIMO SPORTS MAX 1
 http://l21.amaniyouhra.xyz:80/live/50002/index.m3u8
 #EXTINF:-1,KIMO SPORTS MAX 2
-http://l3.amaniyouhra.xyz:80/live/51514/index.m3u8
-#EXTINF:-1,KIMO SPORTS 1 Premium 
-http://174.138.184.166:25461/livesport_ios/livesport_android/13
-#EXTINF:-1,KIMO SPORT PREMIUM 2SD
-http://l3.amaniyouhra.xyz:80/live/794812458/index.m3u8
-#EXTINF:-1,KIMO SPORT PREMIUM 3SD
-http://l3.amaniyouhra.xyz:80/live/179885588/index.m3u8
-#EXTINF:-1,KIMO SPORTS 1SD
-http://l3.amaniyouhra.xyz:80/live/978488877005/index.m3u8
-#EXTINF:-1,KIMO SPORTS 2SD
-http://l3.amaniyouhra.xyz:80/live/10011244/index.m3u8
-#EXTINF:-1,KIMO SPORTS 3SD
-http://l3.amaniyouhra.xyz:80/live/161988840/index.m3u8
-#EXTINF:-1,beIN Sports 4 HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/19
-#EXTINF:-1,KIMO SPORTS 5SD
-http://l3.amaniyouhra.xyz:80/live/115451004/index.m3u8
-#EXTINF:-1,KIMO SPORTS 6SD
-http://l3.amaniyouhra.xyz:80/live/788550011/index.m3u8
-#EXTINF:-1,KIMO SPORTS 7SD
-http://l3.amaniyouhra.xyz:80/live/100666696/index.m3u8
+
 
 ####         BEIN FULL             ####
 
-#EXTINF:-1,beIN Sports 1 Premium 
-http://174.138.184.166:25461/livesport_ios/livesport_android/13
-#EXTINF:-1,beIN Sports 2 Premium 
-http://174.138.184.166:25461/livesport_ios/livesport_android/14
-#EXTINF:-1,beIN Sports 3 Premium 
-http://174.138.184.166:25461/livesport_ios/livesport_android/15
-#EXTINF:-1,beIN Sports 1 HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/16
-#EXTINF:-1,beIN Sports 2 HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/17
-#EXTINF:-1,beIN Sports 3 HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/18
-#EXTINF:-1,beIN Sports 4 HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/19
-#EXTINF:-1,beIN Sports 5 HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/20
-#EXTINF:-1,beIN Sports 1 Premium
-http://174.138.184.166:25461/livesport_ios/livesport_android/26
-#EXTINF:-1,beIN Sports 2 Premium
-http://174.138.184.166:25461/livesport_ios/livesport_android/27
-#EXTINF:-1,beIN Sports 3 Premium
-http://174.138.184.166:25461/livesport_ios/livesport_android/28
-#EXTINF:-1,beIN Sports 1 SD
-http://174.138.184.166:25461/livesport_ios/livesport_android/29
-#EXTINF:-1,beIN Sports 2 SD
-http://174.138.184.166:25461/livesport_ios/livesport_android/30
-#EXTINF:-1,beIN Sports 3 SD
-http://174.138.184.166:25461/livesport_ios/livesport_android/31
-#EXTINF:-1,beIN Sports 4 SD
-http://174.138.184.166:25461/livesport_ios/livesport_android/32
-#EXTINF:-1,beIN Sports 5 SD
-http://174.138.184.166:25461/livesport_ios/livesport_android/33
-#EXTINF:-1,beIN Sport XTRA 1 HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/56
-#EXTINF:-1,beIN Sport XTRA 2 HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/57
+#EXTINF:-1,Bein Sports Premium 01 4K 
+http://yassooo.com:8080/Manaf/Manaf123/80089
+#EXTINF:-1,Bein Sports Premium 02 4K 
+http://yassooo.com:8080/Manaf/Manaf123/80088
+#EXTINF:-1,Bein Sports Premium 03 4K 
+http://yassooo.com:8080/Manaf/Manaf123/80087
+
+#EXTINF:-1,Bein Sports Premium 01 FHD 
+http://yassooo.com:8080/Manaf/Manaf123/80139
+#EXTINF:-1,Bein Sports Premium 02 FHD 
+http://yassooo.com:8080/Manaf/Manaf123/80138
+#EXTINF:-1,Bein Sports Premium 03 FHD 
+http://yassooo.com:8080/Manaf/Manaf123/80137
+
+#EXTINF:-1,Bein Sports Premium 01 FHD
+http://yassooo.com:8080/Manaf/Manaf123/80020
+#EXTINF:-1,Bein Sports Premium 02 FHD
+http://yassooo.com:8080/Manaf/Manaf123/80019
+#EXTINF:-1,Bein Sports Premium 03 FHD
+http://yassooo.com:8080/Manaf/Manaf123/80018
+
+#EXTINF:-1,Bein Sports Premium 01 HD 
+http://yassooo.com:8080/Manaf/Manaf123/80106
+#EXTINF:-1,Bein Sports Premium 02 HD 
+http://yassooo.com:8080/Manaf/Manaf123/80105
+#EXTINF:-1,Bein Sports Premium 03 HD 
+http://yassooo.com:8080/Manaf/Manaf123/80104
+
+#EXTINF:-1,Bein Sports Premium 1 
+http://yassooo.com:8080/Manaf/Manaf123/80061
+#EXTINF:-1,Bein Sports Premium 2 
+http://yassooo.com:8080/Manaf/Manaf123/80060
+#EXTINF:-1,Bein Sports Premium 3 
+http://yassooo.com:8080/Manaf/Manaf123/80059
+
+
 
 ####            SSC SPORTS         ####
 
