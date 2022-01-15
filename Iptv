@@ -61,6 +61,78 @@ http://195.230.23.8:25461/goldstv.com/zVSBfEVhKE/7825
 
 ####          BEIN SD             ####
 
+#EXTM3U
+#EXTINF:-1,Bein Sports 01 
+http://yassooo.com:8080/Manaf/Manaf123/80136
+#EXTINF:-1,Bein Sports 1 LIGA 
+http://yassooo.com:8080/Manaf/Manaf123/80126
+
+#EXTINF:-1,Bein Sports 2 
+http://yassooo.com:8080/Manaf/Manaf123/80135
+
+#EXTINF:-1,Bein Sports 3 
+http://yassooo.com:8080/Manaf/Manaf123/80134
+#EXTINF:-1,Bein Sports 4 
+http://yassooo.com:8080/Manaf/Manaf123/80133
+
+
+#EXTINF:-1,Bein Sports Premium 1
+http://yassooo.com:8080/Manaf/Manaf123/80129
+#EXTINF:-1,Bein Sports Premium 2 
+http://yassooo.com:8080/Manaf/Manaf123/80128
+#EXTINF:-1,Bein Sports Premium 3
+http://yassooo.com:8080/Manaf/Manaf123/80127
+
+#EXTINF:-1,Bein Sports 1 ENGLISH 
+http://yassooo.com:8080/Manaf/Manaf123/80119
+#EXTINF:-1,Bein Sports 2 ENGLISH 
+http://yassooo.com:8080/Manaf/Manaf123/80118
+#EXTINF:-1,Bein Sports MAX 1 ENGLISH 
+http://yassooo.com:8080/Manaf/Manaf123/80117
+
+#EXTINF:-1,Bein Sports Premium 1 FHD 
+http://yassooo.com:8080/Manaf/Manaf123/80137
+#EXTINF:-1,Bein Sports Premium 1 FHD 
+http://yassooo.com:8080/Manaf/Manaf123/80138
+#EXTINF:-1,Bein Sports Premium 1 FHD 
+http://yassooo.com:8080/Manaf/Manaf123/80139
+#EXTINF:-1,Bein Sports Premium 1 FHD 
+http://yassooo.com:8080/Manaf/Manaf123/80140
+
+#EXTINF:-1,Bein Sports Premium 1 SD 
+http://yassooo.com:8080/Manaf/Manaf123/80116
+#EXTINF:-1,Bein Sports Premium 2 SD 
+http://yassooo.com:8080/Manaf/Manaf123/80115
+
+#EXTINF:-1,Bein Sports Premium 3 SD 
+http://yassooo.com:8080/Manaf/Manaf123/80114
+
+#EXTINF:-1,Bein Sports 1 SD
+http://yassooo.com:8080/Manaf/Manaf123/80113
+#EXTINF:-1,Bein Sports 2 SD 
+http://yassooo.com:8080/Manaf/Manaf123/80112
+#EXTINF:-1,Bein Sports 3 SD 
+http://yassooo.com:8080/Manaf/Manaf123/80111
+#EXTINF:-1,Bein Sports 4 SD 
+http://yassooo.com:8080/Manaf/Manaf123/80110
+#EXTINF:-1,Bein Sports 7
+http://yassooo.com:8080/Manaf/Manaf123/80107
+
+#EXTINF:-1,Bein Sports Premium 1 HD
+http://yassooo.com:8080/Manaf/Manaf123/80106
+#EXTINF:-1,Bein Sports Premium 2 HD
+http://yassooo.com:8080/Manaf/Manaf123/80105
+#EXTINF:-1,Bein Sports Premium 3 HD
+http://yassooo.com:8080/Manaf/Manaf123/80104
+#EXTINF:-1,Bein Sports  1 
+http://yassooo.com:8080/Manaf/Manaf123/80103
+#EXTINF:-1,Bein Sports Premium 2 HD
+http://yassooo.com:8080/Manaf/Manaf123/80102
+#EXTINF:-1,Bein Sports Premium 3 HD
+http://yassooo.com:8080/Manaf/Manaf123/80101
+#EXTINF:-1,Bein Sports Premium 4 HD
+http://yassooo.com:8080/Manaf/Manaf123/80100
+
 #EXTINF:-1,beIN SPORTS MAX 1 
 http://yassooo.com:8080/Manaf/Manaf123/120000
 #EXTINF:-1,beIN SPORTS MAX 2 
@@ -159,6 +231,48 @@ http://yassooo.com:8080/Manaf/Manaf123/80060
 #EXTINF:-1,Bein Sports Premium 3 
 http://yassooo.com:8080/Manaf/Manaf123/80059
 
+#EXTINF:-1,Bein Sports 1 FRENCH LOW
+http://yassooo.com:8080/Manaf/Manaf123/80141
+#EXTINF:-1,Bein Sports 2 FRENCH LOW
+http://yassooo.com:8080/Manaf/Manaf123/80140
+#EXTINF:-1,Bein Sports Premium 1 FHD
+http://yassooo.com:8080/Manaf/Manaf123/80139
+#EXTINF:-1,Bein Sports Premium 2 FHD
+http://yassooo.com:8080/Manaf/Manaf123/80138
+#EXTINF:-1,Bein Sports Premium 3 FHD
+http://yassooo.com:8080/Manaf/Manaf123/80137
+#EXTINF:-1,Bein Sports 1 FHD
+http://yassooo.com:8080/Manaf/Manaf123/80136
+#EXTINF:-1,Bein Sports 2 FHD
+http://yassooo.com:8080/Manaf/Manaf123/80135
+#EXTINF:-1,Bein Sports 3 FHD
+http://yassooo.com:8080/Manaf/Manaf123/80134
+#EXTINF:-1,Bein Sports 4 FHD
+http://yassooo.com:8080/Manaf/Manaf123/80133
+#EXTINF:-1,Bein Sports 5 FHD
+http://yassooo.com:8080/Manaf/Manaf123/80132
+#EXTINF:-1,Bein Sports 6 FHD
+http://yassooo.com:8080/Manaf/Manaf123/80131
+#EXTINF:-1,Bein Sports 7 FHD
+http://yassooo.com:8080/Manaf/Manaf123/80130
+#EXTINF:-1,Bein Sports Premium 1 HD
+http://yassooo.com:8080/Manaf/Manaf123/80129
+#EXTINF:-1,Bein Sports Premium 2 HD
+http://yassooo.com:8080/Manaf/Manaf123/80128
+#EXTINF:-1,Bein Sports Premium 3 HD
+http://yassooo.com:8080/Manaf/Manaf123/80127
+#EXTINF:-1,Bein Sports 1 HD
+http://yassooo.com:8080/Manaf/Manaf123/80126
+#EXTINF:-1,Bein Sports 2 HD
+http://yassooo.com:8080/Manaf/Manaf123/80125
+#EXTINF:-1,Bein Sports 3 HD
+http://yassooo.com:8080/Manaf/Manaf123/80124
+#EXTINF:-1,Bein Sports 4 HD
+http://yassooo.com:8080/Manaf/Manaf123/80123
+#EXTINF:-1,Bein Sports 6 HD
+http://yassooo.com:8080/Manaf/Manaf123/80121
+#EXTINF:-1,Bein Sports 7 HD
+http://yassooo.com:8080/Manaf/Manaf123/80120
 
 
 ####            SSC SPORTS         ####
@@ -172,6 +286,89 @@ http://geo-stream.xyz:8880/live/54393917/67737458/466093.ts
 
 #####            OSN          ####
 
+#EXTINF:-1,ART Aflam1
+http://yassooo.com:8080/Manaf/Manaf123/80188
+#EXTINF:-1,ART AFLAM2
+http://yassooo.com:8080/Manaf/Manaf123/80187
+#EXTINF:-1,ART Hikayat
+http://yassooo.com:8080/Manaf/Manaf123/80186
+#EXTINF:-1,ART Hikayat2
+http://yassooo.com:8080/Manaf/Manaf123/80185
+#EXTINF:-1,ART cinema
+http://yassooo.com:8080/Manaf/Manaf123/80184
+#EXTINF:-1,Bein Movies Premiere 1
+http://yassooo.com:8080/Manaf/Manaf123/80183
+#EXTINF:-1,Bein Movies Action 2
+http://yassooo.com:8080/Manaf/Manaf123/80182
+#EXTINF:-1,Bein Movies Drama 3
+http://yassooo.com:8080/Manaf/Manaf123/80181
+#EXTINF:-1,Bein Movies Family 4
+http://yassooo.com:8080/Manaf/Manaf123/80180
+#EXTINF:-1,Bein Drama 1 AR
+http://yassooo.com:8080/Manaf/Manaf123/80179
+#EXTINF:-1,Bein Series 1
+http://yassooo.com:8080/Manaf/Manaf123/80178
+#EXTINF:-1,Bein Series 2
+http://yassooo.com:8080/Manaf/Manaf123/80177
+#EXTINF:-1,FOX Life
+http://yassooo.com:8080/Manaf/Manaf123/80176
+#EXTINF:-1,FOX Crime
+http://yassooo.com:8080/Manaf/Manaf123/80175
+#EXTINF:-1,FOX Riwayat
+http://yassooo.com:8080/Manaf/Manaf123/80174
+#EXTINF:-1,FOX Movies
+http://yassooo.com:8080/Manaf/Manaf123/80173
+#EXTINF:-1,FOX Action Movies
+http://yassooo.com:8080/Manaf/Manaf123/80172
+#EXTINF:-1,Star World HD
+http://yassooo.com:8080/Manaf/Manaf123/80171
+#EXTINF:-1,Star Movies
+http://yassooo.com:8080/Manaf/Manaf123/80170
+#EXTINF:-1,AMC
+http://yassooo.com:8080/Manaf/Manaf123/80169
+#EXTINF:-1,HGTV
+http://yassooo.com:8080/Manaf/Manaf123/80168
+#EXTINF:-1,Bein Movies Show
+http://yassooo.com:8080/Manaf/Manaf123/80167
+#EXTINF:-1,Fatafeat
+http://yassooo.com:8080/Manaf/Manaf123/80166
+#EXTINF:-1,FOOD Network
+http://yassooo.com:8080/Manaf/Manaf123/80165
+#EXTINF:-1,Outdoor
+http://yassooo.com:8080/Manaf/Manaf123/80164
+#EXTINF:-1,Travel Channel
+http://yassooo.com:8080/Manaf/Manaf123/80163
+#EXTINF:-1,National Geographic
+http://yassooo.com:8080/Manaf/Manaf123/80160
+#EXTINF:-1,National Geographic WILD
+http://yassooo.com:8080/Manaf/Manaf123/80158
+#EXTINF:-1,Baraem TV
+http://yassooo.com:8080/Manaf/Manaf123/80157
+#EXTINF:-1,Baby TV
+http://yassooo.com:8080/Manaf/Manaf123/80156
+
+#EXTINF:-1,Bein Sports Premium 1 LOW
+http://yassooo.com:8080/Manaf/Manaf123/80155
+#EXTINF:-1,Bein Sports Premium 2 LOW
+http://yassooo.com:8080/Manaf/Manaf123/80154
+#EXTINF:-1,Bein Sports Premium 3 LOW
+http://yassooo.com:8080/Manaf/Manaf123/80153
+#EXTINF:-1,Bein Sports 1 LOW
+http://yassooo.com:8080/Manaf/Manaf123/80152
+#EXTINF:-1,Bein Sports 3 LOW
+http://yassooo.com:8080/Manaf/Manaf123/80150
+#EXTINF:-1,Bein Sports 2 ENGLISH LOW
+http://yassooo.com:8080/Manaf/Manaf123/80143
+#EXTINF:-1,Bein Sports 4 ENGLISH LOW
+http://yassooo.com:8080/Manaf/Manaf123/80149
+#EXTINF:-1,Bein Sports 5 ENGLISH LOW
+http://yassooo.com:8080/Manaf/Manaf123/80148
+#EXTINF:-1,Bein Soprts 6 ENGLISH LOW
+http://yassooo.com:8080/Manaf/Manaf123/80147
+#EXTINF:-1,Bein Sports 7 LOW
+http://yassooo.com:8080/Manaf/Manaf123/80146
+#EXTINF:-1,Bein Sports 1 MAX LOW
+http://yassooo.com:8080/Manaf/Manaf123/80142
 #EXTINF:-1,OSN Yahala
 http://yassooo.com:8080/Manaf/Manaf123/80233
 #EXTINF:-1,OSN Yahala Oula
