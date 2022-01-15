@@ -19,11 +19,6 @@ http://s1.urhdiptv.net:8080/Manaf/Manaf123/120810
 #EXTINF:-1,BEIN SPORTS MAX 2 4K 
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/120809
 
-#EXTINF:-1,Bein Sport Max 1 4K
-http://new-pro.tv:8080/4474494445842022/Nadim2022/290286
-#EXTINF:-1,Bein Sport Max 2 4K
-http://new-pro.tv:8080/4474494445842022/Nadim2022/290287
-
 ####          BEIN FHD            ####
 
 #EXTINF:-1,BEIN SPORTS MAX 1 FHD
@@ -34,11 +29,6 @@ http://s1.urhdiptv.net:8080/Manaf/Manaf123/120807
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/120674
 #EXTINF:-1,BEIN SPORTS MAX 2 FHD
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/120675
-
-#EXTINF:-1,Bein Sport Max 1 FHD
-http://new-pro.tv:8080/4474494445842022/Nadim2022/290288
-#EXTINF:-1,Bein Sport Max 2 FHD
-http://new-pro.tv:8080/4474494445842022/Nadim2022/290289
 
 ####          BEIN HD             ####
 
@@ -68,11 +58,6 @@ http://195.230.23.8:25461/goldstv.com/zVSBfEVhKE/7842
 http://195.230.23.8:25461/goldstv.com/zVSBfEVhKE/7824
 #EXTINF:-1,BEIN SPORTS Max HD2
 http://195.230.23.8:25461/goldstv.com/zVSBfEVhKE/7825
-
-#EXTINF:-1,Bein Sport Max 1 HD
-http://new-pro.tv:8080/4474494445842022/Nadim2022/290290
-#EXTINF:-1,Bein Sport Max 2 HD
-http://new-pro.tv:8080/4474494445842022/Nadim2022/290291
 
 ####          BEIN SD             ####
 
@@ -118,16 +103,10 @@ http://s1.urhdiptv.net:8080/Manaf/Manaf123/120803
 
 ####            KIMO HD             ####
 
-#EXTINF:-1, KIMO SPORTS MAX HD1
-http://yazansportpro.xyz:25461/livesport_ios/livesport_android/95
-#EXTINF:-1, KIMO SPORTS MAX HD2
-http://yazansportpro.xyz:25461/livesport_ios/livesport_android/94
 
 
-#EXTINF:-1, KIMO SPORTS MAX HD1
-http://n3.anfalrou.xyz:80/live/9962564400/index.m3u8
-#EXTINF:-1, KIMO SPORTS MAX HD2
-http://n3.anfalrou.xyz:80/live/88002555210/index.m3u8
+
+
 #EXTINF:-1,KIMO SPORTS 1 Premium 
 http://174.138.184.166:25461/livesport_ios/livesport_android/13
 #EXTINF:-1,KIMO SPORT PREMIUM 2HD
