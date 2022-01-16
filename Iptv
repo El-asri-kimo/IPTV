@@ -489,6 +489,50 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_s
 #EXTINF:-1 tvg-id="TeleMaroc.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="General",Télé Maroc (1080p)
 https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
 
+
+####           ALGERIA TV          ####
+
+
+#EXTINF:-1,EL BILAD TV
+http://yassooo.com:8080/Manaf/Manaf123/591
+#EXTINF:-1,PROGRAMME NATIONAL
+http://yassooo.com:8080/Manaf/Manaf123/589
+#EXTINF:-1,Samira
+http://yassooo.com:8080/Manaf/Manaf123/588
+#EXTINF:-1,Bahia TV
+http://yassooo.com:8080/Manaf/Manaf123/587
+#EXTINF:-1,EL FADJR TV 
+http://yassooo.com:8080/Manaf/Manaf123/586
+#EXTINF:-1,Echorouk News
+http://yassooo.com:8080/Manaf/Manaf123/585
+#EXTINF:-1,CANAL ALGERIE
+http://yassooo.com:8080/Manaf/Manaf123/584
+#EXTINF:-1,ENNAHAR TV
+http://yassooo.com:8080/Manaf/Manaf123/583
+#EXTINF:-1,Alanis
+http://yassooo.com:8080/Manaf/Manaf123/582
+#EXTINF:-1,TV5
+http://yassooo.com:8080/Manaf/Manaf123/580
+#EXTINF:-1,Beur
+http://yassooo.com:8080/Manaf/Manaf123/579
+#EXTINF:-1,Dzair Jannah
+http://yassooo.com:8080/Manaf/Manaf123/577
+#EXTINF:-1,EchoroukTV
+http://yassooo.com:8080/Manaf/Manaf123/576
+#EXTINF:-1,El Heddaf.TV
+http://yassooo.com:8080/Manaf/Manaf123/575
+#EXTINF:-1,ELHAYA ALGERIE
+http://yassooo.com:8080/Manaf/Manaf123/574
+#EXTINF:-1,EL DJAZAIRIA One
+http://yassooo.com:8080/Manaf/Manaf123/572
+#EXTINF:-1,EL HAYAT TV ALGERIE
+http://yassooo.com:8080/Manaf/Manaf123/571
+#EXTINF:-1,Awraas TV channel
+http://yassooo.com:8080/Manaf/Manaf123/569
+#EXTINF:-1,El Djazair N1
+http://yassooo.com:8080/Manaf/Manaf123/568
+
+
 ####           MBC GROUPE          ####
 
 #EXTINF:-1,MBC1 HD
