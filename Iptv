@@ -255,6 +255,8 @@ http://yassooo.com:8080/Manaf/Manaf123/80120
 
 ####            SSC SPORTS         ####
 
+#EXTINF:-1,RTI SPORTS
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/122090
 #EXTINF:-1,SSC 1 HD
 http://yassooo.com:8080/Manaf/Manaf123/98917
 #EXTINF:-1,SSC 2 HD
@@ -441,7 +443,8 @@ http://yassooo.com:8080/Manaf/Manaf123/80191
 http://yassooo.com:8080/Manaf/Manaf123/80190
 #EXTINF:-1,OSN Kids Zone
 http://yassooo.com:8080/Manaf/Manaf123/80189
-
+#EXTINF:-1,DISCOVERY FAMILY HD
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/122137
 ####               MAROC TV             ####
 
 #EXTINF:-1 tvg-id="2MMonde.ma" tvg-country="MA" tvg-language="Arabic;French" tvg-logo="https://i.imgur.com/CwwRn4b.png" group-title="General",2M Monde (360p) [Geo-blocked]
@@ -581,6 +584,7 @@ http://yassooo.com:8080/Manaf/Manaf123/80255
 http://yassooo.com:8080/Manaf/Manaf123/80254
 #EXTINF:-1 tvg-id="Ajyal TV ARB" tvg-name="Ajyal TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/j1Xmygq.jpg" group-title="",Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+
 ####             NETFLIX            #####
 
 #EXTINF:-1,Netflix Action
@@ -603,6 +607,9 @@ http://yassooo.com:8080/Manaf/Manaf123/79878
 http://yassooo.com:8080/Manaf/Manaf123/79877
 
 ####           KIMO NETFLIX          ####
+
+#EXTINF:-1,MIX MOVIES 
+http://yassooo.com:8080/Manaf/Manaf123/302
 
 #EXTINF:-1,Netflix 1
 http://yassooo.com:8080/Manaf/Manaf123/79885
@@ -668,7 +675,8 @@ http://yassooo.com:8080/Manaf/Manaf123/79848
 http://yassooo.com:8080/Manaf/Manaf123/79847
 #EXTINF:-1,Netflix 32
 http://yassooo.com:8080/Manaf/Manaf123/79846
-
+#EXTINF:-1,NETFLIX 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120822
 
 ####         REEL PX       ####
 
@@ -681,3 +689,34 @@ http://yassooo.com:8080/Manaf/Manaf123/80250
 http://yassooo.com:8080/Manaf/Manaf123/80249
 #EXTINF:-1,REEL PX Action
 http://yassooo.com:8080/Manaf/Manaf123/80248
+
+              QURAN      
+
+#EXTINF:-1,EGYPT QURAN KAREEM
+http://yassooo.com:8080/Manaf/Manaf123/317
+#EXTINF:-1, Mekka
+http://yassooo.com:8080/Manaf/Manaf123/350
+#EXTINF:-1, Midena
+http://yassooo.com:8080/Manaf/Manaf123/351
+
+                INDIA
+
+#EXTINF:-1,india 2
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/121851
+#EXTINF:-1, india 3 http://s1.urhdiptv.net:8080/Manaf/Manaf123/121850
+#EXTINF:-1,india 4
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/121849
+#EXTINF:-1,india 5
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/121848
+
+                 FRANCE    
+
+#EXTINF:-1, TeleSud France
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/122088
+#EXTINF:-1,RT FRANCE
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/122087
+#EXTINF:-1,TV5 MONDE INFO
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/122085
+
+
+
