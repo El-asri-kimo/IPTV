@@ -702,8 +702,141 @@ http://yassooo.com:8080/Manaf/Manaf123/317
 http://yassooo.com:8080/Manaf/Manaf123/350
 #EXTINF:-1, Midena
 http://yassooo.com:8080/Manaf/Manaf123/351
+*********************************************
 
-                INDIA
+******************  MIX  **********************
+
+#EXTINF:0,Love Nature
+http://58.65.171.202:8000/play/1103/index.m3u8
+#EXTINF:-1,Discovery World HD
+http://181.191.141.4:9981/stream/channelid/1170775916?profile=pass
+#EXTINF:-1,Discovery Channel HD
+http://181.191.141.4:9981/stream/channelid/1841823551?profile=pass
+#EXTINF:-1,Discovery H&H HD
+http://181.191.141.4:9981/stream/channelid/593338370?profile=pass
+#EXTINF:-1,Discovery Kids
+http://181.191.141.4:9981/stream/channelid/172516479?profile=pass
+#EXTINF:-1,Discovery Science
+http://181.191.141.4:9981/stream/channelid/2084815926?profile=pass
+#EXTINF:-1,Discovery Theater HD
+http://181.191.141.4:9981/stream/channelid/811740311?profile=pass
+#EXTINF:-1,Discovery Turbo
+http://181.191.141.4:9981/stream/channelid/273907486?profile=pass
+#EXTINF:-1,Discovery World HD
+http://181.191.141.4:9981/stream/channelid/1170775916?profile=pass
+#EXTINF:-1,Disney Channel HD
+http://181.191.141.4:9981/stream/channelid/336517816?profile=pass
+#EXTINF:-1,Disney Junior
+http://181.191.141.4:9981/stream/channelid/921973190?profile=pass
+#EXTINF:-1,Cartoon Network HD
+http://181.191.141.4:9981/stream/channelid/685601258?profile=pass
+#EXTINF:-1,Disney 
+http://181.191.141.4:9981/stream/channelid/1418456914?profile=pass
+#EXTINF:-1,Galaxy Premium
+http://iptv.tvmalaysia.cc:80/penang183/penang183/8838
+http://iptv.tvmalaysia.cc:80/movie/penang183/penang183/321.mp4
+#EXTINF:-1,Film & Arts HD
+http://181.191.141.4:9981/stream/channelid/1301502662?profile=pass
+ 
+********************* SPORT *************************
+
+#EXTINF:-1,Fox Sports 2 HD
+http://181.191.141.4:9981/stream/channelid/1795408407?profile=pass
+#EXTINF:-1,Fox Sports 3 HD
+http://181.191.141.4:9981/stream/channelid/1539821382?profile=pass
+#EXTINF:-1,Fox Sports HD
+http://181.191.141.4:9981/stream/channelid/324572227?profile=pass
+#EXTINF:-1,Fox Sports Premium HD
+http://181.191.141.4:9981/stream/channelid/60660329?profile=pass
+#EXTINF:-1,ESPN 2
+http://181.191.141.4:9981/stream/channelid/371483615?profile=pass
+#EXTINF:-1,ESPN 2 HD
+http://181.191.141.4:9981/stream/channelid/462957684?profile=pass
+#EXTINF:-1,ESPN 3 HD
+http://181.191.141.4:9981/stream/channelid/2062388909?profile=pass
+#EXTINF:-1,ESPN Extra HD
+http://181.191.141.4:9981/stream/channelid/1788551776?profile=pass
+#EXTINF:-1,ESPN HD
+http://181.191.141.4:9981/stream/channelid/1469125493?profile=pass
+#EXTINF:-1,TNT Sports HD
+http://181.191.141.4:9981/stream/channelid/1708683349?profile=pass
+#EXTINF:-1,TyC Sports HD
+http://181.191.141.4:9981/stream/channelid/1517208799?profile=pass
+#EXTINF:-1,VIASAT SPORT HD
+http://185.140.187.67:8085/udp/238.2.16.198:1234
+#EXTINF:-1,Sport Uk HD
+http://185.140.187.67:8085/udp/238.2.16.250:1234
+#EXTINF:-1,Sport 1 HD
+http://185.140.187.67:8085/udp/238.2.17.4:1234
+#EXTINF:-1,Sports 2 HD
+http://185.140.187.67:8085/udp/238.2.17.15:1234
+#EXTINF:-1,Sports 3 HD
+http://185.140.187.67:8085/udp/238.2.17.73:1234
+#EXTINF:-1,Sport HD
+http://185.140.187.67:8085/udp/238.2.17.12:1234
+
+******************** ALL **********************
+
+#EXTINF:-1,HBO
+http://181.191.141.4:9981/stream/channelid/1891222005?profile=pass
+#EXTINF:-1,HBO 2
+http://181.191.141.4:9981/stream/channelid/1348061264?profile=pass
+#EXTINF:-1,HBO Family
+http://181.191.141.4:9981/stream/channelid/404483297?profile=pass
+#EXTINF:-1,HBO Plus
+http://181.191.141.4:9981/stream/channelid/340621241?profile=pass
+#EXTINF:-1,Sony HD 
+http://181.191.141.4:9981/stream/channelid/900158665?profile=pass
+#EXTINF:-1,Nickelodeon
+http://181.191.141.4:9981/stream/channelid/985295901?profile=pass
+#EXTINF:-1,Universal HD
+http://181.191.141.4:9981/stream/channelid/1228704801?profile=pass
+#EXTINF:-1,Warner Channel HD
+http://181.191.141.4:9981/stream/channelid/1818231013?profile=pass
+#EXTINF:-1,Smile HD
+http://185.140.187.67:8085/udp/238.2.16.138:1234
+#EXTINF:-1,Animal Planet HD
+http://185.140.187.67:8085/udp/238.2.16.175:1234
+#EXTINF:-1,FOX life HD
+http://185.140.187.67:8085/udp/238.2.16.179:1234
+#EXTINF:-1,Hollywood HD
+http://185.140.187.67:8085/udp/238.2.16.176:1234
+#EXTINF:-1,HBO HD
+http://185.140.187.67:8085/udp/238.2.16.187:1234
+#EXTINF:-1,HGTV HD
+http://185.140.187.67:8085/udp/238.2.16.189:1234
+#EXTINF:-1,Travel + Adventure HD
+http://185.140.187.67:8085/udp/238.2.16.180:1234
+#EXTINF:-1,VIP Premier HD
+http://185.140.187.67:8085/udp/238.2.16.196:1234
+#EXTINF:-1,VIP Megahit HD
+http://185.140.187.67:8085/udp/238.2.16.195:1234
+#EXTINF:-1,Discovery HD
+http://185.140.187.67:8085/udp/238.2.16.147:1234
+#EXTINF:-1,FOX HD
+http://185.140.187.67:8085/udp/238.2.16.178:1234
+#EXTINF:-1,KHL prime HD
+http://185.140.187.67:8085/udp/238.2.16.177:1234
+#EXTINF:-1,HISTORY HD
+http://185.140.187.67:8085/udp/238.2.16.188:1234
+#EXTINF:-1,VIASAT HISTORY HD
+http://185.140.187.67:8085/udp/238.2.16.197:1234
+#EXTINF:-1,DTX HD
+http://185.140.187.67:8085/udp/238.2.16.211:1234
+#EXTINF:-1,Travel Channel HD
+http://185.140.187.67:8085/udp/238.2.16.190:1234
+#EXTINF:-1,Animal Planet
+http://185.193.240.245:8000/play/a01n/index.m3u8
+#EXTINF:-1,Cine Star Comedy
+http://185.193.240.245:8000/play/a01r/index.m3u8
+#EXTINF:-1,Cine Star Fantasy
+http://185.193.240.245:8000/play/a01p/index.m3u8
+#EXTINF:-1,Cinemania
+http://185.193.240.245:8000/play/a01q/index.m3u8
+#EXTINF:-1,Discovery
+http://185.193.240.245:8000/play/a01m/index.m3u8
+
+              *******  INDIA ********
 
 #EXTINF:-1,india 2
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/121851
@@ -713,7 +846,7 @@ http://s1.urhdiptv.net:8080/Manaf/Manaf123/121849
 #EXTINF:-1,india 5
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/121848
 
-                 FRANCE    
+             ******** FRANCE *********
 
 #EXTINF:-1, TeleSud France
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/122088
