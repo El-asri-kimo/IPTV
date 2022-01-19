@@ -1,15 +1,6 @@
 #EXTM3U 
 ####           BEIN 4K            #####
 
-#EXTINF:-1,beIN SPORTS MAX 1 4K
-http://yassooo.com:8080/Manaf/Manaf123/120006
-#EXTINF:-1,beIN SPORTS MAX 2 4K 
-http://yassooo.com:8080/Manaf/Manaf123/120005
-
-#EXTINF:-1,BEIN SPORTS MAX 1 4K 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120006
-#EXTINF:-1,BEIN SPORTS MAX 2 4K 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120005
 #EXTINF:-1,BEIN SPORTS MAX 1 4K 
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/120676
 #EXTINF:-1,BEIN SPORTS MAX 2 4K 
