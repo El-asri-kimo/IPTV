@@ -760,7 +760,14 @@ http://iptv.tvmalaysia.cc:80/movie/penang183/penang183/321.mp4
 http://181.191.141.4:9981/stream/channelid/1301502662?profile=pass
  
 ********************* SPORT *************************
-
+#EXTINF:-1 , ALB | K SPORT 1
+http://93.157.62.180/KSport1/index.m3u8
+#EXTINF:-1 , ALB | K SPORT 2
+http://93.157.62.180/KSport2/index.m3u8
+#EXTINF:-1 , ALB | K SPORT 3
+http://93.157.62.180/KSport3/index.m3u8
+#EXTINF:-1 , ALB | K SPORT 4
+http://93.157.62.180/KSport4/index.m3u8
 #EXTINF:-1,Fox Sports 2 HD
 http://181.191.141.4:9981/stream/channelid/1795408407?profile=pass
 #EXTINF:-1,Fox Sports 3 HD
