@@ -10,6 +10,43 @@ http://s1.urhdiptv.net:8080/Manaf/Manaf123/120810
 #EXTINF:-1,BEIN SPORTS MAX 2 4K 
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/120809
 
+*********** Back UP ***********
+
+#EXTINF:-1,BEIN SPORTS MAX HD1
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/95
+#EXTINF:-1, BEIN SPORTS MAX HD2
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/94
+
+#EXTINF:-1, BEIN SPORT PREMIUM 1HD
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/13
+#EXTINF:-1, BEIN SPORT PREMIUM 2HD
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/14
+#EXTINF:-1, BEIN SPORT PREMIUM 2HD
+
+http://n2.aminouras.xyz:80/live/6161949878/index.m3u8
+#EXTINF:-1, BEIN SPORT PREMIUM 3HD
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/15
+#http://n2.aminouras.xyz:80/live/61512788878/index.m3u8
+#EXTINF:-1, BEIN SPORTS 1HD
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/16
+#http://n2.aminouras.xyz:80/live/918454578001/index.m3u8
+#EXTINF:-1, BEIN SPORTS 2HD
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/17
+#http://n2.aminouras.xyz:80/live/69854211/index.m3u8
+#EXTINF:-1, BEIN SPORTS 3HD
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/18
+#http://n2.aminouras.xyz:80/live/645587700/index.m3u8
+#EXTINF:-1, BEIN SPORTS 4HD
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/19
+#http://n2.aminouras.xyz:80/live/9787488847/index.m3u8
+#EXTINF:-1, BEIN SPORTS 5HD
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/20
+#http://n2.aminouras.xyz:80/live/610303030/index.m3u8
+#EXTINF:-1, BEIN SPORTS 6HD
+http://n2.aminouras.xyz:80/live/1515000000/index.m3u8
+#EXTINF:-1, BEIN SPORTS 7HD
+http://n2.aminouras.xyz:80/live/791001144/index.m3u8
+
 ####          BEIN FHD            ####
 
 #EXTINF:-1,BEIN SPORTS MAX 1 FHD
