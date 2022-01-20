@@ -889,9 +889,14 @@ http://s1.urhdiptv.net:8080/Manaf/Manaf123/121849
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/121848
 
              ******** FRANCE *********
-
+#EXTINF:-1,RMC Sport 1 HD
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/625226
 #EXTINF:-1, RMC Sport 2 HD
 http://vadaaaa.com:2086/YkL75OoKcg/juouO2DERG/31643
+#EXTINF:-1, RMC Sport 3 HD
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/625233
+#EXTINF:-1, RMC Sport 4 HD
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682961
 #EXTINF:-1,RMC Story FHD
 http://vadaaaa.com:2086/YkL75OoKcg/juouO2DERG/31651
 #EXTINF:-1,L'équipe HD
@@ -931,7 +936,8 @@ http://vadaaaa.com:2086/YkL75OoKcg/juouO2DERG/31479
 http://vadaaaa.com:2086/YkL75OoKcg/juouO2DERG/31481
 #EXTM3U:-1,BeIn Sports MAX 10 HD
 http://vadaaaa.com:2086/YkL75OoKcg/juouO2DERG/31483
-
+#EXTINF:-1,beIN Sports News FHD
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/676904
 ***************** ARENA SPORT ******************
 
 #EXTINF:-1, Arena Sport 1 HD
@@ -945,8 +951,9 @@ http://vadaaaa.com:2086/YkL75OoKcg/juouO2DERG/759
 #EXTINF:-1, Arena Sport 5 HD
 http://vadaaaa.com:2086/YkL75OoKcg/juouO2DERG/1388
 
-*****************************************
+********************   UK   *********************
 
-#EXTINF:-1,SKY SPORTS ACTION
-http://vadaaaa.com:2086/YkL75OoKcg/juouO2DERG/634
-
+#EXTINF:-1,Premier Sports 1 HD
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682991
+#EXTINF:-1,Premier Sports 2 HD
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682992
