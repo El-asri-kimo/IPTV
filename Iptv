@@ -10,6 +10,12 @@ http://s1.urhdiptv.net:8080/Manaf/Manaf123/120810
 #EXTINF:-1,BEIN SPORTS MAX 2 4K 
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/120809
 
+***************** Bein MAX SD ***************
+#EXTINF:-1,BEIN MAX 1SD
+http://protv.top:8000/live/88107922460136017/1593574628/89030.ts
+#EXTINF:-1,BEIN MAX 2SD
+http://protv.top:8000/live/88107922460136017/1593574628/89031.ts
+
 *********** Back UP ***********
 
 #EXTINF:-1,BEIN SPORTS MAX HD1
