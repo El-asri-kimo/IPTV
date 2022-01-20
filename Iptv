@@ -476,8 +476,13 @@ http://yassooo.com:8080/Manaf/Manaf123/80190
 http://yassooo.com:8080/Manaf/Manaf123/80189
 #EXTINF:-1,DISCOVERY FAMILY HD
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/122137
+
 ####               MAROC TV             ####
 
+#EXTINF:-1,ARRYADIA TNT
+http://protv.top:8000/live/88107922460136017/1593574628/14753.ts
+#EXTINF:-1,ASSABIAA
+http://protv.top:8000/live/88107922460136017/1593574628/22660.ts
 #EXTINF:-1 tvg-id="2MMonde.ma" tvg-country="MA" tvg-language="Arabic;French" tvg-logo="https://i.imgur.com/CwwRn4b.png" group-title="General",2M Monde (360p) [Geo-blocked]
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
 #EXTINF:-1 tvg-id="AlAoula.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZFHjIVU.png" group-title="General",Al Aoula (360p) [Geo-blocked]
