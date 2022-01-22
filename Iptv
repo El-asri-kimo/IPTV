@@ -935,7 +935,8 @@ http://s1.urhdiptv.net:8080/Manaf/Manaf123/121850
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/121849
 #EXTINF:-1,india 5
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/121848
-
+#EXTINF:-1,Bflix Movies (480p)
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
              ******** FRANCE *********
 #EXTINF:-1,RMC Sport 1 HD
 http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/625226
@@ -1020,7 +1021,7 @@ http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682978
 #EXTINF:-1,AD Sport 2 HD
 http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682979
 #EXTINF:-1,AD Sport 3 HD
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682973
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
 #EXTINF:-1,AD Sport 4 HD
 http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/5404
 #EXTINF:-1,AD Sport 5 HD
@@ -1119,7 +1120,4 @@ http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682912
 https://cloudfront.tubi.video/5b97b1f5-a605-44a5-a192-12e10beece40/sd846jzc/stream.m3u8
 #EXTINF:-1,American Horrors (720p)
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1,Bflix Movies (480p)
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
-#EXTINF:-1,Filmes Suspense (720p)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls
+
