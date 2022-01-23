@@ -1060,8 +1060,10 @@ http://protv.top:8000/live/88107922460136017/1593574628/74104.ts
 #EXTINF:-1,MAJD TAGHAREED
 http://protv.top:8000/live/88107922460136017/1593574628/74178.ts
 
-********************** Documentry ***************
+****************** Documentry ***************
 
+#EXTINF:-1,USHUAIA TV HD
+http://2022tv.co:80/george/george/4982
 #EXTINF:-1,AD Nat Geo HD
 http://protv.top:8000/live/88107922460136017/1593574628/37982.ts
 #EXTINF:-1,Nat Geo SD
