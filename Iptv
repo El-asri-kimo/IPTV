@@ -866,7 +866,10 @@ http://190.2.148.141:8080/bar7638/tracks-v1a1/mono.m3u8
 http://190.2.148.141:8080/bar7667/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DUHOK HD
 http://88.198.32.36:1935/live/Duhok--Sports--HD/chunklist.m3u8
-
+#EXTINF:-1,ASO SPORT HD
+http://190.2.148.141:8080/bar7671/tracks-v1a1/mono.m3u8
+#EXTINF:-1,LIKE SPORT HD
+http://halowtv.xyz:1935/live/Likesport/chunklist_w220838970.m3u8
 ******************** ALL **********************
 
 #EXTINF:-1,HBO
