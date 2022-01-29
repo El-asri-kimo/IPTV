@@ -860,6 +860,12 @@ http://185.140.187.67:8085/udp/238.2.17.73:1234
 http://185.140.187.67:8085/udp/238.2.17.12:1234
 #EXTINF:-1, LA LIGA
 http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/225
+#EXTINF:-1,NRT SPORT HD
+http://190.2.148.141:8080/bar7638/tracks-v1a1/mono.m3u8
+#EXTINF:-1,RING SPORT HD
+http://190.2.148.141:8080/bar7667/tracks-v1a1/mono.m3u8
+#EXTINF:-1,DUHOK HD
+http://88.198.32.36:1935/live/Duhok--Sports--HD/chunklist.m3u8
 
 ******************** ALL **********************
 
