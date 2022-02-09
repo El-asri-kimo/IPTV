@@ -1,1147 +1,401 @@
 #EXTM3U 
-####           BEIN 4K            #####
-#EXTINF:-1,السيرفر الاحتياطي: https://bit.ly/kimo4free
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/4
 #EXTINF:-1,إنضموا للجروب: IPTV FOR FREE [by KIMO]
-http://mobitv.xyz:25461/fXAbC1a2NV/FQycn4mUmV/5
-#EXTINF:-1,BEIN SPORTS MAX 1 4K 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120676
-#EXTINF:-1,BEIN SPORTS MAX 2 4K 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120677
-#EXTINF:-1,BEIN SPORTS MAX 1 4K 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120810
-#EXTINF:-1,BEIN SPORTS MAX 2 4K 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120809
+http://38.143.137.105:8080/Pebbles/Pebbles/393708
 
-***************** Bein MAX SD ***************
-#EXTINF:-1,BEIN MAX 1SD
-http://protv.top:8000/live/88107922460136017/1593574628/89030.ts
-#EXTINF:-1,BEIN MAX 2SD
-http://protv.top:8000/live/88107922460136017/1593574628/89031.ts
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="France AR",AR: Bein Sport 1HD
+http://190.115.29.22:8080/carter/GUV1bMq2VK/6872
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="France AR",AR: Bein Sport 2HD
+http://190.115.29.22:8080/carter/GUV1bMq2VK/6871
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="France AR",AR: Bein Sport 3HD
+http://190.115.29.22:8080/carter/GUV1bMq2VK/6870
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="France AR",AR: Bein Sport 4HD
+http://190.115.29.22:8080/carter/GUV1bMq2VK/6869
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="France AR",AR: Bein Sport 5HD
+http://190.115.29.22:8080/carter/GUV1bMq2VK/6868
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="France AR",AR: Bein Sport 6HD
+http://190.115.29.22:8080/carter/GUV1bMq2VK/6867
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="France AR",AR: Bein Sport 7HD
+http://190.115.29.22:8080/carter/GUV1bMq2VK/6866
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="France AR",AR: Bein Sport 8HD
+http://190.115.29.22:8080/carter/GUV1bMq2VK/6865
+#EXTINF:0 tvg-id="bein9hd.jsc" group-title="France AR",AR: Bein Sport 9HD
+http://190.115.29.22:8080/carter/GUV1bMq2VK/6864
+#EXTINF:0 tvg-id="bein10hd.jsc" group-title="France AR",AR: Bein Sport 10HD
+http://190.115.29.22:8080/carter/GUV1bMq2VK/6863
+#EXTINF:0 tvg-id="ext" group-title="France AR",AR: Bein Sport 11HD
+http://190.115.29.22:8080/carter/GUV1bMq2VK/2745
+#EXTINF:0 tvg-id="ext" group-title="France AR",AR: Bein Sport 12HD
+http://190.115.29.22:8080/carter/GUV1bMq2VK/2746
 
-*********** Back UP ***********
+#EXTINF:0 tvg-id="ext" group-title="France AR",SA: SSC Sports FHD 7
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/244000
+#EXTINF:0 tvg-id="ext" group-title="France AR",SA: SSC Sports FHD 6
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243999
+#EXTINF:0 tvg-id="ext" group-title="France AR",SA: SSC Sports FHD 5
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243998
+#EXTINF:0 tvg-id="ext" group-title="France AR",SA: SSC Sports FHD 4
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243997
+#EXTINF:0 tvg-id="ext" group-title="France AR",SA: SSC Sports FHD 3
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243996
+#EXTINF:0 tvg-id="ext" group-title="France AR",SA: SSC Sports FHD 2
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243995
+#EXTINF:0 tvg-id="ext" group-title="France AR",SA: SSC Sports FHD 1
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243994
 
-#EXTINF:-1,BEIN SPORTS MAX HD1
-http://yazansportpro.xyz:25461/livesport_ios/livesport_android/95
-#EXTINF:-1, BEIN SPORTS MAX HD2
-http://yazansportpro.xyz:25461/livesport_ios/livesport_android/94
+#EXTINF:0 tvg-id="OSNMovies.net" group-title="Channels",AR: OSN MOVIES HD
+http://38.143.137.105:8080/Pebbles/Pebbles/393701
+#EXTINF:0 tvg-id="OSNMoviesAction.net" group-title="Channels",AR: OSN MOVIES ACTION HD
+http://38.143.137.105:8080/Pebbles/Pebbles/393702
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR: OSN MOVIES FIRST HD
+http://38.143.137.105:8080/Pebbles/Pebbles/393703
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR: OSN STAR MOVIES HD
+http://38.143.137.105:8080/Pebbles/Pebbles/393707
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR: OSN STAR WORLD HD
+http://38.143.137.105:8080/Pebbles/Pebbles/393706
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR: OSN MBC 1 HD
+http://38.143.137.105:8080/Pebbles/Pebbles/30293
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR: OSN MBC 2 HD
+http://38.143.137.105:8080/Pebbles/Pebbles/30292
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR: OSN MBC 3 HD
+http://38.143.137.105:8080/Pebbles/Pebbles/30291
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR: OSN MBC 4 HD
+http://38.143.137.105:8080/Pebbles/Pebbles/55987
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR: OSN MBC 5 HD
+http://38.143.137.105:8080/Pebbles/Pebbles/25043
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR: OSN MBC DRAMA HD
+http://38.143.137.105:8080/Pebbles/Pebbles/30288
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR: OSN MBC DRAMA PLUS HD
+http://38.143.137.105:8080/Pebbles/Pebbles/391725
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR: OSN MBC BOLLYWOOD HD
+http://38.143.137.105:8080/Pebbles/Pebbles/30289
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR: OSN MBC MASR 1 HD
+http://38.143.137.105:8080/Pebbles/Pebbles/30283
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR: OSN MBC MASR 2 HD
+http://38.143.137.105:8080/Pebbles/Pebbles/30282
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR: OSN MBC MAX HD
+http://38.143.137.105:8080/Pebbles/Pebbles/30281
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR: OSN MBC ACTION HD
+http://38.143.137.105:8080/Pebbles/Pebbles/30280
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR: OSN ALPHA MUSALSAT 1 HD
+http://38.143.137.105:8080/Pebbles/Pebbles/393691
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR: OSN MOVIES FIRST 2 HD
+http://38.143.137.105:8080/Pebbles/Pebbles/393697
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR: OSN ALPHA CINEMA 1 HD
+http://38.143.137.105:8080/Pebbles/Pebbles/393705
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR: OSN MOVIES Box Office 1
+http://38.143.137.105:8080/Pebbles/Pebbles/393709
 
-#EXTINF:-1, BEIN SPORT PREMIUM 1HD
-http://yazansportpro.xyz:25461/livesport_ios/livesport_android/13
-#EXTINF:-1, BEIN SPORT PREMIUM 2HD
-http://yazansportpro.xyz:25461/livesport_ios/livesport_android/14
-#EXTINF:-1, BEIN SPORT PREMIUM 3HD
-http://yazansportpro.xyz:25461/livesport_ios/livesport_android/15
-#http://n2.aminouras.xyz:80/live/61512788878/index.m3u8
-#EXTINF:-1, BEIN SPORTS 1HD
-http://yazansportpro.xyz:25461/livesport_ios/livesport_android/16
-#http://n2.aminouras.xyz:80/live/918454578001/index.m3u8
-#EXTINF:-1, BEIN SPORTS 2HD
-http://yazansportpro.xyz:25461/livesport_ios/livesport_android/17
-#http://n2.aminouras.xyz:80/live/69854211/index.m3u8
-#EXTINF:-1, BEIN SPORTS 3HD
-http://yazansportpro.xyz:25461/livesport_ios/livesport_android/18
-#http://n2.aminouras.xyz:80/live/645587700/index.m3u8
-#EXTINF:-1, BEIN SPORTS 4HD
-http://yazansportpro.xyz:25461/livesport_ios/livesport_android/19
-#http://n2.aminouras.xyz:80/live/9787488847/index.m3u8
-#EXTINF:-1, BEIN SPORTS 5HD
-http://yazansportpro.xyz:25461/livesport_ios/livesport_android/20
-#http://n2.aminouras.xyz:80/live/610303030/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Qatar",AR: AL JAZEERA DOC
+http://38.143.137.105:8080/Pebbles/Pebbles/24949
 
-####          BEIN FHD            ####
+#EXTINF:0 tvg-id="ext" group-title="Palestine",AR: PALESTINIAN EL FADJRTVDZ
+http://38.143.137.105:8080/Pebbles/Pebbles/151525
 
-#EXTINF:-1,BEIN SPORTS MAX 1 FHD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120808
-#EXTINF:-1,BEIN SPORTS MAX 2 FHD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120807
-#EXTINF:-1,BEIN SPORTS MAX 1 FHD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120674
-#EXTINF:-1,BEIN SPORTS MAX 2 FHD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120675
+#EXTINF:0 tvg-id="ext" group-title="Morocco",AR:  Al MAGHRIBIA MOROCCAN
+http://38.143.137.105:8080/Pebbles/Pebbles/25085
+#EXTINF:0 tvg-id="ext" group-title="Morocco",AR: QURAN TV
+http://38.143.137.105:8080/Pebbles/Pebbles/151581
+#EXTINF:0 tvg-id="2MMaroc.ma" group-title="Morocco",AR: 2M MONDE
+http://38.143.137.105:8080/Pebbles/Pebbles/337108
+#EXTINF:0 tvg-id="ext" group-title="Morocco",AR: ASSADISSA MAROCCO
+http://38.143.137.105:8080/Pebbles/Pebbles/151584
+#EXTINF:0 tvg-id="ext" group-title="Morocco",AR: ARRIADIA
+http://38.143.137.105:8080/Pebbles/Pebbles/25083
 
-####          BEIN HD             ####
+#EXTINF:0 tvg-id="ext" group-title="France AR",----------France AR----------
+http://sullr4k.ml:8080
+#EXTINF:0 tvg-id="ext" group-title="France AR",AR: FRANCE 24 (AR)
+http://38.143.137.105:8080/Pebbles/Pebbles/24947
+#EXTINF:0 tvg-id="cartoon" group-title="France AR",AR: CARTOON NETWORK
+http://38.143.137.105:8080/Pebbles/Pebbles/25033
+#EXTINF:0 tvg-id="ext" group-title="France AR",AR: NATIONAL GEO AD
+http://38.143.137.105:8080/Pebbles/Pebbles/25132
 
-#EXTINF:-1,beIN SPORTS MAX HD1
-http://yassooo.com:8080/Manaf/Manaf123/120012
-#EXTINF:-1,beIN SPORTS MAX HD2
-http://yassooo.com:8080/Manaf/Manaf123/120011
-
-#EXTINF:-1,BEIN SPORTS MAX HD1
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120012
-#EXTINF:-1,BEIN SPORTS MAX HD2
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120011
-#EXTINF:-1,BEIN SPORTS MAX HD1
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120680
-#EXTINF:-1,BEIN SPORTS MAX HD2
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120681
-#EXTINF:-1,BEIN SPORTS MAX HD1
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120806
-#EXTINF:-1,BEIN SPORTS MAX HD2
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120805
-
-#EXTINF:-1,beIN SPORTS MAX HD1 
-http://195.230.23.8:25461/goldstv.com/zVSBfEVhKE/7841
-#EXTINF:-1,beIN SPORTS MAX HD2 
-http://195.230.23.8:25461/goldstv.com/zVSBfEVhKE/7842
-#EXTINF:-1,BEIN SPORTS Max HD1
-http://195.230.23.8:25461/goldstv.com/zVSBfEVhKE/7824
-#EXTINF:-1,BEIN SPORTS Max HD2
-http://195.230.23.8:25461/goldstv.com/zVSBfEVhKE/7825
-
-####          BEIN SD             ####
-
-#EXTM3U
-#EXTINF:-1,Bein Sports 01 
-http://yassooo.com:8080/Manaf/Manaf123/80136
-#EXTINF:-1,Bein Sports 1 LIGA 
-http://yassooo.com:8080/Manaf/Manaf123/80126
-
-#EXTINF:-1,Bein Sports 2 
-http://yassooo.com:8080/Manaf/Manaf123/80135
-
-#EXTINF:-1,Bein Sports 3 
-http://yassooo.com:8080/Manaf/Manaf123/80134
-#EXTINF:-1,Bein Sports 4 
-http://yassooo.com:8080/Manaf/Manaf123/80133
-
-
-#EXTINF:-1,Bein Sports Premium 1
-http://yassooo.com:8080/Manaf/Manaf123/80129
-#EXTINF:-1,Bein Sports Premium 2 
-http://yassooo.com:8080/Manaf/Manaf123/80128
-#EXTINF:-1,Bein Sports Premium 3
-http://yassooo.com:8080/Manaf/Manaf123/80127
-
-#EXTINF:-1,Bein Sports 1 ENGLISH 
-http://yassooo.com:8080/Manaf/Manaf123/80119
-#EXTINF:-1,Bein Sports 2 ENGLISH 
-http://yassooo.com:8080/Manaf/Manaf123/80118
-#EXTINF:-1,Bein Sports MAX 1 ENGLISH 
-http://yassooo.com:8080/Manaf/Manaf123/80117
-#EXTINF:-1,BEIN SPORT XTRA 1 HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/56
-#EXTINF:-1,BEIN SPORT XTRA 2 HD
-http://174.138.184.166:25461/livesport_ios/livesport_android/57
-
-#EXTINF:-1,Bein Sports Premium 1 FHD 
-http://yassooo.com:8080/Manaf/Manaf123/80137
-#EXTINF:-1,Bein Sports Premium 1 FHD 
-http://yassooo.com:8080/Manaf/Manaf123/80138
-#EXTINF:-1,Bein Sports Premium 1 FHD 
-http://yassooo.com:8080/Manaf/Manaf123/80139
-#EXTINF:-1,Bein Sports Premium 1 FHD 
-http://yassooo.com:8080/Manaf/Manaf123/80140
-
-#EXTINF:-1,Bein Sports Premium 1 SD 
-http://yassooo.com:8080/Manaf/Manaf123/80116
-#EXTINF:-1,Bein Sports Premium 2 SD 
-http://yassooo.com:8080/Manaf/Manaf123/80115
-
-#EXTINF:-1,Bein Sports Premium 3 SD 
-http://yassooo.com:8080/Manaf/Manaf123/80114
-
-#EXTINF:-1,Bein Sports 1 SD
-http://yassooo.com:8080/Manaf/Manaf123/80113
-#EXTINF:-1,Bein Sports 2 SD 
-http://yassooo.com:8080/Manaf/Manaf123/80112
-#EXTINF:-1,Bein Sports 3 SD 
-http://yassooo.com:8080/Manaf/Manaf123/80111
-#EXTINF:-1,Bein Sports 4 SD 
-http://yassooo.com:8080/Manaf/Manaf123/80110
-#EXTINF:-1,Bein Sports 7
-http://yassooo.com:8080/Manaf/Manaf123/80107
-
-#EXTINF:-1,Bein Sports Premium 1 HD
-http://yassooo.com:8080/Manaf/Manaf123/80106
-#EXTINF:-1,Bein Sports Premium 2 HD
-http://yassooo.com:8080/Manaf/Manaf123/80105
-#EXTINF:-1,Bein Sports Premium 3 HD
-http://yassooo.com:8080/Manaf/Manaf123/80104
-#EXTINF:-1,Bein Sports  1 
-http://yassooo.com:8080/Manaf/Manaf123/80103
-#EXTINF:-1,Bein Sports Premium 2 HD
-http://yassooo.com:8080/Manaf/Manaf123/80102
-#EXTINF:-1,Bein Sports Premium 3 HD
-http://yassooo.com:8080/Manaf/Manaf123/80101
-#EXTINF:-1,Bein Sports Premium 4 HD
-http://yassooo.com:8080/Manaf/Manaf123/80100
-
-#EXTINF:-1,beIN SPORTS MAX 1 
-http://yassooo.com:8080/Manaf/Manaf123/120000
-#EXTINF:-1,beIN SPORTS MAX 2 
-http://yassooo.com:8080/Manaf/Manaf123/119999
-
-#EXTINF:-1,BEIN SPORTS MAX 1 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120000
-#EXTINF:-1,BEIN SPORTS MAX 2 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/119999
-#EXTINF:-1,BEIN SPORTS MAX 1 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120678
-#EXTINF:-1,BEIN SPORTS MAX 2 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120679
-#EXTINF:-1,BEIN SPORTS MAX 1 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120804
-#EXTINF:-1,BEIN SPORTS MAX 2 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120803
-
-
-
-#EXTINF:-1,beIN SPORTS MAX 1 
-http://yassooo.com:8080/Manaf/Manaf123/120000
-#EXTINF:-1,beIN SPORTS MAX 2 
-http://yassooo.com:8080/Manaf/Manaf123/119999
-
-#EXTINF:-1,BEIN SPORTS MAX 1 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120000
-#EXTINF:-1,BEIN SPORTS MAX 2 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/119999
-#EXTINF:-1,BEIN SPORTS MAX 1 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120678
-#EXTINF:-1,BEIN SPORTS MAX 2 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120679
-#EXTINF:-1,BEIN SPORTS MAX 1 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120804
-#EXTINF:-1,BEIN SPORTS MAX 2 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120803
-
-
-####         BEIN FULL             ####
-
-#EXTINF:-1,Bein Sports Premium 01 4K 
-http://yassooo.com:8080/Manaf/Manaf123/80089
-#EXTINF:-1,Bein Sports Premium 02 4K 
-http://yassooo.com:8080/Manaf/Manaf123/80088
-#EXTINF:-1,Bein Sports Premium 03 4K 
-http://yassooo.com:8080/Manaf/Manaf123/80087
-
-#EXTINF:-1,Bein Sports Premium 01 FHD 
-http://yassooo.com:8080/Manaf/Manaf123/80139
-#EXTINF:-1,Bein Sports Premium 02 FHD 
-http://yassooo.com:8080/Manaf/Manaf123/80138
-#EXTINF:-1,Bein Sports Premium 03 FHD 
-http://yassooo.com:8080/Manaf/Manaf123/80137
-
-#EXTINF:-1,Bein Sports Premium 01 FHD
-http://yassooo.com:8080/Manaf/Manaf123/80020
-#EXTINF:-1,Bein Sports Premium 02 FHD
-http://yassooo.com:8080/Manaf/Manaf123/80019
-#EXTINF:-1,Bein Sports Premium 03 FHD
-http://yassooo.com:8080/Manaf/Manaf123/80018
-
-#EXTINF:-1,Bein Sports Premium 01 HD 
-http://yassooo.com:8080/Manaf/Manaf123/80106
-#EXTINF:-1,Bein Sports Premium 02 HD 
-http://yassooo.com:8080/Manaf/Manaf123/80105
-#EXTINF:-1,Bein Sports Premium 03 HD 
-http://yassooo.com:8080/Manaf/Manaf123/80104
-
-#EXTINF:-1,Bein Sports Premium 1 
-http://yassooo.com:8080/Manaf/Manaf123/80061
-#EXTINF:-1,Bein Sports Premium 2 
-http://yassooo.com:8080/Manaf/Manaf123/80060
-#EXTINF:-1,Bein Sports Premium 3 
-http://yassooo.com:8080/Manaf/Manaf123/80059
-
-#EXTINF:-1,Bein Sports 1 FRENCH LOW
-http://yassooo.com:8080/Manaf/Manaf123/80141
-#EXTINF:-1,Bein Sports 2 FRENCH LOW
-http://yassooo.com:8080/Manaf/Manaf123/80140
-#EXTINF:-1,Bein Sports Premium 1 FHD
-http://yassooo.com:8080/Manaf/Manaf123/80139
-#EXTINF:-1,Bein Sports Premium 2 FHD
-http://yassooo.com:8080/Manaf/Manaf123/80138
-#EXTINF:-1,Bein Sports Premium 3 FHD
-http://yassooo.com:8080/Manaf/Manaf123/80137
-#EXTINF:-1,Bein Sports 1 FHD
-http://yassooo.com:8080/Manaf/Manaf123/80136
-#EXTINF:-1,Bein Sports 2 FHD
-http://yassooo.com:8080/Manaf/Manaf123/80135
-#EXTINF:-1,Bein Sports 3 FHD
-http://yassooo.com:8080/Manaf/Manaf123/80134
-#EXTINF:-1,Bein Sports 4 FHD
-http://yassooo.com:8080/Manaf/Manaf123/80133
-#EXTINF:-1,Bein Sports 5 FHD
-http://yassooo.com:8080/Manaf/Manaf123/80132
-#EXTINF:-1,Bein Sports 6 FHD
-http://yassooo.com:8080/Manaf/Manaf123/80131
-#EXTINF:-1,Bein Sports 7 FHD
-http://yassooo.com:8080/Manaf/Manaf123/80130
-#EXTINF:-1,Bein Sports Premium 1 HD
-http://yassooo.com:8080/Manaf/Manaf123/80129
-#EXTINF:-1,Bein Sports Premium 2 HD
-http://yassooo.com:8080/Manaf/Manaf123/80128
-#EXTINF:-1,Bein Sports Premium 3 HD
-http://yassooo.com:8080/Manaf/Manaf123/80127
-#EXTINF:-1,Bein Sports 1 HD
-http://yassooo.com:8080/Manaf/Manaf123/80126
-#EXTINF:-1,Bein Sports 2 HD
-http://yassooo.com:8080/Manaf/Manaf123/80125
-#EXTINF:-1,Bein Sports 3 HD
-http://yassooo.com:8080/Manaf/Manaf123/80124
-#EXTINF:-1,Bein Sports 4 HD
-http://yassooo.com:8080/Manaf/Manaf123/80123
-#EXTINF:-1,Bein Sports 6 HD
-http://yassooo.com:8080/Manaf/Manaf123/80121
-#EXTINF:-1,Bein Sports 7 HD
-http://yassooo.com:8080/Manaf/Manaf123/80120
-
-
-####            SSC SPORTS         ####
-
-#EXTINF:-1,RTI SPORTS
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/122090
-#EXTINF:-1,SSC 1 HD
-http://yassooo.com:8080/Manaf/Manaf123/98917
-#EXTINF:-1,SSC 2 HD
-http://yassooo.com:8080/Manaf/Manaf123/98916
-#EXTINF:-1,SSC 3 HD
-http://yassooo.com:8080/Manaf/Manaf123/98915
-#EXTINF:-1,SSC 5 HD
-http://yassooo.com:8080/Manaf/Manaf123/98913
-#EXTINF:-1,SSC5 HD
-http://yassooo.com:8080/Manaf/Manaf123/98913
-#EXTINF:-1,SSC5
-http://geo-stream.xyz:8880/live/54393917/67737458/466086.ts
-#EXTINF:-1,SSC5
-http://geo-stream.xyz:8880/live/54393917/67737458/466093.ts
-
-#####            OSN          ####
-
-#EXTINF:-1,ART Aflam1
-http://yassooo.com:8080/Manaf/Manaf123/80188
-#EXTINF:-1,ART AFLAM2
-http://yassooo.com:8080/Manaf/Manaf123/80187
-#EXTINF:-1,ART Hikayat
-http://yassooo.com:8080/Manaf/Manaf123/80186
-#EXTINF:-1,ART Hikayat2
-http://yassooo.com:8080/Manaf/Manaf123/80185
-#EXTINF:-1,ART cinema
-http://yassooo.com:8080/Manaf/Manaf123/80184
-#EXTINF:-1,Bein Movies Premiere 1
-http://yassooo.com:8080/Manaf/Manaf123/80183
-#EXTINF:-1,Bein Movies Action 2
-http://yassooo.com:8080/Manaf/Manaf123/80182
-#EXTINF:-1,Bein Movies Drama 3
-http://yassooo.com:8080/Manaf/Manaf123/80181
-#EXTINF:-1,Bein Movies Family 4
-http://yassooo.com:8080/Manaf/Manaf123/80180
-#EXTINF:-1,Bein Drama 1 AR
-http://yassooo.com:8080/Manaf/Manaf123/80179
-#EXTINF:-1,Bein Series 1
-http://yassooo.com:8080/Manaf/Manaf123/80178
-#EXTINF:-1,Bein Series 2
-http://yassooo.com:8080/Manaf/Manaf123/80177
-#EXTINF:-1,FOX Life
-http://yassooo.com:8080/Manaf/Manaf123/80176
-#EXTINF:-1,FOX Crime
-http://yassooo.com:8080/Manaf/Manaf123/80175
-#EXTINF:-1,FOX Riwayat
-http://yassooo.com:8080/Manaf/Manaf123/80174
-#EXTINF:-1,FOX Movies
-http://yassooo.com:8080/Manaf/Manaf123/80173
-#EXTINF:-1,FOX Action Movies
-http://yassooo.com:8080/Manaf/Manaf123/80172
-#EXTINF:-1,Star World HD
-http://yassooo.com:8080/Manaf/Manaf123/80171
-#EXTINF:-1,Star Movies
-http://yassooo.com:8080/Manaf/Manaf123/80170
-#EXTINF:-1,AMC
-http://yassooo.com:8080/Manaf/Manaf123/80169
-#EXTINF:-1,HGTV
-http://yassooo.com:8080/Manaf/Manaf123/80168
-#EXTINF:-1,Bein Movies Show
-http://yassooo.com:8080/Manaf/Manaf123/80167
-#EXTINF:-1,Fatafeat
-http://yassooo.com:8080/Manaf/Manaf123/80166
-#EXTINF:-1,FOOD Network
-http://yassooo.com:8080/Manaf/Manaf123/80165
-#EXTINF:-1,Outdoor
-http://yassooo.com:8080/Manaf/Manaf123/80164
-#EXTINF:-1,Travel Channel
-http://yassooo.com:8080/Manaf/Manaf123/80163
-#EXTINF:-1,National Geographic
-http://yassooo.com:8080/Manaf/Manaf123/80160
-#EXTINF:-1,National Geographic WILD
-http://yassooo.com:8080/Manaf/Manaf123/80158
-#EXTINF:-1,Baraem TV
-http://yassooo.com:8080/Manaf/Manaf123/80157
-#EXTINF:-1,Baby TV
-http://yassooo.com:8080/Manaf/Manaf123/80156
-
-#EXTINF:-1,Bein Sports Premium 1 LOW
-http://yassooo.com:8080/Manaf/Manaf123/80155
-#EXTINF:-1,Bein Sports Premium 2 LOW
-http://yassooo.com:8080/Manaf/Manaf123/80154
-#EXTINF:-1,Bein Sports Premium 3 LOW
-http://yassooo.com:8080/Manaf/Manaf123/80153
-#EXTINF:-1,Bein Sports 1 LOW
-http://yassooo.com:8080/Manaf/Manaf123/80152
-#EXTINF:-1,Bein Sports 3 LOW
-http://yassooo.com:8080/Manaf/Manaf123/80150
-#EXTINF:-1,Bein Sports 2 ENGLISH LOW
-http://yassooo.com:8080/Manaf/Manaf123/80143
-#EXTINF:-1,Bein Sports 4 ENGLISH LOW
-http://yassooo.com:8080/Manaf/Manaf123/80149
-#EXTINF:-1,Bein Sports 5 ENGLISH LOW
-http://yassooo.com:8080/Manaf/Manaf123/80148
-#EXTINF:-1,Bein Soprts 6 ENGLISH LOW
-http://yassooo.com:8080/Manaf/Manaf123/80147
-#EXTINF:-1,Bein Sports 7 LOW
-http://yassooo.com:8080/Manaf/Manaf123/80146
-#EXTINF:-1,Bein Sports 1 MAX LOW
-http://yassooo.com:8080/Manaf/Manaf123/80142
-#EXTINF:-1,OSN Yahala
-http://yassooo.com:8080/Manaf/Manaf123/80233
-#EXTINF:-1,OSN Yahala Oula
-http://yassooo.com:8080/Manaf/Manaf123/80232
-#EXTINF:-1,OSN Yahala Cinema
-http://yassooo.com:8080/Manaf/Manaf123/80231
-#EXTINF:-1,OSN Series
-http://yassooo.com:8080/Manaf/Manaf123/80230
-#EXTINF:-1,OSN Action
-http://yassooo.com:8080/Manaf/Manaf123/80229
-#EXTINF:-1,OSN Movies
-http://yassooo.com:8080/Manaf/Manaf123/80228
-#EXTINF:-1,OSN Movies First
-http://yassooo.com:8080/Manaf/Manaf123/80227
-#EXTINF:-1,OSN Movies First +2
-http://yassooo.com:8080/Manaf/Manaf123/80226
-#EXTINF:-1,OSN Movies Disney
-http://yassooo.com:8080/Manaf/Manaf123/80225
-#EXTINF:-1,OSN Enigma
-http://yassooo.com:8080/Manaf/Manaf123/80224
-#EXTINF:-1,OSN Kids
-http://yassooo.com:8080/Manaf/Manaf123/80223
-#EXTINF:-1,OSN Series First
-http://yassooo.com:8080/Manaf/Manaf123/80222
-#EXTINF:-1,OSN Series Comedy
-http://yassooo.com:8080/Manaf/Manaf123/80221
-#EXTINF:-1,OSN Star Movies
-http://yassooo.com:8080/Manaf/Manaf123/80220
-#EXTINF:-1,OSN Star World
-http://yassooo.com:8080/Manaf/Manaf123/80219
-#EXTINF:-1,OSN TLC
-http://yassooo.com:8080/Manaf/Manaf123/80218
-#EXTINF:-1,OSN Crime
-http://yassooo.com:8080/Manaf/Manaf123/80217
-#EXTINF:-1,OSN Comedy Central
-http://yassooo.com:8080/Manaf/Manaf123/80216
-#EXTINF:-1,OSN E!
-http://yassooo.com:8080/Manaf/Manaf123/80215
-#EXTINF:-1,OSN Living
-http://yassooo.com:8080/Manaf/Manaf123/80214
-#EXTINF:-1,OSN Alfa AlFann
-http://yassooo.com:8080/Manaf/Manaf123/80212
-#EXTINF:-1,OSN Alfa Al Safwa
-http://yassooo.com:8080/Manaf/Manaf123/80211
-#EXTINF:-1,OSN Alfa Alyoum
-http://yassooo.com:8080/Manaf/Manaf123/80210
-#EXTINF:-1,OSN Alfa Cinema 1
-http://yassooo.com:8080/Manaf/Manaf123/80209
-#EXTINF:-1,OSN Alfa Cinema 2
-http://yassooo.com:8080/Manaf/Manaf123/80208
-#EXTINF:-1,OSN Alfa Musalsalat
-http://yassooo.com:8080/Manaf/Manaf123/80207
-#EXTINF:-1,OSN Alfa Music Now
-http://yassooo.com:8080/Manaf/Manaf123/80205
-#EXTINF:-1,OSN News
-http://yassooo.com:8080/Manaf/Manaf123/80204
-#EXTINF:-1,OSN History
-http://yassooo.com:8080/Manaf/Manaf123/80203
-#EXTINF:-1,OSN H2
-http://yassooo.com:8080/Manaf/Manaf123/80202
-#EXTINF:-1,OSN Nat Geo
-http://yassooo.com:8080/Manaf/Manaf123/80201
-#EXTINF:-1,OSN Nat People
-http://yassooo.com:8080/Manaf/Manaf123/80200
-#EXTINF:-1,OSN Nat Geo Wild
-http://yassooo.com:8080/Manaf/Manaf123/80199
-#EXTINF:-1,OSN Discovery
-http://yassooo.com:8080/Manaf/Manaf123/80198
-#EXTINF:-1,OSN Discovery ID
-http://yassooo.com:8080/Manaf/Manaf123/80197
-#EXTINF:-1,OSN Discovery SC
-http://yassooo.com:8080/Manaf/Manaf123/80196
-#EXTINF:-1,OSN Disney
-http://yassooo.com:8080/Manaf/Manaf123/80195
-#EXTINF:-1,OSN Disney Junior
-http://yassooo.com:8080/Manaf/Manaf123/80194
-#EXTINF:-1,OSN Baby
-http://yassooo.com:8080/Manaf/Manaf123/80193
-#EXTINF:-1,OSN Nickelodeon
-http://yassooo.com:8080/Manaf/Manaf123/80192
-#EXTINF:-1,OSN Nick Jr
-http://yassooo.com:8080/Manaf/Manaf123/80191
-#EXTINF:-1,TVE 1
-http://yassooo.com:8080/Manaf/Manaf123/80190
-#EXTINF:-1,OSN Kids Zone
-http://yassooo.com:8080/Manaf/Manaf123/80189
-#EXTINF:-1,DISCOVERY FAMILY HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/122137
-#EXTINF:-1,Osn MEZZE HD
-http://2022tv.co:80/george/george/12825
-**************** OSN BOXOFFICE **************
-
-#EXTINF:-1,BOX OFFICE 1
-http://protv.top:8000/live/88107922460136017/1593574628/42194.ts
-#EXTINF:-1,BOX OFFICE 2
-http://protv.top:8000/live/88107922460136017/1593574628/42195.ts
-#EXTINF:-1,BOX OFFICE 3
-http://protv.top:8000/live/88107922460136017/1593574628/42196.ts
-#EXTINF:-1,BOX OFFICE 4 
-http://protv.top:8000/live/88107922460136017/1593574628/42197.ts
-#EXTINF:-1,BOX OFFICE 5 
-http://protv.top:8000/live/88107922460136017/1593574628/42198.ts
-#EXTINF:-1,BOX OFFICE 6 
-http://protv.top:8000/live/88107922460136017/1593574628/42199.ts
-#EXTINF:-1,BOX OFFICE 7 
-http://protv.top:8000/live/88107922460136017/1593574628/42200.ts
-#EXTINF:-1,BOX OFFICE 8 
-http://protv.top:8000/live/88107922460136017/1593574628/42201.ts
-#EXTINF:-1,BOXOFFICE ARABI 1 
-http://protv.top:8000/live/88107922460136017/1593574628/59274.ts
-#EXTINF:-1,BOXOFFICE ARABI 2
-http://protv.top:8000/live/88107922460136017/1593574628/59275.ts
-#EXTINF:-1,BOXOFFICE ARABI 3
-http://protv.top:8000/live/88107922460136017/1593574628/59276.ts
-#EXTINF:-1,BOXOFFICE ARABI 4
-http://protv.top:8000/live/88107922460136017/1593574628/59277.ts
-#EXTINF:-1,BOXOFFICE ARABI 5
-http://protv.top:8000/live/88107922460136017/1593574628/59278.ts
-#EXTINF:-1,BOXOFFICE ARABI 6
-http://protv.top:8000/live/88107922460136017/1593574628/59279.ts
-
-
-####               MAROC TV             ####
-
-#EXTINF:-1,ARRYADIA TNT
-http://protv.top:8000/live/88107922460136017/1593574628/14753.ts
-#EXTINF:-1,ASSABIAA
-http://protv.top:8000/live/88107922460136017/1593574628/22660.ts
-#EXTINF:-1 tvg-id="AlAoula.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZFHjIVU.png" group-title="General",Al Aoula (360p) [Geo-blocked]
-http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="AlAoula.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZFHjIVU.png" group-title="General",Al Aoula (360p) [Geo-blocked]
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="AlAoulaLaayoune.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZFHjIVU.png" group-title="General",Al Aoula Laayoune (360p) [Geo-blocked]
-http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="AlAoulaLaayoune.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZFHjIVU.png" group-title="General",Al Aoula Laayoune (360p) [Geo-blocked]
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZlmQSBl.png" group-title="General",Al Maghribia (360p) [Geo-blocked]
-http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZlmQSBl.png" group-title="General",Al Maghribia (360p) [Geo-blocked]
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="Arrabiaa.ma" tvg-country="MA" tvg-language="Arabic;French" tvg-logo="https://i.imgur.com/FvgdLdG.png" group-title="General",Arrabiaa (360p) [Geo-blocked]
-http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="Arrabiaa.ma" tvg-country="MA" tvg-language="Arabic;French" tvg-logo="https://i.imgur.com/FvgdLdG.png" group-title="General",Arrabiaa (360p) [Geo-blocked]
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="Arryadia.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/liFebM9.png" group-title="Sports",Arryadia (360p) [Geo-blocked]
-http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="Arryadia.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/liFebM9.png" group-title="Sports",Arryadia (360p) [Geo-blocked]
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="Assadissa.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/VQUrMjE.png" group-title="General",Assadissa (360p) [Geo-blocked]
-http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="Assadissa.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/VQUrMjE.png" group-title="General",Assadissa (360p) [Geo-blocked]
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="M24TV.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/J7GdM3L.png" group-title="News",M24 TV (720p) [Not 24/7]
-http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="M24TV.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/J7GdM3L.png" group-title="News",M24 TV (720p) [Not 24/7]
-https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MaghrebArabePress.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="" group-title="",Maghreb Arabe Press (720p) [Not 24/7]
-https://www.maptvnews.ma/live/smil:OutStream1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Medi1TVAfrique.ma" tvg-country="MA" tvg-language="French" tvg-logo="https://i.imgur.com/MosTwQW.png" group-title="News",Medi 1 TV Afrique (1080p) [Not 24/7]
-https://5f72f3a9b06b7.streamlock.net/live/smil:medi1fr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Medi1TVArabic.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/MosTwQW.png" group-title="News",Medi 1 TV Arabic (1080p) [Not 24/7]
-https://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Medi1TVMaghreb.ma" tvg-country="MA" tvg-language="French;Arabic" tvg-logo="https://i.imgur.com/MosTwQW.png" group-title="News",Medi 1 TV Maghreb (1080p) [Not 24/7]
-https://5f72f3a9b06b7.streamlock.net/live/smil:medi1tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Tamazight.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uC6IF9P.png" group-title="General",Tamazight (360p) [Geo-blocked]
-http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="Tamazight.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uC6IF9P.png" group-title="General",Tamazight (360p) [Geo-blocked]
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="TeleMaroc.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="General",Télé Maroc (1080p)
-https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
-
-
-####           ALGERIA TV          ####
-
-
-#EXTINF:-1,EL BILAD TV
-http://yassooo.com:8080/Manaf/Manaf123/591
-#EXTINF:-1,PROGRAMME NATIONAL
-http://yassooo.com:8080/Manaf/Manaf123/589
-#EXTINF:-1,Samira
-http://yassooo.com:8080/Manaf/Manaf123/588
-#EXTINF:-1,Bahia TV
-http://yassooo.com:8080/Manaf/Manaf123/587
-#EXTINF:-1,EL FADJR TV 
-http://yassooo.com:8080/Manaf/Manaf123/586
-#EXTINF:-1,Echorouk News
-http://yassooo.com:8080/Manaf/Manaf123/585
-#EXTINF:-1,CANAL ALGERIE
-http://yassooo.com:8080/Manaf/Manaf123/584
-#EXTINF:-1,ENNAHAR TV
-http://yassooo.com:8080/Manaf/Manaf123/583
-#EXTINF:-1,Alanis
-http://yassooo.com:8080/Manaf/Manaf123/582
-#EXTINF:-1,TV5
-http://yassooo.com:8080/Manaf/Manaf123/580
-#EXTINF:-1,Beur
-http://yassooo.com:8080/Manaf/Manaf123/579
-#EXTINF:-1,Dzair Jannah
-http://yassooo.com:8080/Manaf/Manaf123/577
-#EXTINF:-1,EchoroukTV
-http://yassooo.com:8080/Manaf/Manaf123/576
-#EXTINF:-1,El Heddaf.TV
-http://yassooo.com:8080/Manaf/Manaf123/575
-#EXTINF:-1,ELHAYA ALGERIE
-http://yassooo.com:8080/Manaf/Manaf123/574
-#EXTINF:-1,EL DJAZAIRIA One
-http://yassooo.com:8080/Manaf/Manaf123/572
-#EXTINF:-1,EL HAYAT TV ALGERIE
-http://yassooo.com:8080/Manaf/Manaf123/571
-#EXTINF:-1,Awraas TV channel
-http://yassooo.com:8080/Manaf/Manaf123/569
-#EXTINF:-1,El Djazair N1
-http://yassooo.com:8080/Manaf/Manaf123/568
-
-
-####           MBC GROUPE          ####
-
-#EXTINF:-1,MBC1 HD
-http://yassooo.com:8080/Manaf/Manaf123/80275
-#EXTINF:-1,MBC2 HD
-http://yassooo.com:8080/Manaf/Manaf123/80274
-#EXTINF:-1,MBC3 HD
-http://yassooo.com:8080/Manaf/Manaf123/80273
-#EXTINF:-1,MBC4 HD
-http://yassooo.com:8080/Manaf/Manaf123/80272
-#EXTINF:-1,MBC Drama HD
-http://yassooo.com:8080/Manaf/Manaf123/80271
-#EXTINF:-1,MBC Action HD
-http://yassooo.com:8080/Manaf/Manaf123/80270
-#EXTINF:-1,MBC Bollywood HD
-http://yassooo.com:8080/Manaf/Manaf123/80269
-#EXTINF:-1,MBC Variety HD
-http://yassooo.com:8080/Manaf/Manaf123/80268
-#EXTINF:-1,MBC Masir1 HD
-http://yassooo.com:8080/Manaf/Manaf123/80267
-#EXTINF:-1,MBC Drama+ HD
-http://yassooo.com:8080/Manaf/Manaf123/80266
-#EXTINF:-1,MBC Masir2 HD
-http://yassooo.com:8080/Manaf/Manaf123/80265
-#EXTINF:-1,MBC MAX HD
-http://yassooo.com:8080/Manaf/Manaf123/80264
-#EXTINF:-1,MBC Iraq HD
-http://yassooo.com:8080/Manaf/Manaf123/80263
-#EXTINF:-1,MBC 1 SD
-http://yassooo.com:8080/Manaf/Manaf123/80262
-#EXTINF:-1,MBC 2 SD
-http://yassooo.com:8080/Manaf/Manaf123/80261
-#EXTINF:-1,MBC 3 SD
-http://yassooo.com:8080/Manaf/Manaf123/80260
-#EXTINF:-1,MBC 4 SD
-http://yassooo.com:8080/Manaf/Manaf123/80259
-#EXTINF:-1,MBC Bollywood SD
-http://yassooo.com:8080/Manaf/Manaf123/80258
-#EXTINF:-1,MBC Max SD
-http://yassooo.com:8080/Manaf/Manaf123/80257
-#EXTINF:-1,MBC Iraq SD
-http://yassooo.com:8080/Manaf/Manaf123/80256
-#EXTINF:-1,MBC Action SD
-http://yassooo.com:8080/Manaf/Manaf123/80255
-#EXTINF:-1,MBC Drama SD
-http://yassooo.com:8080/Manaf/Manaf123/80254
-#EXTINF:-1,Alfajer Tv
-http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/l_754744_639901880_42660.ts?nimblesessionid=110951189
-
-####             NETFLIX            #####
-
-#EXTINF:-1,Netflix Action
-http://yassooo.com:8080/Manaf/Manaf123/79885
-#EXTINF:-1,Netflix Arabic
-http://yassooo.com:8080/Manaf/Manaf123/79884
-#EXTINF:-1,Netflix Comedy
-http://yassooo.com:8080/Manaf/Manaf123/79883
-#EXTINF:-1,Netflix Crime
-http://yassooo.com:8080/Manaf/Manaf123/79882
-#EXTINF:-1,Netflix Drama
-http://yassooo.com:8080/Manaf/Manaf123/79881
-#EXTINF:-1,Netflix Horror
-http://yassooo.com:8080/Manaf/Manaf123/79880
-#EXTINF:-1,Netflix Mystery
-http://yassooo.com:8080/Manaf/Manaf123/79879
-#EXTINF:-1,Netflix Romance
-http://yassooo.com:8080/Manaf/Manaf123/79878
-#EXTINF:-1,Netflix Sci-Fi
-http://yassooo.com:8080/Manaf/Manaf123/79877
-
-####           KIMO NETFLIX          ####
-
-#EXTINF:-1,MIX MOVIES 
-http://yassooo.com:8080/Manaf/Manaf123/302
-
-#EXTINF:-1,Netflix 1
-http://yassooo.com:8080/Manaf/Manaf123/79885
-#EXTINF:-1,Netflix 2
-http://yassooo.com:8080/Manaf/Manaf123/79876
-#EXTINF:-1,Netflix 3
-http://yassooo.com:8080/Manaf/Manaf123/79875
-#EXTINF:-1,Netflix 4
-http://yassooo.com:8080/Manaf/Manaf123/79874
-#EXTINF:-1,Netflix 5
-http://yassooo.com:8080/Manaf/Manaf123/79873
-#EXTINF:-1,Netflix 6
-http://yassooo.com:8080/Manaf/Manaf123/79872
-#EXTINF:-1,Netflix 7
-http://yassooo.com:8080/Manaf/Manaf123/79871
-#EXTINF:-1,Netflix 8
-http://yassooo.com:8080/Manaf/Manaf123/79870
-#EXTINF:-1,Netflix 9
-http://yassooo.com:8080/Manaf/Manaf123/79869
-#EXTINF:-1,Netflix 10
-http://yassooo.com:8080/Manaf/Manaf123/79868
-#EXTINF:-1,Netflix 11
-http://yassooo.com:8080/Manaf/Manaf123/79867
-#EXTINF:-1,Netflix 12
-http://yassooo.com:8080/Manaf/Manaf123/79866
-#EXTINF:-1,Netflix 13
-http://yassooo.com:8080/Manaf/Manaf123/79865
-#EXTINF:-1,Netflix 14
-http://yassooo.com:8080/Manaf/Manaf123/79864
-#EXTINF:-1,Netflix 15
-http://yassooo.com:8080/Manaf/Manaf123/79863
-#EXTINF:-1,Netflix 16
-http://yassooo.com:8080/Manaf/Manaf123/79862
-#EXTINF:-1,Netflix 17
-http://yassooo.com:8080/Manaf/Manaf123/79861
-#EXTINF:-1,Netflix 18
-http://yassooo.com:8080/Manaf/Manaf123/79860
-#EXTINF:-1,Netflix 19
-http://yassooo.com:8080/Manaf/Manaf123/79859
-#EXTINF:-1,Netflix 20
-http://yassooo.com:8080/Manaf/Manaf123/79858
-#EXTINF:-1,Netflix 21
-http://yassooo.com:8080/Manaf/Manaf123/79857
-#EXTINF:-1,Netflix 22
-http://yassooo.com:8080/Manaf/Manaf123/79856
-#EXTINF:-1,Netflix 23
-http://yassooo.com:8080/Manaf/Manaf123/79855
-#EXTINF:-1,Netflix 24
-http://yassooo.com:8080/Manaf/Manaf123/79854
-#EXTINF:-1,Netflix 25
-http://yassooo.com:8080/Manaf/Manaf123/79853
-#EXTINF:-1,Netflix 26
-http://yassooo.com:8080/Manaf/Manaf123/79852
-#EXTINF:-1,Netflix 27
-http://yassooo.com:8080/Manaf/Manaf123/79851
-#EXTINF:-1,Netflix 28
-http://yassooo.com:8080/Manaf/Manaf123/79850
-#EXTINF:-1,Netflix 29
-http://yassooo.com:8080/Manaf/Manaf123/79849
-#EXTINF:-1,Netflix 30
-http://yassooo.com:8080/Manaf/Manaf123/79848
-#EXTINF:-1,Netflix 31
-http://yassooo.com:8080/Manaf/Manaf123/79847
-#EXTINF:-1,Netflix 32
-http://yassooo.com:8080/Manaf/Manaf123/79846
-#EXTINF:-1,NETFLIX 
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120822
-#EXTINF:-1,KINO TV
-http://yassooo.com:8080/Manaf/Manaf123/82276
-EXTINF:-1,CINEMAX 2
-http://yassooo.com:8080/Manaf/Manaf123/82271
-
-####         REEL PX       ####
-
-http://yassooo.com:8080/Manaf/Manaf123/80252
-#EXTINF:-1,REEL PX Family
-http://yassooo.com:8080/Manaf/Manaf123/80251
-#EXTINF:-1,REEL PX Comedy
-http://yassooo.com:8080/Manaf/Manaf123/80250
-#EXTINF:-1,REEL PX Unlimited
-http://yassooo.com:8080/Manaf/Manaf123/80249
-#EXTINF:-1,REEL PX Action
-http://yassooo.com:8080/Manaf/Manaf123/80248
-
-#EXTINF:-1,Shahid VIP Live HD 
+#EXTINF:0 tvg-id="ext" group-title="France AR",Shahid VIP Live HD ARB
 http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/245951
-
-****************  QURAN  ***************    
-
-#EXTINF:-1,EGYPT QURAN KAREEM
-http://yassooo.com:8080/Manaf/Manaf123/317
-#EXTINF:-1, Mekka
-http://yassooo.com:8080/Manaf/Manaf123/350
-#EXTINF:-1, Midena
-http://yassooo.com:8080/Manaf/Manaf123/351
-*********************************************
-
-******************  MIX  **********************
-#EXTINF:0,Love Nature EN
-http://58.65.171.202:8000/play/1103/index.m3u8
-#EXTINF:-1,VIASAT NATURE
-http://185.140.187.67:8085/udp/238.2.0.119:1234
-#EXTINF:-1,Discovery World HD
-http://181.191.141.4:9981/stream/channelid/1170775916?profile=pass
-#EXTINF:-1,Discovery Channel HD
-http://181.191.141.4:9981/stream/channelid/1841823551?profile=pass
-#EXTINF:-1,Discovery H&H HD
-http://181.191.141.4:9981/stream/channelid/593338370?profile=pass
-#EXTINF:-1,Discovery Kids
-http://181.191.141.4:9981/stream/channelid/172516479?profile=pass
-#EXTINF:-1,Discovery Science
-http://181.191.141.4:9981/stream/channelid/2084815926?profile=pass
-#EXTINF:-1,Discovery Theater HD
-http://181.191.141.4:9981/stream/channelid/811740311?profile=pass
-#EXTINF:-1,Discovery Turbo
-http://181.191.141.4:9981/stream/channelid/273907486?profile=pass
-#EXTINF:-1,Discovery World HD
-http://181.191.141.4:9981/stream/channelid/1170775916?profile=pass
-#EXTINF:-1,Disney Channel HD
-http://181.191.141.4:9981/stream/channelid/336517816?profile=pass
-#EXTINF:-1,Disney Junior
-http://181.191.141.4:9981/stream/channelid/921973190?profile=pass
-#EXTINF:-1,Cartoon Network HD
-http://181.191.141.4:9981/stream/channelid/685601258?profile=pass
-#EXTINF:-1,Disney 
-http://181.191.141.4:9981/stream/channelid/1418456914?profile=pass
-#EXTINF:-1,Galaxy Premium
-http://iptv.tvmalaysia.cc:80/penang183/penang183/8838
-http://iptv.tvmalaysia.cc:80/movie/penang183/penang183/321.mp4
-#EXTINF:-1,Film & Arts HD
-http://181.191.141.4:9981/stream/channelid/1301502662?profile=pass
- 
-********************* SPORT *************************
-#EXTINF:-1 , ALB | K SPORT 1
-http://93.157.62.180/KSport1/index.m3u8
-#EXTINF:-1 , ALB | K SPORT 2
-http://93.157.62.180/KSport2/index.m3u8
-#EXTINF:-1 , ALB | K SPORT 3
-http://93.157.62.180/KSport3/index.m3u8
-#EXTINF:-1 , ALB | K SPORT 4
-http://93.157.62.180/KSport4/index.m3u8
-#EXTINF:1,Eleven Sports 1 HD
-http://95.141.128.163:8004/play/a0a8
-#EXTINF:1,Eleven Sports 2 HD
-http://95.141.128.163:8004/play/a0a9
-#EXTINF:1,Eleven Sports 3 HD
-http://95.141.128.163:8004/play/a0aa
-#EXTINF:-1,Fox Sports 2 HD
-http://181.191.141.4:9981/stream/channelid/1795408407?profile=pass
-#EXTINF:-1,Fox Sports 3 HD
-http://181.191.141.4:9981/stream/channelid/1539821382?profile=pass
-#EXTINF:-1,Fox Sports HD
-http://181.191.141.4:9981/stream/channelid/324572227?profile=pass
-#EXTINF:-1,Fox Sports Premium HD
-http://181.191.141.4:9981/stream/channelid/60660329?profile=pass
-#EXTINF:-1,ESPN 2
-http://181.191.141.4:9981/stream/channelid/371483615?profile=pass
-#EXTINF:-1,ESPN 2 HD
-http://181.191.141.4:9981/stream/channelid/462957684?profile=pass
-#EXTINF:-1,ESPN 3 HD
-http://181.191.141.4:9981/stream/channelid/2062388909?profile=pass
-#EXTINF:-1,ESPN Extra HD
-http://181.191.141.4:9981/stream/channelid/1788551776?profile=pass
-#EXTINF:-1,ESPN HD
-http://181.191.141.4:9981/stream/channelid/1469125493?profile=pass
-#EXTINF:-1,TNT Sports HD
-http://181.191.141.4:9981/stream/channelid/1708683349?profile=pass
-#EXTINF:-1,TyC Sports HD
-http://181.191.141.4:9981/stream/channelid/1517208799?profile=pass
-#EXTINF:-1,VIASAT SPORT HD
-http://185.140.187.67:8085/udp/238.2.16.198:1234
-#EXTINF:-1,Sport Uk HD
-http://185.140.187.67:8085/udp/238.2.16.250:1234
-#EXTINF:-1,Sport 1 HD
-http://185.140.187.67:8085/udp/238.2.17.4:1234
-#EXTINF:-1,Sports 2 HD
-http://185.140.187.67:8085/udp/238.2.17.15:1234
-#EXTINF:-1,Sports 3 HD
-http://185.140.187.67:8085/udp/238.2.17.73:1234
-#EXTINF:-1,Sport HD
-http://185.140.187.67:8085/udp/238.2.17.12:1234
-#EXTINF:-1, LA LIGA
-http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/225
-#EXTINF:-1,NRT SPORT HD
-http://190.2.148.141:8080/bar7638/tracks-v1a1/mono.m3u8
-#EXTINF:-1,RING SPORT HD
-http://190.2.148.141:8080/bar7667/tracks-v1a1/mono.m3u8
-#EXTINF:-1,DUHOK HD
-http://88.198.32.36:1935/live/Duhok--Sports--HD/chunklist.m3u8
-#EXTINF:-1,ASO SPORT HD
-http://190.2.148.141:8080/bar7671/tracks-v1a1/mono.m3u8
-#EXTINF:-1,LIKE SPORT HD
-http://halowtv.xyz:1935/live/Likesport/chunklist_w220838970.m3u8
-******************** ALL **********************
-
-#EXTINF:-1,HBO
-http://181.191.141.4:9981/stream/channelid/1891222005?profile=pass
-#EXTINF:-1,HBO 2
-http://181.191.141.4:9981/stream/channelid/1348061264?profile=pass
-#EXTINF:-1,HBO Family
-http://181.191.141.4:9981/stream/channelid/404483297?profile=pass
-#EXTINF:-1,HBO Plus
-http://181.191.141.4:9981/stream/channelid/340621241?profile=pass
-#EXTINF:-1,Sony HD 
-http://181.191.141.4:9981/stream/channelid/900158665?profile=pass
-#EXTINF:-1,Nickelodeon
-http://181.191.141.4:9981/stream/channelid/985295901?profile=pass
-#EXTINF:-1,Universal HD
-http://181.191.141.4:9981/stream/channelid/1228704801?profile=pass
-#EXTINF:-1,Warner Channel HD
-http://181.191.141.4:9981/stream/channelid/1818231013?profile=pass
-#EXTINF:-1,Smile HD
-http://185.140.187.67:8085/udp/238.2.16.138:1234
-#EXTINF:-1,Animal Planet HD
-http://185.140.187.67:8085/udp/238.2.16.175:1234
-#EXTINF:-1,FOX life HD
-http://185.140.187.67:8085/udp/238.2.16.179:1234
-#EXTINF:-1,Hollywood HD
-http://185.140.187.67:8085/udp/238.2.16.176:1234
-#EXTINF:-1,HBO HD
-http://185.140.187.67:8085/udp/238.2.16.187:1234
-#EXTINF:-1,HGTV HD
-http://185.140.187.67:8085/udp/238.2.16.189:1234
-#EXTINF:-1,Travel + Adventure HD
-http://185.140.187.67:8085/udp/238.2.16.180:1234
-#EXTINF:-1,VIP Premier HD
-http://185.140.187.67:8085/udp/238.2.16.196:1234
-#EXTINF:-1,VIP Megahit HD
-http://185.140.187.67:8085/udp/238.2.16.195:1234
-#EXTINF:-1,Discovery HD
-http://185.140.187.67:8085/udp/238.2.16.147:1234
-#EXTINF:-1,FOX HD
-http://185.140.187.67:8085/udp/238.2.16.178:1234
-#EXTINF:-1,KHL prime HD
-http://185.140.187.67:8085/udp/238.2.16.177:1234
-#EXTINF:-1,HISTORY HD
-http://185.140.187.67:8085/udp/238.2.16.188:1234
-#EXTINF:-1,VIASAT HISTORY HD
-http://185.140.187.67:8085/udp/238.2.16.197:1234
-#EXTINF:-1,DTX HD
-http://185.140.187.67:8085/udp/238.2.16.211:1234
-#EXTINF:-1,Travel Channel HD
-http://185.140.187.67:8085/udp/238.2.16.190:1234
-              *******  INDIA ********
-
-#EXTINF:-1,india 2
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/121851
-#EXTINF:-1, india 3
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/121850
-#EXTINF:-1,india 4
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/121849
-#EXTINF:-1,india 5
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/121848
-#EXTINF:-1,Bflix Movies (480p)
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
-             ******** FRANCE *********
-#EXTINF:-1,RMC Découverte
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/625226
-#EXTINF:-1, RMC Sport 3 HD
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/625233
-#EXTINF:-1, RMC Sport 4 HD
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682961
-#EXTM3U:-1,National Geographic HD
-http://vadaaaa.com:2086/YkL75OoKcg/juouO2DERG/31344
-#EXTM3U:-1,National Geo Wild
-http://vadaaaa.com:2086/YkL75OoKcg/juouO2DERG/31345
-#EXTINF:-1, TeleSud France
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/122088
-#EXTINF:-1,RT FRANCE
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/122087
-#EXTINF:-1,TV5 MONDE INFO
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/122085
-#EXTINF:-1,ULTRA NATURE [H265]
-http://protv.top:8000/live/88107922460136017/1593574628/36152.ts
-
-************* BEIN SPORTS FRANCE ************
-
-#EXTINF:-1,beIN Sports Max 5 HD
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/53604
-#EXTINF:-1,beIN Sports Max 6 HD
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/625242
-#EXTINF:-1,beIN Sports Max 7 HD
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/54678
-#EXTM3U:-1,BeIn Sports MAX 10 HD
-http://vadaaaa.com:2086/YkL75OoKcg/juouO2DERG/31483
-#EXTINF:-1,beIN Sports News FHD
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/676904
-
-***************** ARENA SPORT ******************
-
-#EXTINF:-1 ,ARENA SPORT 1 
-http://38.143.137.105:8080/mb1234/mb1234/12319
-#EXTINF:-1 ,ARENA SPORT 2 
-http://38.143.137.105:8080/mb1234/mb1234/12317
-#EXTINF:-1 ,ARENA SPORT 3 
-http://38.143.137.105:8080/mb1234/mb1234/12315
-#EXTINF:-1 ,ARENA SPORT 5 
-http://38.143.137.105:8080/mb1234/mb1234/12311
-#EXTINF:-1 ,ARENA SPORT 1 
-http://38.143.137.105:8080/mb1234/mb1234/12318
-#EXTINF:-1 ,ARENA SPORT 2 
-http://38.143.137.105:8080/mb1234/mb1234/12316
-#EXTINF:-1 ,ARENA SPORT 4 
-http://38.143.137.105:8080/mb1234/mb1234/12312
-#EXTINF:-1 ,ARENA SPORT 5 
-http://38.143.137.105:8080/mb1234/mb1234/12310
+#EXTINF:0 tvg-id="ext" group-title="France AR",Shahid Series 1 HD ARB
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/245950
+#EXTINF:0 tvg-id="ext" group-title="France AR",Shahid Series 2 HD ARB
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/245949
+#EXTINF:0 tvg-id="ext" group-title="France AR",Shahid Series 3 HD ARB
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/245948
+#EXTINF:0 tvg-id="ext" group-title="France AR",Shahid Series 4 HD ARB
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/245947
+#EXTINF:0 tvg-id="ext" group-title="France AR",Shahid Series 5 HD ARB
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/245946
+#EXTINF:0 tvg-id="ext" group-title="France AR",Shahid Series 6 HD ARB
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/245945
+#EXTINF:0 tvg-id="ext" group-title="France AR",Shahid Series 7 HD ARB
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/245944
+#EXTINF:0 tvg-id="ext" group-title="France AR",Shahid Series 8 HD ARB
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/245943
+#EXTINF:0 tvg-id="ext" group-title="France AR",Shahid Series 9 HD ARB
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/245942
+#EXTINF:0 tvg-id="ext" group-title="France AR",Shahid Series 10 HD ARB
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/245941
+#EXTINF:0 tvg-id="ext" group-title="France AR",Shahid Series 11 HD ARB
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/245940
+#EXTINF:0 tvg-id="ext" group-title="France AR",Shahid Series 12 HD ARB
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/245939
+#EXTINF:0 tvg-id="ext" group-title="France AR",Shahid Series 13 HD ARB
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/245938
+#EXTINF:0 tvg-id="ext" group-title="France AR",Shahid Series 14 HD ARB
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/245937
+#EXTINF:0 tvg-id="ext" group-title="France AR",Shahid Series 15 HD ARB
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/245936
+#EXTINF:0 tvg-id="ext" group-title="France AR",Shahid Series 16 HD ARB
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/245935
+#EXTINF:0 tvg-id="ext" group-title="France AR",Shahid Series 17 HD ARB
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/245934
+#EXTINF:0 tvg-id="ext" group-title="France AR",Shahid Series 18 HD ARB
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/245933
+#EXTINF:0 tvg-id="ext" group-title="France AR",Shahid Series 19 HD ARB
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/245932
+#EXTINF:0 tvg-id="ext" group-title="France AR",Shahid Series 20 HD ARB
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/245931
+#EXTINF:0 tvg-id="ext" group-title="France AR",Shahid Series 21 HD ARB
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/245930
+#EXTINF:0 tvg-id="ext" group-title="France AR",Shahid Series 22 HD ARB
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/245929
+#EXTINF:0 tvg-id="ext" group-title="France AR",AR: Cartoon Network Arabic FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/245861
+#EXTINF:0 tvg-id="ext" group-title="France AR",SY: Spacetoon FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/245860
+#EXTINF:0 tvg-id="wild-hd" group-title="France AR",AR: NAT GEO Wild HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/245795
+#EXTINF:0 tvg-id="ext" group-title="France AR",MA: 2M Monde HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/244908
+#EXTINF:0 tvg-id="ext" group-title="France AR",MA: Aflam TV HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/244907
+#EXTINF:0 tvg-id="ext" group-title="France AR",MA: Al Aoula FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/244906
+#EXTINF:0 tvg-id="ext" group-title="France AR",MA: Al Maghribia FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/244905
+#EXTINF:0 tvg-id="ext" group-title="France AR",MA: Arryadia FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/244904
+#EXTINF:0 tvg-id="ext" group-title="France AR",MA: Assadissa FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/244903
+#EXTINF:0 tvg-id="ext" group-title="France AR",MA: Athaqafia FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/244902
+#EXTINF:0 tvg-id="ext" group-title="France AR",MA: Sahel TV HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/244896
+#EXTINF:0 tvg-id="ext" group-title="France AR",MA: Tamazight FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/244895
+#EXTINF:0 tvg-id="ext" group-title="France AR",MA: Tele Maroc FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/244894
 
 
-****************** AD SPORTS *******************
-#EXTINF:-1,AD SPORTS ASIA
-http://protv.top:8000/live/88107922460136017/1593574628/79069.ts
-#EXTINF:-1,AD Sport 1 HD
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682978
-#EXTINF:-1,AD Sport 2 HD
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682979
-#EXTINF:-1,AD Sport 3 HD
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682973
-#EXTINF:-1,AD Sport 4 HD
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/5404
+#EXTINF:0 tvg-id="ext" group-title="France AR",QA: Baraem FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243827
+#EXTINF:0 tvg-id="ext" group-title="France AR",QA: be Junior HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243826
+#EXTINF:0 tvg-id="ext" group-title="France AR",QA: beIN DRAMA
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243822
+#EXTINF:0 tvg-id="ext" group-title="France AR",QA: beIN DreamWorks
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243821
+#EXTINF:0 tvg-id="ext" group-title="France AR",QA: beIN FATAFEAT
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243820
+#EXTINF:0 tvg-id="ext" group-title="France AR",QA: beIN FOX Life
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243819
+#EXTINF:0 tvg-id="ext" group-title="France AR",QA: beIN Fox Crime
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243818
+#EXTINF:0 tvg-id="ext" group-title="France AR",QA: beIN Fox Rewayat HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243815
+#EXTINF:0 tvg-id="ext" group-title="France AR",QA: beIN Gourmet HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243814
+#EXTINF:0 tvg-id="ext" group-title="France AR",QA: beIN HGTV FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243813
+#EXTINF:0 tvg-id="ext" group-title="France AR",QA: beIN Movies 3 FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243809
+#EXTINF:0 tvg-id="ext" group-title="France AR",QA: beIN Movies Action 2 HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243808
+#EXTINF:0 tvg-id="ext" group-title="France AR",QA: beIN Movies Family 4 HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243806
+#EXTINF:0 tvg-id="ext" group-title="France AR",QA: beIN Movies Premiere HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243802
+#EXTINF:0 tvg-id="ext" group-title="France AR",QA: beIN NAT GEO
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243801
+#EXTINF:0 tvg-id="ext" group-title="France AR",QA: beIN Series 1 HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243799
+#EXTINF:0 tvg-id="ext" group-title="France AR",QA: beIN Series 2 FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243798
+#EXTINF:0 tvg-id="ext" group-title="France AR",QA: beIN Travel HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243796
+#
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: NAT GEO Abu Dhabi HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243710
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Netflix Action FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243709
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: nickelodeon FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243708
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Noor Dubai HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243706
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: OSN Action HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243705
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: OSN Comedy HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243704
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: OSN Enigma FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243703
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: OSN Festival HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243702
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: OSN HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243701
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: OSN Kid Zone HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243700
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: OSN Kids HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243699
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: OSN KidsCo HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243698
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: OSN Movies Box Office 1 HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243697
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: OSN Movies Box Office 2 HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243696
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: OSN Movies Box Office 3 HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243695
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: OSN Movies Disney HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243694
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE OSN Movies Disney HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243693
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: OSN Movies Drama HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243692
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: OSN Movies First +2
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243691
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: OSN Movies First HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243690
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: OSN Movies HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243689
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: OSN On Demand Extra 2 HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243688
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: OSN On Demand Extra 3 HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243687
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: OSN On Demand Extra HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243686
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: OSN On Demand HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243685
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: OSN Premiere 2 HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243684
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: OSN Premiere HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243683
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: OSN Series Frist HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243681
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: OSN Thriller 1 HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243679
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: OSN Thriller 2 HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243678
 
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Planet Earth HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243671
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Premiere Movies HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243670
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Romance Movies HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243669
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Shahed Action FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243667
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Shahed Aflam FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243666
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Shahed Arabie HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243665
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Shahed Hindi FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243664
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Shahed Horror FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243663
 
-********************   KIDS   *********************
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Star Movies HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243656
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: SYFY HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243655
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: TCM Cinema HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243654
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: The Movies Channel 2 HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243653
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: The Movies Channel HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243652
 
-#EXTINF:-1,Toyor Jannah/Baby
-http://protv.top:8000/live/88107922460136017/1593574628/38003.ts
-#EXTINF:-1,IEN RAWDATI
-http://protv.top:8000/live/88107922460136017/1593574628/80686.ts
-#EXTINF:-1,Baby TV
-http://protv.top:8000/live/88107922460136017/1593574628/42155.ts
-#EXTINF:-1,CN ARABIA
-http://protv.top:8000/live/88107922460136017/1593574628/12563.ts
-#EXTINF:-1,TOYOR BABY/Jannah
-http://protv.top:8000/live/88107922460136017/1593574628/12565.ts
-#EXTINF:-1,ATFAL W MAWAHEB
-http://protv.top:8000/live/88107922460136017/1593574628/74179.ts
-#EXTINF:-1,TA3LIM SALAT
-http://protv.top:8000/live/88107922460136017/1593574628/88661.ts
-#EXTINF:-1,TAFSIR QURAN
-http://protv.top:8000/live/88107922460136017/1593574628/88663.ts
-#EXTINF:-1,SPACETOON ARABIC
-http://protv.top:8000/live/88107922460136017/1593574628/12560.ts
-#EXTINF:-1,BARAEM
-http://protv.top:8000/live/88107922460136017/1593574628/12561.ts
-#EXTINF:-1,JEEM
-http://protv.top:8000/live/88107922460136017/1593574628/12562.ts
-#EXTINF:-1,MAJD atfal
-http://protv.top:8000/live/88107922460136017/1593574628/74103.ts
-#EXTINF:-1,MAJD RAWDA
-http://protv.top:8000/live/88107922460136017/1593574628/74104.ts
-#EXTINF:-1,MAJD TAGHAREED
-http://protv.top:8000/live/88107922460136017/1593574628/74178.ts
-
-****************** Documentry ***************
-
-#EXTINF:-1,USHUAIA TV HD
-http://2022tv.co:80/george/george/4982
-#EXTINF:-1,AD Nat Geo HD
-http://protv.top:8000/live/88107922460136017/1593574628/37982.ts
-#EXTINF:-1,Nat Geo SD
-http://protv.top:8000/live/88107922460136017/1593574628/37981.ts
-#EXTINF:-1,NAT GEO WILD HD
-http://protv.top:8000/live/88107922460136017/1593574628/37986.ts
-#EXTINF:-1,Jazeera Documentary HD
-http://protv.top:8000/live/88107922460136017/1593574628/37988.ts
-#EXTINF:-1,Al Jazeera Documentary SD
-http://protv.top:8000/live/88107922460136017/1593574628/37987.ts
-
-**************** SKY UK **************
-########## English Premier League #######
-
-#EXTINF:-1,SuperSport Premier League FHD VIP AF	
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682910
-#EXTINF:-1,Sky Sports Premier League FHD UK
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/684434
-#EXTINF:-1,Sky Sports Main Event FHD UK
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/671299
-#EXTINF:-1,Sky Sports Main Event HD UK
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/683841
-#EXTINF:-1,BT Sport 1 FHD UK
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/683858
-#EXTINF:-1,BT Sport 1 HD UK
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/683859
-#EXTINF:-1,BT Sport 1 UK
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/683860
-#EXTINF:-1,BT Sport 2 FHD UK
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/683861
-#EXTINF:-1,BT Sport 2 HD UK
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/683862
-#EXTINF:-1,BT Sport 2 UK
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/683863
-#EXTINF:-1,BT Sport 3 FHD UK
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/683865
-#EXTINF:-1,BT Sport 3 HD UK
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/683866
-#EXTINF:-1,BT Sport 3 UK
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/683867
-#EXTINF:-1,Bein Sports 11 FHD US
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682912 	
-
-************* BOX OFFICE **************
-#EXTINF:-1,Movies 1
-http://yassooo.com:8080//Manaf/Manaf123/79876
-#EXTINF:-1, Movies 2
-http://yassooo.com:8080//Manaf/Manaf123/79874
-#EXTINF:-1, Movies 3
-http://yassooo.com:8080//Manaf/Manaf123/79875
-#EXTINF:-1, Movies 4
-http://yassooo.com:8080//Manaf/Manaf123/79873
-#EXTINF:-1, Movies 5
-http://yassooo.com:8080//Manaf/Manaf123/79872
-#EXTINF:-1, Movies 6
-http://yassooo.com:8080//Manaf/Manaf123/79871
-#EXTINF:-1, Movies 7
-http://yassooo.com:8080//Manaf/Manaf123/79870
-#EXTINF:-1, Movies 8
-http://yassooo.com:8080//Manaf/Manaf123/79877
-#EXTINF:-1, Movies 9
-http://yassooo.com:8080//Manaf/Manaf123/79878
-#EXTINF:-1, Movies 10
-http://yassooo.com:8080//Manaf/Manaf123/79879
-#EXTINF:-1, Movies 11
-http://yassooo.com:8080//Manaf/Manaf123/79880
-#EXTINF:-1, Movies 12
-http://yassooo.com:8080//Manaf/Manaf123/79881
-#EXTINF:-1, Movies 13
-http://yassooo.com:8080//Manaf/Manaf123/79882
-#EXTINF:-1, Movies 14
-http://yassooo.com:8080//Manaf/Manaf123/79883
-#EXTINF:-1, Movies 15
-http://yassooo.com:8080//Manaf/Manaf123/79884
-#EXTINF:-1, Movies 16
-http://yassooo.com:8080//Manaf/Manaf123/79885
-
-#EXTINF:-1,ShahiD Action 33
-http://yassooo.com:8080//Manaf/Manaf123/79854
-#EXTINF:-1,Shahid Aflam 34
-http://yassooo.com:8080//Manaf/Manaf123/79855
-#EXTINF:-1,ShahiD Action 35
-http://yassooo.com:8080//Manaf/Manaf123/79856
-#EXTINF:-1,Shahid Aflam 36
-http://yassooo.com:8080//Manaf/Manaf123/79857
-#EXTINF:-1,ShahiD Action 37
-http://yassooo.com:8080//Manaf/Manaf123/79858
-#EXTINF:-1,Shahid Aflam 38
-http://yassooo.com:8080//Manaf/Manaf123/79859
-#EXTINF:-1,ShahiD Action 39
-http://yassooo.com:8080//Manaf/Manaf123/79860
-#EXTINF:-1,Shahid Aflam 40
-http://yassooo.com:8080//Manaf/Manaf123/79861
-#EXTINF:-1,ShahiD Action 41
-http://yassooo.com:8080//Manaf/Manaf123/79862
-#EXTINF:-1,Shahid Aflam 42
-http://yassooo.com:8080//Manaf/Manaf123/79863
-#EXTINF:-1,ShahiD Action 43
-http://yassooo.com:8080//Manaf/Manaf123/79864
-#EXTINF:-1,Shahid Aflam 44
-http://yassooo.com:8080//Manaf/Manaf123/79865
-#EXTINF:-1,ShahiD Action 45
-http://yassooo.com:8080//Manaf/Manaf123/79866
-#EXTINF:-1,Shahid Aflam 46
-http://yassooo.com:8080//Manaf/Manaf123/79867
-#EXTINF:-1,ShahiD Action 47
-http://yassooo.com:8080//Manaf/Manaf123/79868
-#EXTINF:-1,Shahid Aflam 48
-http://yassooo.com:8080//Manaf/Manaf123/79869
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: ANIMAL PLANET HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243599
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Aroma Action FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243597
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Aroma Aflam FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243596
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Aroma Box Office 1 FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243595
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Aroma Box Office 2 FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243594
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Aroma Box Office 3 FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243593
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Aroma Box Office 4 FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243592
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Aroma Home Cinema 1 FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243591
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Aroma Home Cinema 2 FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243590
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Aroma Home Cinema 3 FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243589
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Aroma Home Cinema 4 FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243588
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Aroma Home Cinema 5 FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243587
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Aroma Home Cinema 6 FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243586
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Aroma Horror FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243585
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Aroma Kids FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243584
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Aroma Masrahyat FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243583
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Aroma Wasaeqiah FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243582
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: b Cinema HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243580
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: B4U Aflam HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243579
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Baby TV HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243578
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Cinema 1 HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243574
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Cinema 2
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243572
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Citruss TV
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243570
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: CNBC Arabiya
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243569
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Discovery World HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243566
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Disney Channel HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243564
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: DreamWorks TV FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243560
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Dubai One FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243559
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Dubai Racing 2 FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243558
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Dubai Racing 3 FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243557
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Dubai Racing FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243556
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Dubai Sports 2 FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243555
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Dubai Sports 3 FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243554
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Dubai Sports FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243553
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Dubai TV FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243552
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Dubai Zaman FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243551
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Emarat TV
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243550
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Family Movies HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243549
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Fatafeat HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243548
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Fix & Foxi
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243547
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Fox Movies HD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243546
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Fox Crime
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243545
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Fox Life FHD
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243544
+#EXTINF:0 tvg-id="ext" group-title="France AR",AE: Fox Rewayat
+http://c.proserver.in:8080/MTFpS3xErqT/WcCEGgWFcJD/243541
