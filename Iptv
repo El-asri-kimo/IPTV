@@ -2,895 +2,159 @@
 #EXTINF:-1,إنضموا للجروب: IPTV FOR FREE [by KIMO]
 http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/22198
 
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="AR | BEIN SPORT HD",ahlakid.com - Al Kass 1 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/22837
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Sport",beIN Sports 1 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/50148?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEINSPORTS PREMIUM 01 HD++
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/167203?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sport French SD2+
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151570?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sport Premium SD2+
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151564?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sport English SD3+
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151568?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 1 EN HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/2531?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 1 PREMIUM HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/108161?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 1 PREMIUM Ultra 4K
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/3854?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 2 EN FHD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/12?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Sport",beIN Sports 1 HD+
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/110?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="Sport",beIN Sports 2 FHD FR
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/15?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 2 4K
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/114049?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 2 FR 4K
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/149601?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 2 EN Ultra 4K
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/22196?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 2 PREMIUM HD+
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/108?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 4 4K
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/114047?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 3 Ultra 4K
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/3849?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 3 PREMIUM HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/108163?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 4 Ultra 4K
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/3848?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 5 4K
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/114046?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Sport",beIN Sports 7 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/108170?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Sport",beIN Sports 6 HD+
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/116?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Sport",beIN Sports 5 SD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/2534?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Sport",beIN Sports 7 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports NBA 4K
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/149602?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports XTRA 1 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/117124?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports XTRA 1 HEVC
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/117123?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports XTRA 2 HEVC
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/117128?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports XTRA 2 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/117129?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="beINSportsXtra2.qa" group-title="Sport",beIN Sports XTRA 2 SD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/117131?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS 1 4K
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/146116?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BeinSport_2
+http://smartestv.vip:2095/ABHVYOP/2387998104/981?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="BeInSportMax6.fr" group-title="Sport",BeIN Sport Max 6
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/88437?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BEIN SPORTS 1 HD +6
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/190790?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BeinSport_1
+http://smartestv.vip:2095/ABHVYOP/2387998104/980?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",CANAL SPORTS HD2
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151082?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BeinSport_3
+http://smartestv.vip:2095/ABHVYOP/2387998104/982?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",CANAL SPORTS HD3
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151083?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Canal+ Sport 1
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/90096?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CanalplusSport2.pl" group-title="Sport",Canal+ Sport 2
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/90102?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",RMC SPORT 1 FHD ACCESS
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/9168?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",RMC SPORT LIVE 4 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/118421?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Sport",SKY SPORTS ARENA
+http://hostengine.live:25461/palmer/palmer/53977?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Sport",SKY SPORTS ARENA
+http://vmp343.ddnsking.com:80/pari/pari/549007?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SKY SPORTS ARENA  UHD
+http://loginto.live:80/JP1584/xuCu1Csjrs/73792?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Sport",SKY SPORTS ARENA FHD
+http://loginto.live:80/JP1584/xuCu1Csjrs/80619?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Sport",SKY SPORTS MAIN EVENT
+http://vmp343.ddnsking.com:80/pari/pari/549001?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Sport",SKY SPORTS MAIN EVENT HD
+http://loginto.live:80/JP1584/xuCu1Csjrs/73795?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Sport",SKY SPORTS PREMIER LEAGUE
+http://hostengine.live:25461/palmer/palmer/53986?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Sport",SKY SPORTS PREMIER LEAGUE
+http://vmp343.ddnsking.com:80/pari/pari/549002?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Sport",SKY SPORTS PREMIER LEAGUE FHD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/50272?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Sport",SKY SPORTS PREMIER LEAGUE HD
+http://obsfullhd.tv:25461/speedhd.hd/wk2rl4iWB6/1413?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SKY SPORTS PREMIER LEAGUE  UHD
+http://loginto.live:80/JP1584/xuCu1Csjrs/73789?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Sport",SKY SPORTS PREMIER LEAGUE HD
+http://loginto.live:80/JP1584/xuCu1Csjrs/80626?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports News HD
+http://red.ipfox.org:8080/1234/12345678/35068?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sport Premium SD1+
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/151563?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Sport",beIN Sports 1 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/108164?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",beIN Sports 3 EN FHD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/13?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="Sport",beIN Sports 3 FHD FR
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/16?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-id="ext" group-title="AR | SSC  SPORTS HD | ARABIC  HD",ahlakid.com - |SPO| SSC3 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156501
-#EXTINF:0 tvg-id="ext" group-title="AR | SSC  SPORTS HD | ARABIC  HD",ahlakid.com - SSC SPORTS HD 4
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150636
-#EXTINF:0 tvg-id="ext" group-title="AR | SSC  SPORTS HD | ARABIC  HD",ahlakid.com - |SPO| SSC4 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156502
-#EXTINF:0 tvg-id="ext" group-title="AR | SSC  SPORTS HD | ARABIC  HD",ahlakid.com - SSC SPORTS HD 5
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/150637
-#EXTINF:0 tvg-id="ext" group-title="AR | SSC  SPORTS HD | ARABIC  HD",ahlakid.com - |SPO|  Dubai Racing 1 TV HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156468
-#EXTINF:0 tvg-id="ext" group-title="AR | SSC  SPORTS HD | ARABIC  HD",ahlakid.com - |SPO|  Dubai Racing 2
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156469
-#EXTINF:0 tvg-id="ext" group-title="AR | SSC  SPORTS HD | ARABIC  HD",ahlakid.com - |SPO|  Dubai Racing 3
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156470
-#EXTINF:0 tvg-id="ext" group-title="AR | SSC  SPORTS HD | ARABIC  HD",ahlakid.com - |SPO|  Dubai Sport 1 HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156471
+#EXTINF:0 tvg-id="ext" group-title="Undefined",beIN ON DEMAND 3 UHD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/142521?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",beIN ON DEMAND 1 UHD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/142519?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",beIN ON DEMAND 2 UHD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/142520?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",beIN ON DEMAND 8 UHD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/142526?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",beIN ON DEMAND ARABIC
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/149743?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",beIN SP⚽RTS MAX 6 4K EN
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/146159?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",beIN SP⚽RTS MAX SD1
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/146118?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - |FR| BEIN SPORTS MAX 4 Champions League HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/195431
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - |FR| beIN SPORTS MAX 4 HD Champions
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/184833
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - |FR| BEIN SPORTS MAX 5 Champions League HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/195430
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - |FR| beIN SPORTS MAX 5 HD Champions
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/184834
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - |FR| BEIN SPORTS MAX 6 Champions League HD
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/195429
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport Premium 03 (240P)
-http://red.ipfox.org:8080/1234/12345678/31601
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport 01 (240P)
-http://red.ipfox.org:8080/1234/12345678/31600
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport 02 (240P)
-http://red.ipfox.org:8080/1234/12345678/31599
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport 03 (240P)
-http://red.ipfox.org:8080/1234/12345678/31598
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport 04 (240P)
-http://red.ipfox.org:8080/1234/12345678/31597
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport 05 (240P)
-http://red.ipfox.org:8080/1234/12345678/31596
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport 06 (240P)
-http://red.ipfox.org:8080/1234/12345678/31595
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport 07 (240P)
-http://red.ipfox.org:8080/1234/12345678/31594
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport Premium 01 (360P)
-http://red.ipfox.org:8080/1234/12345678/31593
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport Premium 02 (360P)
-http://red.ipfox.org:8080/1234/12345678/31592
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport Premium 03 (360P)
-http://red.ipfox.org:8080/1234/12345678/31591
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport 01 (360P)
-http://red.ipfox.org:8080/1234/12345678/31588
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport 02 (360P)
-http://red.ipfox.org:8080/1234/12345678/31587
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport 03 (360P)
-http://red.ipfox.org:8080/1234/12345678/31586
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport 04 (360P)
-http://red.ipfox.org:8080/1234/12345678/31585
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport 05 (360P)
-http://red.ipfox.org:8080/1234/12345678/31584
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport 06 (360P)
-http://red.ipfox.org:8080/1234/12345678/31583
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport 07 (360P)
-http://red.ipfox.org:8080/1234/12345678/31582
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport Premium 01 (480P)
-http://red.ipfox.org:8080/1234/12345678/31548
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport Premium 02 (480P)
-http://red.ipfox.org:8080/1234/12345678/31547
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport Premium 03 (480P)
-http://red.ipfox.org:8080/1234/12345678/31546
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport 01 (480P)
-http://red.ipfox.org:8080/1234/12345678/31555
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport 02 (480P)
-http://red.ipfox.org:8080/1234/12345678/31554
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport 03 (480P)
-http://red.ipfox.org:8080/1234/12345678/31553
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport 04 (480P)
-http://red.ipfox.org:8080/1234/12345678/31552
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport 05 (480P)
-http://red.ipfox.org:8080/1234/12345678/31551
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport 06 (480P)
-http://red.ipfox.org:8080/1234/12345678/31550
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport 07 (480P)
-http://red.ipfox.org:8080/1234/12345678/31549
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport Premium 01 (720P)
-http://red.ipfox.org:8080/1234/12345678/31529
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport Premium 02 (720P)
-http://red.ipfox.org:8080/1234/12345678/31528
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport Premium 03 (720P)
-http://red.ipfox.org:8080/1234/12345678/31527
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport 01 (720P)
-http://red.ipfox.org:8080/1234/12345678/31536
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport 02 (720P)
-http://red.ipfox.org:8080/1234/12345678/31535
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport 03 (720P)
-http://red.ipfox.org:8080/1234/12345678/31534
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport 04 (720P)
-http://red.ipfox.org:8080/1234/12345678/31533
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport 06 (720P)
-http://red.ipfox.org:8080/1234/12345678/31531
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport 07 (720P)
-http://red.ipfox.org:8080/1234/12345678/31530
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport Premium 01 (1080P)
-http://red.ipfox.org:8080/1234/12345678/31498
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport Premium 02 (1080P)
-http://red.ipfox.org:8080/1234/12345678/31497
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport Premium 03 (1080P)
-http://red.ipfox.org:8080/1234/12345678/31496
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport 01 (1080P)
-http://red.ipfox.org:8080/1234/12345678/31493
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport 03 (1080P)
-http://red.ipfox.org:8080/1234/12345678/31491
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport 06 (1080P)
-http://red.ipfox.org:8080/1234/12345678/31488
-#EXTINF:0 tvg-id="ext" group-title="EU | Ligue Des Champions",ahlakid.com - beIN Sport 07 (1080P)
-http://red.ipfox.org:8080/1234/12345678/31487
+#EXTINF:0 tvg-id="CANALplusCINEMA.fr" group-title="FRANCE",FR (HEVC) - CANAL+ CINEMA Full HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/32770?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Arryadia
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Arryadia
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - ATG
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Bahrain Sport 1
-http://185.105.4.106:1935/live/Bahrain%20Sports/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Bahrain Sport 1
-https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Bek Sports East
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Bek Sports West
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Edge Sports
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Esport Club
-https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - FOX Sport HD 1
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - New Japan Pro Wrestling World
-https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Red Bull TV
-https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Red Bull TV
-https://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Red Bull TV
-https://i.mjh.nz/au/Melbourne/tv.redbull.tv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Türkmenistan Sport
-http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Türkmenistan Sport
-http://217.174.225.146/legacyhls/ch004_400/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Türkmenistan Sport
-http://217.174.225.146/legacyhls/ch004_720/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Türkmenistan Sport
-https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Türkmenistan Sport
-https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Viasat Sport East
-https://persik.tv/stream/3602/287583/10249.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Pluto TV Sports
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6081310e48d3200007afaf3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8bf322-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0727f4fb-ea0b-4814-bb58-fdf3c4534220&serverSideAds=false&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Action Sports
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=8a1b4593-8596-4ff8-8720-2c3271ea36ca&deviceId=5be1be871843b56328bc3ef1&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Auto Motor Sport
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=c676a4b5-65d2-474a-b477-c04f8b88e727&deviceId=5f760c3d41aa2d0007bfde19&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Pluto TV Sports
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9bb941b95267e225e59c2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=b22749b0-ca0e-4663-8bb3-d83febbbb89f&deviceId=5ad9bb941b95267e225e59c2&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Астрахань.Ru Sport
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Астрахань.Ru Sport
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Астрахань.Ru Sport
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Репортер
-http://cdn1.live-tv.od.ua:8081/31chod/31chod/playlist.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Esport Club
-https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - ATG
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Edge Sport
-https://edgesport-samsungus.amagi.tv/playlist.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Edge Sport
-https://edgesport-samsunguk.amagi.tv/playlist.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Edge Sport
-https://edgesports-plex.amagi.tv/playlist.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Edge Sport (US)
-https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EdgeSport
-https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - El Conflecto!
-https://content.uplynk.com/channel/c56a6c94a53843c79d3eca411d39f96f.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Eleven Sports (UK)
-https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - FOX Sports
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Fight Network
-https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Fox Sports Australia
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360_v3.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Fox Sports pluto (720p)
-https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Fútbol Para Fans
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - GRVTY
-https://outsidetv-grvty-localnow.amagi.tv/localnow.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - IMPACT! Wrestling
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Insight TV
-https://insight-localnow.amagi.tv/playlist.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - LN Sports
-https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - NFL Channel
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - NFL Network
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - OF-TV Offenbach
-https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8?&ref=www.of-tv.de&seid=166119&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Oman Sports
-http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Outside TV
-https://outsidetv-outside-localnow.amagi.tv/localnow.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Pluto TV Action Sports
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8588734f8000823b7de/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Pluto TV Action Sports
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db867744f229f0009266784/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Pluto TV Deportes
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Pluto TV Fox Sports pluto (720p)
-https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=false&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Pluto TV Sports
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9bb941b95267e225e59c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Pluto TV Sports
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d7677fa2ec536ce1d587eeb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Pluto TV Sports
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Pluto TV Sports (England)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7677fa2ec536ce1d587eeb/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=607&deviceId=5d7677fa2ec536ce1d587eeb&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Red Bull TV
-http://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Red Bull TV
-https://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - SPORT | Red Bull TV
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Red Bull TV
-https://i.mjh.nz/au/Melbourne/tv.redbull.tv.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Red Bull TV
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Red Bull TV (720p)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - SPORT | ATG TV
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - SPORT | BeIN Sports Xtra
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - SPORT | Dubai Sports
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - SPORT | Dubai Sports 3
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - SPORT | MMA Junkie
-https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - SPORT | Rugby Men's Sevens
-https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - SPORT | Rugby Women's Sevens
-https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - SPORT | Rugby World TV
-https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - SPORT | TVRI Sports
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - SPORT | Turkmenistan Sport
-http://alpha.tv.online.tm/hls/ch004_720/index.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - SPORT | World Of Free Sports TV
-https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - SPORT | World Poker Tour
-https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - SPORT TV 1 PT
-http://93.152.174.144:4000/play/sporttv1/index.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - ST-TV : Edge Sports
-https://edgesports-sportstribal.amagi.tv/playlist.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - ST-TV : SportsGrid
-https://sportsgrid-tribal.amagi.tv/playlist.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Ski TV
-https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Sky Sports 2
-http://93.152.174.144:4000/play/skysports2/index.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Sky Sports 3
-http://93.152.174.144:4000/play/skysports3/index.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Sky Sports 4
-http://93.152.174.144:4000/play/skysports4/index.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Sky Sports 5
-http://93.152.174.144:4000/play/skysports5/index.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Sky Sports News
-http://93.152.174.144:4000/play/skysportsnews/index.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Sky Sports f1
-http://93.152.174.144:4000/play/ssportsf1/index.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - SportsGrid
-https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsgrid-plex/CDN/playlist.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Sportsgrid
-https://sportsgrid-vizio.amagi.tv/playlist.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Sportsgrid
-https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Sportskool TV
-https://a.jsrdn.com/broadcast/fabeab4b08/+0000/c.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - TVS Classic Sports (720p)
-http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - TVS Pinball Network (1080p)
-https://rpn1.bozztv.com/36bay2/gusa-TVSCartoonNetwork/index.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - TVS Sports (960p)
-https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - TVS Sports Bureau (720p)
-https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - TVS Women Sports (480p)
-https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Trace Sport Stars (Australia)
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Turkmenistan Sport
-http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Unbeaten Esports
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2a961bac1f70009ca7524/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Wired2Fish
-https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - World Of Free Sports TV
-https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - tv2 - Sport (720p)
-https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Астрахань.Ru Sport
-https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Астрахань.Ru Sport
-https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Астрахань.Ru Sport
-https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - ТРК Репортер
-http://cdn1.live-tv.od.ua:8081/31chod/31chod-sub/playlist.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Фан Спорт.
-https://live-k2309-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Abu Dhabi Sports1
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Abu Dhabi Sports 3
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports3&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Abu Dhabi Sports 4
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports4&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - SPORT | Dubai Racing
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Dubai Racing 2
-http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Dubai Sports
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Dubai Sports 1
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Dubai Sports 2
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports2&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Dubai Sports 3
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports3&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - AD Sports 6
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports6&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - NFL Channel
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Pluto TV Action Sports
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db867744f229f0009266784/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=759&deviceId=5db867744f229f0009266784&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Pluto TV Sports
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=725&deviceId=56340779a738201b4ccfeac9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - FOX Sports
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - SportsGrid
-https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - beIN SPORTS XTRA
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EDGESport
-https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - RTSH Sport
-http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/124.ts?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - TeleSport
-http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/54.ts?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Tring Sport 1 HD
-http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/63.ts?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Tring Sport 2 HD
-http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/62.ts?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Tring Sport 3 HD
-http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/61.ts?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - CBC Sport
-http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 1
-http://mfe.cliptv.az/dash/EuroSport1_SD.ism/playlist.mpd?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Матч! Арена
-http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Матч! Боец
-http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - ALL SPORTS
-http://168.205.87.198:8555/live/1111/123456/148.ts?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Tring Sport News
-http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/65.ts?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - ALL SPORTS
-http://168.205.87.198:8555/live/antony/1234/148.ts?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - ALL SPORTS
-http://168.205.87.198:8555/live/leila/123456/148.ts?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - ESPN 2
-http://168.205.87.198:8555/live/antony/1234/49.ts?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - ESPN 2
-http://168.205.87.198:8555/live/leila/123456/49.ts?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - ESPN BRASIL
-http://168.205.87.198:8555/live/leila/123456/50.ts?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - ESPN BRASIL
-http://168.205.87.198:8555/live/antony/1234/50.ts?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - ESPN EXTRA
-http://168.205.87.198:8555/live/leila/123456/51.ts?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - ESPN EXTRA
-http://168.205.87.198:8555/live/antony/1234/51.ts?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - ESPN INT
-http://168.205.87.198:8555/live/antony/1234/60.ts?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - ESPN INT
-http://168.205.87.198:8555/live/leila/123456/60.ts?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Diema Sport 2 HD
-http://78.83.191.18:8000/play/a077?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Diema Sport 3 HD
-http://78.83.191.18:8000/play/a07e?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Diema Sport HD
-http://78.83.191.18:8000/play/a076?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Eurosport
-http://78.83.191.18:8000/play/a05y?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Eurosport 2
-http://78.83.191.18:8000/play/a04b?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - MAX Sport 1 HD
-http://78.83.191.18:8000/play/a073?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - MAX Sport 2 HD
-http://78.83.191.18:8000/play/a074?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - MAX Sport 3 HD
-http://78.83.191.18:8000/play/a075?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - MAX Sport 4 HD
-http://78.83.191.18:8000/play/a07f?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Nova Sport
-http://78.83.191.18:8000/play/a04a?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - All Sports
-http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Al Kass Sports
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Al Kass Sports 3
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - DUBAI SPORTS 1 (1920×1080)
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - SPORT | Dubai Sports 2
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - DUBAI SPORTS 3 (1920×1080)
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - SPORT | Oman Sports
-http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Репортер 73 (Ульяновск)
-http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8?version=2&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - My Sports TV
-https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Türkmenistan Sport
-https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Eurosport 4K
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - TVRI Sport HD (480p)
-http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Репортер
-http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Репортер
-http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Abu Dabi Sports 2
-http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Abu Dabi Sports 3
-http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Abu Dhabi Sports
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Action Sports
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Al Kass Спортs 1 HD
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - All Sports
-http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/playlist.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Auto Motor Sport
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - BT SPORT 1
-http://93.152.174.144:4000/play/btsport1/index.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - BT SPORT 2
-http://93.152.174.144:4000/play/btsport2/index.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Bein Sport 1 FR
-http://93.152.174.144:4000/play/bein1fr/index.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Bein Sport 4 ar
-http://93.152.174.144:4000/play/bein4ar/index.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Bein Sports 2 FR
-http://93.152.174.144:4000/play/bein2fr/index.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Bein Sports 3 AR
-http://93.152.174.144:4000/play/bein3ar/index.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Bein Sports 3 FR
-http://93.152.174.144:4000/play/bein3fr/index.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Bein Sports 5 AR
-http://93.152.174.144:4000/play/Bein5Ar/index.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Bein Sports 7 AR
-http://93.152.174.144:4000/play/bein7/index.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Canal Motor (720p)
-http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Canal Motor (720p)
-https://digicom.hls.iptvdc.com/motorstv/index.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EPG : TV25.8 Untamed Sports TV
-https://cdn.igocast.com/channel8_hls/channel8_master.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  /  -1
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-3600&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  /  -2
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-7200&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  /  -3
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-10800&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  /  -4
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-14400&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  /  -5
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-18000&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  /  -6
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-21600&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  /  -7
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-25200&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  /  -8
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-28800&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  /  -9
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-32400&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  / -10
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-36000&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  / -11
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-39600&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  / -12
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-43200&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  / -13
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-46800&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  / -14
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-50400&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  / -15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-54000&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  / -16
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-57600&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  / -17
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-61200&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  / -18
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-64800&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  / -19
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-68400&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  / -20
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-72000&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  / -21
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-75600&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  / -22
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-79200&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  / -23
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-82800&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  / -24
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-86400&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  / -25
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-90000&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  / -26
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-93600&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  / -27
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-97200&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  / -28
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-100800&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  / -29
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-104400&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  / -30
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-108000&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  / -31
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-111600&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  / -32
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-115200&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  / -33
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-118800&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  / -34
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-122400&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  / -35
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-126000&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  / -36
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-129600&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  / -37
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-133200&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  / -38
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-136800&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  / -39
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-140400&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  / -40
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-144000&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  / -41
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-147600&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  / -42
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-151200&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  / -43
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-154800&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  / -44
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-158400&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  / -45
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-162000&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  / -46
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-165600&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  / -47
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-169200&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  / -48
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-172800&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  / -49
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-176400&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - EUROSPORT 4K  / -50
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-180000&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - TIGO SPORT HD
-http://tecnotv.club/got/smtv3.php?c=800&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Viasat Sport East
-https://persik.tv/stream/3602/287583/10249.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Матч! ТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ahlakid.com - Матч! (Резерв2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/bw2000000/variant.m3u8?checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",LA LIGA 01 - WED 1PM EST ATLETICO MADRID VS LEVANTE
+http://hostengine.live:25461/palmer/palmer/145923?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",LIGA CAMPEONES FHD
+http://obsfullhd.tv:25461/speedhd.hd/wk2rl4iWB6/5351?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",LIGA DE CAMPEONES 4 HD
+http://obsfullhd.tv:25461/speedhd.hd/wk2rl4iWB6/6956?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",LIGA DE CAMPEONES 8 HD
+http://obsfullhd.tv:25461/speedhd.hd/wk2rl4iWB6/6954?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",LIGA DE CAMPEONES 7 HD
+http://obsfullhd.tv:25461/speedhd.hd/wk2rl4iWB6/6958?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",LIGA DE CAMPEONES 5 HD
+http://obsfullhd.tv:25461/speedhd.hd/wk2rl4iWB6/6955?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",M Liga de campeones HD2
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10070?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",M. Liga De Campeones HD
+http://loginto.live:80/JP1584/xuCu1Csjrs/79136?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-id="ext" group-title="ARABIC BEIN SPORTS",ahlakid.com - |.AR.| BEIN SPORTS NEWS HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9152
-#EXTINF:0 tvg-id="ext" group-title="ARABIC BEIN SPORTS",ahlakid.com - |.AR.| BEIN SPORTS PREMIUM 1 SD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/32008
-#EXTINF:0 tvg-id="ext" group-title="ARABIC BEIN SPORTS",ahlakid.com - |.AR.| BEIN SPORTS PREMIUM 1 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9146
-#EXTINF:0 tvg-id="ext" group-title="ARABIC BEIN SPORTS",ahlakid.com - |.AR.| BEIN SPORTS PREMIUM 1 FHD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9147
-#EXTINF:0 tvg-id="ext" group-title="ARABIC BEIN SPORTS",ahlakid.com - |.AR.| BEIN SPORTS PREMIUM 1 FHD 4K
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30756
-#EXTINF:0 tvg-id="ext" group-title="ARABIC BEIN SPORTS",ahlakid.com - |.AR.| BEIN SPORTS PREMIUM 1 FHD HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/39224
-#EXTINF:0 tvg-id="ext" group-title="ARABIC BEIN SPORTS",ahlakid.com - |.AR.| BEIN SPORTS PREMIUM 2 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9148
-#EXTINF:0 tvg-id="ext" group-title="ARABIC BEIN SPORTS",ahlakid.com - |.AR.| BEIN SPORTS PREMIUM 3 SD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/32006
-#EXTINF:0 tvg-id="ext" group-title="ARABIC BEIN SPORTS",ahlakid.com - |.AR.| BEIN SPORTS PREMIUM 3 FHD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9151
-#EXTINF:0 tvg-id="ext" group-title="ARABIC BEIN SPORTS",ahlakid.com - |.AR.| BEIN SPORTS PREMIUM 3 FHD 4K
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30758
-#EXTINF:0 tvg-id="ext" group-title="ARABIC BEIN SPORTS",ahlakid.com - |.AR.| BEIN SPORTS 1 SD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/32015
-#EXTINF:0 tvg-id="ext" group-title="ARABIC BEIN SPORTS",ahlakid.com - |.AR.| BEIN SPORTS 1 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9131
-#EXTINF:0 tvg-id="ext" group-title="ARABIC BEIN SPORTS",ahlakid.com - |.AR.| BEIN SPORTS 1 FHD 4K
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30749
-#EXTINF:0 tvg-id="ext" group-title="ARABIC BEIN SPORTS",ahlakid.com - |.AR.| BEIN SPORTS 2 SD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/32014
-#EXTINF:0 tvg-id="ext" group-title="ARABIC BEIN SPORTS",ahlakid.com - |.AR.| BEIN SPORTS 2 FHD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9135
-#EXTINF:0 tvg-id="ext" group-title="ARABIC BEIN SPORTS",ahlakid.com - |.AR.| BEIN SPORTS ENGLISH 1 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9153
-#EXTINF:0 tvg-id="ext" group-title="ARABIC BEIN SPORTS",ahlakid.com - |.AR.| BEIN SPORTS XTRA 1 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/119957
-#EXTINF:0 tvg-id="ext" group-title="ARABIC BEIN SPORTS",ahlakid.com - ---??| BEIN SPORT |??---
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/22460
-
-#EXTINF:0 tvg-id="ext" group-title="FRANCE HEVC FHD",ahlakid.com - |FR.H265| BEIN SPORT 2
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83081
-#EXTINF:0 tvg-id="ext" group-title="FRANCE HEVC FHD",ahlakid.com - |FR.H265| BEIN SPORT 3
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83080
-#EXTINF:0 tvg-id="ext" group-title="FRANCE HEVC FHD",ahlakid.com - |FR.H265| BEIN SPORT MAX 4
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83079
-#EXTINF:0 tvg-id="ext" group-title="FRANCE HEVC FHD",ahlakid.com - |FR.H265| BEIN SPORT MAX 8
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83078
-#EXTINF:0 tvg-id="ext" group-title="FRANCE HEVC FHD",ahlakid.com - |FR.H265| MULTISPORTS 1
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83091
-#EXTINF:0 tvg-id="ext" group-title="FRANCE HEVC FHD",ahlakid.com - |FR.H265| MULTISPORTS 2
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83092
-#EXTINF:0 tvg-id="ext" group-title="FRANCE HEVC FHD",ahlakid.com - |FR.H265| MULTISPORTS 3
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83093
-#EXTINF:0 tvg-id="ext" group-title="FRANCE HEVC FHD",ahlakid.com - |FR.H265| MULTISPORTS 4
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83094
-#EXTINF:0 tvg-id="ext" group-title="FRANCE HEVC FHD",ahlakid.com - |FR.H265| MULTISPORTS 5
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83095
-#EXTINF:0 tvg-id="ext" group-title="FRANCE HEVC FHD",ahlakid.com - |FR.H265| MULTISPORTS 6
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/83096
-
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| CANAL+ SPORT
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/39203
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| CANAL SPORT HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15191
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| CANAL+ SPORT HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9326
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| CANAL+ SPORT FHD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/51166
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| CANAL+ PREMIER LEAGUE HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/125118
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| AMAZON PRIME MULTIPLEX SD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/126666
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| AMAZON PRIME MULTIPLEX FHD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124796
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| AMAZON PRIME LIGUE 1 LIVE 1 SD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/108558
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| AMAZON PRIME LIGUE 1 LIVE 1 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/108559
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| AMAZON PRIME LIGUE 1 LIVE 2 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124485
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| AMAZON PRIME LIGUE 1 LIVE 2 FHD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124484
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| AMAZON PRIME LIGUE 1 LIVE 3 SD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124489
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| AMAZON PRIME LIGUE 1 LIVE 3 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124488
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| AMAZON PRIME LIGUE 1 LIVE 5 FHD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124493
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| AMAZON PRIME LIGUE 1 LIVE 6 FHD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124524
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| AMAZON PRIME LIGUE 1 LIVE 8 SD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124522
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| AMAZON PRIME LIGUE 1 LIVE 8 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124527
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| AMAZON PRIME LIGUE 1 LIVE 9 SD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124559
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| BEIN SPORT 1 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9340
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| BEIN SPORT 1 HD BKP
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9345
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| BEIN SPORT 2
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15203
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| BEIN SPORT 2 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9339
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| BEIN SPORT 2 HD BKP
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9344
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| BEIN SPORT 2 FHD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9588
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR|  BEIN SPORT 3 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9341
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| BEIN SPORT 3 FHD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9587
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| RMC SPORT 1 SD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15127
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| RMC SPORT 1 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9218
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| RMC SPORT 1 FHD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9502
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| RMC SPORT 2 SD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15126
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| RMC SPORT 2 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9217
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| RMC SPORT 4
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15124
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| RMC SPORT 4 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9215
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| MULTISPORTS 3 FHD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/108542
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| EUROSPORT 1
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15172
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| EUROSPORT 1 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9281
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| EUROSPORT 2 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9280
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| EUROSPORT 2 FHD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9548
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| INFOSPORT
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9265
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| INFOSPORT HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15156
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| INFOSPORT FHD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9534
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| FOOT+ 24/24
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/32819
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| FOOT+ 24/24 FHD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/51104
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| LEQUIPE 21
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9264
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| LEQUIPE 21 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15155
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| CANAL+ MOTO GP FHD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15147
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| GOLF+
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9270
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| GOLF+ FHD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9540
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| GOLF CHANNEL HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15162
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| GOLF CHANNEL FHD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9539
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| EQUIDIA LIVE
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9282
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - |FR| EQUIDIA LIVE HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15173
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",#EXTVLCOPT:network-caching=1000
-http://www.elahmad.com/tv/m3u8/alkass.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",#EXTVLCOPT:network-caching=1000
-http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",#EXTVLCOPT:network-caching=1000
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",#EXTVLCOPT:network-caching=1000
-https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",#EXTVLCOPT:network-caching=1000
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",#EXTVLCOPT:network-caching=1000
-http://203.162.235.41:16924
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",#EXTVLCOPT:network-caching=1000
-https://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",#EXTVLCOPT:network-caching=1000
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",#EXTVLCOPT:network-caching=1000
-https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",#EXTVLCOPT:network-caching=1000
-https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",#EXTVLCOPT:network-caching=1000
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",#EXTVLCOPT:network-caching=1000
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/nz/tv.redbull.tv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",#EXTVLCOPT:network-caching=1000
-https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",#EXTVLCOPT:network-caching=1000
-https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",#EXTVLCOPT:network-caching=1000
-https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",#EXTVLCOPT:network-caching=1000
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",#EXTVLCOPT:network-caching=1000
-https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",#EXTVLCOPT:network-caching=1000
-https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",#EXTVLCOPT:network-caching=1000
-https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",#EXTVLCOPT:network-caching=1000
-https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",#EXTVLCOPT:network-caching=1000
-https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",#EXTVLCOPT:network-caching=1000
-https://uiptv.do.am/1ufc/000000003/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - beIN Sports 1 FHD TR
-http://mytv.fun:8080/erbil22/fHXlwwRS/681951
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - beIN Sports 1 HD TR
-http://mytv.fun:8080/erbil22/fHXlwwRS/6908
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - beIN Sports 1 [Yedek] HD TR
-http://mytv.fun:8080/erbil22/fHXlwwRS/13232
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - beIN Box Office 1 TR
-http://mytv.fun:8080/erbil22/fHXlwwRS/14976
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - beIN Box Office 1 FHD TR
-http://mytv.fun:8080/erbil22/fHXlwwRS/6912
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - beIN Box Office 3 FHD TR
-http://mytv.fun:8080/erbil22/fHXlwwRS/6910
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - Bein Sport Haber TR
-http://mytv.fun:8080/erbil22/fHXlwwRS/12836
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - beIN Sports 2 [HEVC] FHD VIP AR
-http://mytv.fun:8080/erbil22/fHXlwwRS/5481
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - beIN Sports 2 FHD AR
-http://mytv.fun:8080/erbil22/fHXlwwRS/682933
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - beIN Sports 3 [HEVC] FHD VIP AR
-http://mytv.fun:8080/erbil22/fHXlwwRS/5480
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - beIN Sports 3 FHD AR
-http://mytv.fun:8080/erbil22/fHXlwwRS/682934
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - beIN Sports 4 [HEVC] FHD VIP AR
-http://mytv.fun:8080/erbil22/fHXlwwRS/5479
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - beIN Sports 5 [HEVC] FHD VIP AR
-http://mytv.fun:8080/erbil22/fHXlwwRS/682935
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - beIN Sports 6 [HEVC] FHD VIP AR
-http://mytv.fun:8080/erbil22/fHXlwwRS/54777
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - beIN Sports 7 [HEVC] FHD VIP AR
-http://mytv.fun:8080/erbil22/fHXlwwRS/683135
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - beIN Sports 10 [HEVC] FHD VIP AR
-http://mytv.fun:8080/erbil22/fHXlwwRS/5473
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - beIN Sports 1 HD VIP US
-http://mytv.fun:8080/erbil22/fHXlwwRS/689287
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - beIN Sports 2 HQ VIP US
-http://mytv.fun:8080/erbil22/fHXlwwRS/689288
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - beIN Sports 3 HQ VIP US
-http://mytv.fun:8080/erbil22/fHXlwwRS/689289
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - beIN Sports Haber HD TR
-http://mytv.fun:8080/erbil22/fHXlwwRS/682950
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - beIN Sports 1 HD TR
-http://mytv.fun:8080/erbil22/fHXlwwRS/682946
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - beIN Sports 2 FHD TR
-http://mytv.fun:8080/erbil22/fHXlwwRS/682947
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - beIN Sports 3 VIP TR
-http://mytv.fun:8080/erbil22/fHXlwwRS/682948
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - beIN Sports 4 FHD TR
-http://mytv.fun:8080/erbil22/fHXlwwRS/682949
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - beIN Sports Max 6 FR
-http://mytv.fun:8080/erbil22/fHXlwwRS/625242
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - beIN Sports Max 7 FR
-http://mytv.fun:8080/erbil22/fHXlwwRS/54678
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - beIN Sports Max 8 FR
-http://mytv.fun:8080/erbil22/fHXlwwRS/5466
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",ahlakid.com - beiN Sports HD US
-http://mytv.fun:8080/erbil22/fHXlwwRS/4902
-
-#EXTINF:0 tvg-id="ext" group-title="Sport;Undefined",ahlakid.com - Red Bull TV SD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport;Undefined",ahlakid.com - 迪拜赛马俱乐部
-http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport;Undefined",ahlakid.com - NJPW World
-https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8?checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport;Undefined",ahlakid.com - Al Kass Two
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2&checkedby:ahlakid.com
-#EXTINF:0 tvg-id="ext" group-title="Sport;Undefined",ahlakid.com - Al Kass Five
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5&checkedby:ahlakid.com
+#EXTINF:0 tvg-id="ext" group-title="Kids",beIN ON DEMAND KIDS
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/149626?checkedby:iptvcat.com
