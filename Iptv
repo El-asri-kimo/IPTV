@@ -1,7 +1,8 @@
 #EXTM3U 
 #EXTINF:-1,إنضموا للجروب: IPTV FOR FREE [by KIMO]
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/44?checkedby:iptvcat.com
 
+
+#EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 1 PREMIUM 4K
 http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/114053?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 1 PREMIUM HD
