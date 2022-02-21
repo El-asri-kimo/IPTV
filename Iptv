@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,kimoExtra
-http://line.hi-live.me:80/a093d7b389/c154901264/356183
+http://line.hi-live.me:80/a093d7b389/c154901264/653632
 #EXTINF:-1,👈Groupe👉:IPTV FOR FREE..[by KIMO]
 http://line.hi-live.me:80/a093d7b389/c154901264/653634
 
@@ -511,20 +511,6 @@ http://line.hi-live.me:80/a093d7b389/c154901264/550417
 http://line.hi-live.me:80/a093d7b389/c154901264/603951
 #EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORTS FRENCH 2 FHD
 http://line.hi-live.me:80/a093d7b389/c154901264/603949
-#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",AR - AL KASS 1 HD
-http://line.hi-live.me:80/a093d7b389/c154901264/584499
-#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",AR - AL KASS 2 HD
-http://line.hi-live.me:80/a093d7b389/c154901264/584497
-#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",AR - AL KASS 3 HD
-http://line.hi-live.me:80/a093d7b389/c154901264/631033
-#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",AR - AL KASS 3 FHD
-http://line.hi-live.me:80/a093d7b389/c154901264/631032
-#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",AR - AL KASS 4 HD
-http://line.hi-live.me:80/a093d7b389/c154901264/584495
-#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",AR - AL KASS 5 HD
-http://line.hi-live.me:80/a093d7b389/c154901264/584493
-#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",AR - AL KASS 6 FHD
-http://line.hi-live.me:80/a093d7b389/c154901264/631034
 
 #EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",### BEIN SPORTS HEVC ###
 http://line.hi-live.me:80/a093d7b389/c154901264/594520
