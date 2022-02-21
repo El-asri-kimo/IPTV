@@ -1,7 +1,7 @@
 #EXTM3U
 
-kimoExtra
-
+#EXTINF:-1,kimoExtra
+http://line.hi-live.me:80/a093d7b389/c154901264/356183
 #EXTINF:-1,👈اجروب👉:IPTV FOR FREE..[by KIMO]
 http://line.hi-live.me:80/a093d7b389/c154901264/653634
 
@@ -1537,12 +1537,6 @@ http://line.hi-live.me:80/a093d7b389/c154901264/587705
 http://line.hi-live.me:80/a093d7b389/c154901264/587704
 
 
-#EXTINF:-1,GOL
-http://line.hi-live.me:80/a093d7b389/c154901264/505614
-#EXTINF::-1,BARCA TV
-http://line.hi-live.me:80/a093d7b389/c154901264/505615
-#EXTINF:MADRID TV
-http://line.hi-live.me:80/a093d7b389/c154901264/505616
 #EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. GOLF HD
 http://line.hi-live.me:80/a093d7b389/c154901264/505617
 #EXTINF:0 tvg-id="M.LaLigaUHD.es" group-title="|ES| DEPORTES",ES - M. LALIGA HD
