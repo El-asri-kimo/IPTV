@@ -1536,13 +1536,12 @@ http://line.hi-live.me:80/a093d7b389/c154901264/587705
 #EXTINF:0 tvg-id="ext" group-title="|AR| NETFLIX",NF - NETFLIX MOVIES 10 UHD
 http://line.hi-live.me:80/a093d7b389/c154901264/587704
 
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",##### ESP DEPORTES #####
-http://line.hi-live.me:80/a093d7b389/c154901264/505613
-#EXTINF:0 tvg-id="GOL.es" group-title="|ES| DEPORTES",ES - GOL
+
+#EXTINF:-1,GOL
 http://line.hi-live.me:80/a093d7b389/c154901264/505614
-#EXTINF:0 tvg-id="BarcaTV.es" group-title="|ES| DEPORTES",ES - BARCA TV
+#EXTINF::-1,BARCA TV
 http://line.hi-live.me:80/a093d7b389/c154901264/505615
-#EXTINF:0 tvg-id="RealMadridTV.es" group-title="|ES| DEPORTES",ES - R. MADRID TV
+#EXTINF:MADRID TV
 http://line.hi-live.me:80/a093d7b389/c154901264/505616
 #EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. GOLF HD
 http://line.hi-live.me:80/a093d7b389/c154901264/505617
@@ -1600,7 +1599,7 @@ http://line.hi-live.me:80/a093d7b389/c154901264/505641
 http://line.hi-live.me:80/a093d7b389/c154901264/505642
 #EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - LALIGA 123 HD
 http://line.hi-live.me:80/a093d7b389/c154901264/505643
-#EXTINF:0 tvg-id="LaLigaTVBar.es" group-title="|ES| DEPORTES",ES - LALIGATV BAR HD
+#EXTINF::-1,LALIGATV BAR HD
 http://line.hi-live.me:80/a093d7b389/c154901264/505619
 #EXTINF:0 tvg-id="LaLigaTVBar1.es" group-title="|ES| DEPORTES",ES - LALIGATVBAR1 [LIVEEVENT]
 http://line.hi-live.me:80/a093d7b389/c154901264/505644
@@ -1612,13 +1611,13 @@ http://line.hi-live.me:80/a093d7b389/c154901264/505646
 http://line.hi-live.me:80/a093d7b389/c154901264/505647
 #EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - MULTIDEPORTE
 http://line.hi-live.me:80/a093d7b389/c154901264/505648
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M.LCAMPEONES HD
+#EXTINF::-1,M.LCAMPEONES HD
 http://line.hi-live.me:80/a093d7b389/c154901264/505650
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. LCAMPEONES FHD (1080)
+#EXTINF::-1,M. LCAMPEONES FHD (1080)
 http://line.hi-live.me:80/a093d7b389/c154901264/556935
 #EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M.LCAMPEON2 [LIVEEVENT]
 http://line.hi-live.me:80/a093d7b389/c154901264/505653
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M.LCAMPEONES 2 FHD (1080P)
+#EXTINF::-1,M.LCAMPEONES 2 FHD (1080P)
 http://line.hi-live.me:80/a093d7b389/c154901264/505651
 #EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M.LCAMPEON1 [LIVEEVENT]
 http://line.hi-live.me:80/a093d7b389/c154901264/505652
