@@ -4,670 +4,295 @@
 http://red.ipfox.org:8080/1234/12345678/2332
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",beINSports1-fullhd
-http://185.132.179.92:25461/live/102030405060/605040302010/1907.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beINSports2-fullhd
-http://185.132.179.92:25461/live/102030405060/605040302010/1906.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beINSports3-fullhd
-http://185.132.179.92:25461/live/102030405060/605040302010/1905.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beINSports4-fullhd
-http://185.132.179.92:25461/live/102030405060/605040302010/1904.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beINSports5-fullhd
-http://185.132.179.92:25461/live/102030405060/605040302010/1903.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beINSports6-fullhd
-http://185.132.179.92:25461/live/102030405060/605040302010/1902.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beINSports7-fullhd
-http://185.132.179.92:25461/live/102030405060/605040302010/1901.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beINSports-Premium-1-fullhd
-http://185.132.179.92:25461/live/102030405060/605040302010/1900.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beINSports-Premium-2-fullhd
-http://185.132.179.92:25461/live/102030405060/605040302010/1899.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beINSports-Premium-3-fullhd
-http://185.132.179.92:25461/live/102030405060/605040302010/1898.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN XTRA-1
-http://185.132.179.92:25461/live/102030405060/605040302010/1897.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN XTRA-2
-http://185.132.179.92:25461/live/102030405060/605040302010/1896.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beINSports13
-http://185.132.179.92:25461/live/102030405060/605040302010/1895.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beINSports14
-http://185.132.179.92:25461/live/102030405060/605040302010/1894.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beINSports15
-http://185.132.179.92:25461/live/102030405060/605040302010/1893.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-arabic1
-http://185.132.179.92:25461/live/102030405060/605040302010/19.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic Arabic 2
-http://185.132.179.92:25461/live/102030405060/605040302010/28168.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-arabic2
-http://185.132.179.92:25461/live/102030405060/605040302010/20.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-action1
-http://185.132.179.92:25461/live/102030405060/605040302010/21.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-action2
-http://185.132.179.92:25461/live/102030405060/605040302010/22.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-classic
-http://185.132.179.92:25461/live/102030405060/605040302010/27.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-classic2
-http://185.132.179.92:25461/live/102030405060/605040302010/9385.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-comedy1
-http://185.132.179.92:25461/live/102030405060/605040302010/30.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-comedy2
-http://185.132.179.92:25461/live/102030405060/605040302010/31.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-drama
-http://185.132.179.92:25461/live/102030405060/605040302010/36.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-hindi
-http://185.132.179.92:25461/live/102030405060/605040302010/26.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-horror
-http://185.132.179.92:25461/live/102030405060/605040302010/24.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-horror2
-http://185.132.179.92:25461/live/102030405060/605040302010/9386.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-kids
-http://185.132.179.92:25461/live/102030405060/605040302010/25.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",majestic-cartoon
-http://185.132.179.92:25461/live/102030405060/605040302010/9577.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-max
-http://185.132.179.92:25461/live/102030405060/605040302010/35.ts
-#EXTINF:0 tvg-id="mega" group-title="Channels",MEGA
-http://185.132.179.92:25461/live/102030405060/605040302010/32.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-3d-for-3dTV
-http://185.132.179.92:25461/live/102030405060/605040302010/28.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-3d-for-all-TV
-http://185.132.179.92:25461/live/102030405060/605040302010/29.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic +18
-http://185.132.179.92:25461/live/102030405060/605040302010/28133.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-+18
-http://185.132.179.92:25461/live/102030405060/605040302010/33.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-series
-http://185.132.179.92:25461/live/102030405060/605040302010/37.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-dance
-http://185.132.179.92:25461/live/102030405060/605040302010/38.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-fashion
-http://185.132.179.92:25461/live/102030405060/605040302010/34.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",majestic-wwe
-http://185.132.179.92:25461/live/102030405060/605040302010/9578.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",contactus
-http://185.132.179.92:25461/live/102030405060/605040302010/13028.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-Coronavirus
-http://185.132.179.92:25461/live/102030405060/605040302010/14618.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-arabic1-sd
-http://185.132.179.92:25461/live/102030405060/605040302010/54.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-arabic2-sd
-http://185.132.179.92:25461/live/102030405060/605040302010/56.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-action1-sd
-http://185.132.179.92:25461/live/102030405060/605040302010/57.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-action2-sd
-http://185.132.179.92:25461/live/102030405060/605040302010/58.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",MEGA-sd
-http://185.132.179.92:25461/live/102030405060/605040302010/60.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-boxoffice-sd
-http://185.132.179.92:25461/live/102030405060/605040302010/59.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-classic-sd
-http://185.132.179.92:25461/live/102030405060/605040302010/65.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-Classic 2 sd
-http://185.132.179.92:25461/live/102030405060/605040302010/9583.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-comedy1-sd
-http://185.132.179.92:25461/live/102030405060/605040302010/69.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-comedy2-sd
-http://185.132.179.92:25461/live/102030405060/605040302010/70.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-drama-sd
-http://185.132.179.92:25461/live/102030405060/605040302010/71.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-hindi-sd
-http://185.132.179.92:25461/live/102030405060/605040302010/63.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-horror-sd
-http://185.132.179.92:25461/live/102030405060/605040302010/61.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-horror 2 sd
-http://185.132.179.92:25461/live/102030405060/605040302010/9581.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-kids-sd
-http://185.132.179.92:25461/live/102030405060/605040302010/64.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-max-sd
-http://185.132.179.92:25461/live/102030405060/605040302010/62.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-series-sd
-http://185.132.179.92:25461/live/102030405060/605040302010/72.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic+18-sd
-http://185.132.179.92:25461/live/102030405060/605040302010/68.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-3d-for-3dTV-sd
-http://185.132.179.92:25461/live/102030405060/605040302010/67.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-3d-for-all-TV-sd
-http://185.132.179.92:25461/live/102030405060/605040302010/66.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-dance-sd
-http://185.132.179.92:25461/live/102030405060/605040302010/73.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-fashion-sd
-http://185.132.179.92:25461/live/102030405060/605040302010/74.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-wwe-sd
-http://185.132.179.92:25461/live/102030405060/605040302010/75.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",majestic-cartoon-sd
-http://185.132.179.92:25461/live/102030405060/605040302010/9579.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-arabic1-low
-http://185.132.179.92:25461/live/102030405060/605040302010/199.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-arabic2-low
-http://185.132.179.92:25461/live/102030405060/605040302010/201.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-action1-low
-http://185.132.179.92:25461/live/102030405060/605040302010/202.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-action2-low
-http://185.132.179.92:25461/live/102030405060/605040302010/203.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-boxoffice-low
-http://185.132.179.92:25461/live/102030405060/605040302010/204.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-classic-low
-http://185.132.179.92:25461/live/102030405060/605040302010/210.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-Classic 2 low
-http://185.132.179.92:25461/live/102030405060/605040302010/9584.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-comedy1-low
-http://185.132.179.92:25461/live/102030405060/605040302010/213.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-comedy2-low
-http://185.132.179.92:25461/live/102030405060/605040302010/214.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-dance-low
-http://185.132.179.92:25461/live/102030405060/605040302010/217.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-drama-low
-http://185.132.179.92:25461/live/102030405060/605040302010/215.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-+18-low
-http://185.132.179.92:25461/live/102030405060/605040302010/212.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-3d-for-3dTV-low
-http://185.132.179.92:25461/live/102030405060/605040302010/200.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-3d-for-all-TV-low
-http://185.132.179.92:25461/live/102030405060/605040302010/211.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-fashion-low
-http://185.132.179.92:25461/live/102030405060/605040302010/218.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-hindi-low
-http://185.132.179.92:25461/live/102030405060/605040302010/208.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-horror-low
-http://185.132.179.92:25461/live/102030405060/605040302010/206.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-horror 2 low
-http://185.132.179.92:25461/live/102030405060/605040302010/9582.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-kids-low
-http://185.132.179.92:25461/live/102030405060/605040302010/209.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-max-low
-http://185.132.179.92:25461/live/102030405060/605040302010/207.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-series-low
-http://185.132.179.92:25461/live/102030405060/605040302010/216.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-wwe-low
-http://185.132.179.92:25461/live/102030405060/605040302010/219.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",MEGA-low
-http://185.132.179.92:25461/live/102030405060/605040302010/205.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",majestic-cartoon-low
-http://185.132.179.92:25461/live/102030405060/605040302010/9580.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",drama-rmdan-1
-http://185.132.179.92:25461/live/102030405060/605040302010/9234.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",drama-rmdan-2
-http://185.132.179.92:25461/live/102030405060/605040302010/9233.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",drama-rmdan-3
-http://185.132.179.92:25461/live/102030405060/605040302010/9232.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",drama-rmdan-4
-http://185.132.179.92:25461/live/102030405060/605040302010/9231.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",drama-rmdan-5
-http://185.132.179.92:25461/live/102030405060/605040302010/9230.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",drama-rmdan-1-sd
-http://185.132.179.92:25461/live/102030405060/605040302010/11206.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",drama-rmdan-2-sd
-http://185.132.179.92:25461/live/102030405060/605040302010/11205.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",drama-rmdan-3-sd
-http://185.132.179.92:25461/live/102030405060/605040302010/11204.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",drama-rmdan-4-sd
-http://185.132.179.92:25461/live/102030405060/605040302010/11203.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",drama-rmdan-5-sd
-http://185.132.179.92:25461/live/102030405060/605040302010/11202.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",drama-rmdan-1-low
-http://185.132.179.92:25461/live/102030405060/605040302010/14621.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",drama-rmdan-2-low
-http://185.132.179.92:25461/live/102030405060/605040302010/14622.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",drama-rmdan-3-low
-http://185.132.179.92:25461/live/102030405060/605040302010/14623.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",drama-rmdan-4-low
-http://185.132.179.92:25461/live/102030405060/605040302010/14624.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",drama-rmdan-5-low
-http://185.132.179.92:25461/live/102030405060/605040302010/14625.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",ssc7-low
-http://185.132.179.92:25461/live/102030405060/605040302010/28079.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein-sport-low-1
-http://185.132.179.92:25461/live/102030405060/605040302010/7205.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein-sport-low-2
-http://185.132.179.92:25461/live/102030405060/605040302010/7204.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein-sport-low-3
-http://185.132.179.92:25461/live/102030405060/605040302010/7203.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein-sport-low-4
-http://185.132.179.92:25461/live/102030405060/605040302010/7202.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein-sport-low-5
-http://185.132.179.92:25461/live/102030405060/605040302010/7201.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein-sport-low-6
-http://185.132.179.92:25461/live/102030405060/605040302010/7200.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein-sport-low-7
-http://185.132.179.92:25461/live/102030405060/605040302010/7199.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Premium-01-low
-http://185.132.179.92:25461/live/102030405060/605040302010/7198.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Premium-02-low
-http://185.132.179.92:25461/live/102030405060/605040302010/7197.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Premium-03-low
-http://185.132.179.92:25461/live/102030405060/605040302010/7196.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",2-bienlow-1
-http://185.132.179.92:25461/live/102030405060/605040302010/7949.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",2-bienlow-2
-http://185.132.179.92:25461/live/102030405060/605040302010/7948.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",2-bienlow-3
-http://185.132.179.92:25461/live/102030405060/605040302010/7947.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",2-bienlow-4
-http://185.132.179.92:25461/live/102030405060/605040302010/7946.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",2-bienlow-5
-http://185.132.179.92:25461/live/102030405060/605040302010/7945.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",2-bienlow-6
-http://185.132.179.92:25461/live/102030405060/605040302010/7944.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",2-bienlow-7
-http://185.132.179.92:25461/live/102030405060/605040302010/7943.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",2-bienlow-8
-http://185.132.179.92:25461/live/102030405060/605040302010/7942.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",ssc 7
-http://185.132.179.92:25461/live/102030405060/605040302010/27182.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC 6
-http://185.132.179.92:25461/live/102030405060/605040302010/27181.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC 5
-http://185.132.179.92:25461/live/102030405060/605040302010/27180.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC 4
-http://185.132.179.92:25461/live/102030405060/605040302010/27179.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC 3
-http://185.132.179.92:25461/live/102030405060/605040302010/27178.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC 2
-http://185.132.179.92:25461/live/102030405060/605040302010/27177.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC 1
-http://185.132.179.92:25461/live/102030405060/605040302010/27176.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Majestic-boxoffice
-http://185.132.179.92:25461/live/102030405060/605040302010/23.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Beinsport-HD
-http://185.132.179.92:25461/live/102030405060/605040302010/8576.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Beinsport-News
-http://185.132.179.92:25461/live/102030405060/605040302010/8575.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BIEN-SPORT-1
-http://185.132.179.92:25461/live/102030405060/605040302010/1892.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BIEN-SPORT-2
-http://185.132.179.92:25461/live/102030405060/605040302010/1891.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BIEN-SPORT-3
-http://185.132.179.92:25461/live/102030405060/605040302010/1890.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BIEN-SPORT-4
-http://185.132.179.92:25461/live/102030405060/605040302010/1889.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BIEN-SPORT-5
-http://185.132.179.92:25461/live/102030405060/605040302010/1888.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BIEN-SPORT-6
-http://185.132.179.92:25461/live/102030405060/605040302010/1887.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BIEN-SPORT-7
-http://185.132.179.92:25461/live/102030405060/605040302010/1886.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BIEN-SPORT-Premium-1
-http://185.132.179.92:25461/live/102030405060/605040302010/1885.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BIEN-SPORT-Premium-2
-http://185.132.179.92:25461/live/102030405060/605040302010/1884.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BIEN-SPORT-Premium-3
-http://185.132.179.92:25461/live/102030405060/605040302010/1883.ts
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeinSport-1SD
-http://185.132.179.92:25461/live/102030405060/605040302010/1917.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeinSport-2SD
-http://185.132.179.92:25461/live/102030405060/605040302010/1916.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeinSport-3SD
-http://185.132.179.92:25461/live/102030405060/605040302010/1915.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeinSport-4SD
-http://185.132.179.92:25461/live/102030405060/605040302010/1914.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeinSport-5SD
-http://185.132.179.92:25461/live/102030405060/605040302010/1913.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeinSport-6SD
-http://185.132.179.92:25461/live/102030405060/605040302010/1912.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeinSport-7SD
-http://185.132.179.92:25461/live/102030405060/605040302010/1911.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Premium-01SD
-http://185.132.179.92:25461/live/102030405060/605040302010/1910.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Premium-02SD
-http://185.132.179.92:25461/live/102030405060/605040302010/1909.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Premium-03SD
-http://185.132.179.92:25461/live/102030405060/605040302010/1908.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 1 HEVC
-http://185.132.179.92:25461/live/102030405060/605040302010/13145.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 2 HEVC
-http://185.132.179.92:25461/live/102030405060/605040302010/13146.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 3 HEVC
-http://185.132.179.92:25461/live/102030405060/605040302010/13147.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 4 HEVC
-http://185.132.179.92:25461/live/102030405060/605040302010/13148.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 5 HEVC
-http://185.132.179.92:25461/live/102030405060/605040302010/13149.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 6 HEVC
-http://185.132.179.92:25461/live/102030405060/605040302010/13150.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 7 HEVC
-http://185.132.179.92:25461/live/102030405060/605040302010/13151.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Premium 01 HEVC
-http://185.132.179.92:25461/live/102030405060/605040302010/13152.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Premium 02 HEVC
-http://185.132.179.92:25461/live/102030405060/605040302010/13153.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Premium 03 HEVC
-http://185.132.179.92:25461/live/102030405060/605040302010/13154.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS HD1-H265
-http://185.132.179.92:25461/live/102030405060/605040302010/13155.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS HD2-H265
-http://185.132.179.92:25461/live/102030405060/605040302010/13156.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS HD3-H265
-http://185.132.179.92:25461/live/102030405060/605040302010/13157.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS HD4-H265
-http://185.132.179.92:25461/live/102030405060/605040302010/13158.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS HD5-H265
-http://185.132.179.92:25461/live/102030405060/605040302010/13159.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS HD6-H265
-http://185.132.179.92:25461/live/102030405060/605040302010/13160.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS HD7-H265
-http://185.132.179.92:25461/live/102030405060/605040302010/13161.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS Premium 01-H265
-http://185.132.179.92:25461/live/102030405060/605040302010/13162.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS Premium 02-H265
-http://185.132.179.92:25461/live/102030405060/605040302010/13163.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS Premium 03-H265
-http://185.132.179.92:25461/live/102030405060/605040302010/13164.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN:Movies 1
-http://185.132.179.92:25461/live/102030405060/605040302010/13029.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN:Movies 2
-http://185.132.179.92:25461/live/102030405060/605040302010/13030.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN:Movies 3
-http://185.132.179.92:25461/live/102030405060/605040302010/13031.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN:Movies 4
-http://185.132.179.92:25461/live/102030405060/605040302010/13032.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN:Drama1
-http://185.132.179.92:25461/live/102030405060/605040302010/13033.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN:Series 1
-http://185.132.179.92:25461/live/102030405060/605040302010/13034.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN:Series 2
-http://185.132.179.92:25461/live/102030405060/605040302010/13035.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN:Boomerang
-http://185.132.179.92:25461/live/102030405060/605040302010/13036.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN:jeem
-http://185.132.179.92:25461/live/102030405060/605040302010/13037.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN:Bejunior
-http://185.132.179.92:25461/live/102030405060/605040302010/13038.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN:Cartoon Network
-http://185.132.179.92:25461/live/102030405060/605040302010/13039.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN:Baraem
-http://185.132.179.92:25461/live/102030405060/605040302010/13040.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN:Nat Geo
-http://185.132.179.92:25461/live/102030405060/605040302010/13041.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN:Nat Wild
-http://185.132.179.92:25461/live/102030405060/605040302010/13042.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN:Nat People
-http://185.132.179.92:25461/live/102030405060/605040302010/13043.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN:Animal.Planet
-http://185.132.179.92:25461/live/102030405060/605040302010/13044.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN:Fox LIFE FHD
-http://185.132.179.92:25461/live/102030405060/605040302010/13045.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN:BBC EARTH
-http://185.132.179.92:25461/live/102030405060/605040302010/13046.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN:Food Network
-http://185.132.179.92:25461/live/102030405060/605040302010/13047.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN:Fine Living
-http://185.132.179.92:25461/live/102030405060/605040302010/13048.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN:OutDoor
-http://185.132.179.92:25461/live/102030405060/605040302010/13049.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN:Travel
-http://185.132.179.92:25461/live/102030405060/605040302010/13050.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN:Gourmet
-http://185.132.179.92:25461/live/102030405060/605040302010/13051.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN:Fatafeat
-http://185.132.179.92:25461/live/102030405060/605040302010/13052.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN:Discovery Max
-http://185.132.179.92:25461/live/102030405060/605040302010/13053.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN:Discovery Life
-http://185.132.179.92:25461/live/102030405060/605040302010/13054.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN:Discovery Turbo Xtra
-http://185.132.179.92:25461/live/102030405060/605040302010/13055.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN:Discovery Kids
-http://185.132.179.92:25461/live/102030405060/605040302010/13056.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN:Fox Movies
-http://185.132.179.92:25461/live/102030405060/605040302010/13057.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN:Fox Action Movies
-http://185.132.179.92:25461/live/102030405060/605040302010/13058.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN:AMC
-http://185.132.179.92:25461/live/102030405060/605040302010/13059.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN:HGTV
-http://185.132.179.92:25461/live/102030405060/605040302010/13060.ts
-#EXTINF:0 tvg-id="OSNYahala.net" group-title="Channels",OSN Yahala
-http://185.132.179.92:25461/live/102030405060/605040302010/18880.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Yahala+
-http://185.132.179.92:25461/live/102030405060/605040302010/18881.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Yahala Oula
-http://185.132.179.92:25461/live/102030405060/605040302010/18882.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Yahala Oula+
-http://185.132.179.92:25461/live/102030405060/605040302010/18883.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Yahala Cinema
-http://185.132.179.92:25461/live/102030405060/605040302010/18884.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Yahala Cinema+
-http://185.132.179.92:25461/live/102030405060/605040302010/18885.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Alyoum
-http://185.132.179.92:25461/live/102030405060/605040302010/18886.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Cinema 1
-http://185.132.179.92:25461/live/102030405060/605040302010/18887.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Cinema 2
-http://185.132.179.92:25461/live/102030405060/605040302010/18888.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Musalsalat
-http://185.132.179.92:25461/live/102030405060/605040302010/18889.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Music Now
-http://185.132.179.92:25461/live/102030405060/605040302010/18890.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Animal Planet
-http://185.132.179.92:25461/live/102030405060/605040302010/18891.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Disney Junior
-http://185.132.179.92:25461/live/102030405060/605040302010/18892.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN History
-http://185.132.179.92:25461/live/102030405060/605040302010/18893.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Living
-http://185.132.179.92:25461/live/102030405060/605040302010/18894.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Action
-http://185.132.179.92:25461/live/102030405060/605040302010/18895.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Movies Disney
-http://185.132.179.92:25461/live/102030405060/605040302010/18896.ts
-#EXTINF:0 tvg-id="OSNFirst.net" group-title="Channels",OSN Movies First
-http://185.132.179.92:25461/live/102030405060/605040302010/18897.ts
-#EXTINF:0 tvg-id="OSNMovies.net" group-title="Channels",OSN Movies
-http://185.132.179.92:25461/live/102030405060/605040302010/18898.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Kids
-http://185.132.179.92:25461/live/102030405060/605040302010/18899.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Enigma
-http://185.132.179.92:25461/live/102030405060/605040302010/18900.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Nat Geo
-http://185.132.179.92:25461/live/102030405060/605040302010/18901.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN NAT Geo Wild
-http://185.132.179.92:25461/live/102030405060/605040302010/18902.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Nat People
-http://185.132.179.92:25461/live/102030405060/605040302010/18903.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Nickelodeon
-http://185.132.179.92:25461/live/102030405060/605040302010/18904.ts
-#EXTINF:0 tvg-id="OSNFirstComedy.net" group-title="Channels",OSN Series Comedy
-http://185.132.179.92:25461/live/102030405060/605040302010/18905.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Series First
-http://185.132.179.92:25461/live/102030405060/605040302010/18906.ts
-#EXTINF:0 tvg-id="StarMovies.in" group-title="Channels",OSN Star Movies
-http://185.132.179.92:25461/live/102030405060/605040302010/18907.ts
-#EXTINF:0 tvg-id="StarWorld.in" group-title="Channels",OSN Star World
-http://185.132.179.92:25461/live/102030405060/605040302010/18908.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",osn syfy
-http://185.132.179.92:25461/live/102030405060/605040302010/18909.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Travel
-http://185.132.179.92:25461/live/102030405060/605040302010/18910.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Comedy Central
-http://185.132.179.92:25461/live/102030405060/605040302010/18911.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Nick Toon
-http://185.132.179.92:25461/live/102030405060/605040302010/18912.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Kids Zone
-http://185.132.179.92:25461/live/102030405060/605040302010/18913.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Movies First +2
-http://185.132.179.92:25461/live/102030405060/605040302010/18914.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Bing
-http://185.132.179.92:25461/live/102030405060/605040302010/18915.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Nick Jr
-http://185.132.179.92:25461/live/102030405060/605040302010/18916.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Disney XD
-http://185.132.179.92:25461/live/102030405060/605040302010/18917.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN BBC First
-http://185.132.179.92:25461/live/102030405060/605040302010/18918.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Paramount
-http://185.132.179.92:25461/live/102030405060/605040302010/18919.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN E!
-http://185.132.179.92:25461/live/102030405060/605040302010/18920.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN H2
-http://185.132.179.92:25461/live/102030405060/605040302010/18921.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Disney
-http://185.132.179.92:25461/live/102030405060/605040302010/18922.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UAE:DUBAI-SPORTS-1
-http://185.132.179.92:25461/live/102030405060/605040302010/13165.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UAE:DUBAI-SPORTS-2
-http://185.132.179.92:25461/live/102030405060/605040302010/13166.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UAE:DUBAI-SPORTS-3
-http://185.132.179.92:25461/live/102030405060/605040302010/13167.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",AD:Sports.1
-http://185.132.179.92:25461/live/102030405060/605040302010/13168.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",AD:Sports 2
-http://185.132.179.92:25461/live/102030405060/605040302010/13169.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",AD:Sports 3
-http://185.132.179.92:25461/live/102030405060/605040302010/13170.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",AD:Sports 4
-http://185.132.179.92:25461/live/102030405060/605040302010/13171.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",AD:Sports 5
-http://185.132.179.92:25461/live/102030405060/605040302010/13172.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",AD:Sports 6
-http://185.132.179.92:25461/live/102030405060/605040302010/13173.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Art-Aflam1
-http://185.132.179.92:25461/live/102030405060/605040302010/18846.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Art-Aflam2
-http://185.132.179.92:25461/live/102030405060/605040302010/18847.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Art-Cinema
-http://185.132.179.92:25461/live/102030405060/605040302010/18848.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Art-Hekayat
-http://185.132.179.92:25461/live/102030405060/605040302010/18849.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Art-Hekayat2
-http://185.132.179.92:25461/live/102030405060/605040302010/18850.ts
-#EXTINF:0 tvg-id="MBC1.net" group-title="Channels",Mbc 1 HD
-http://185.132.179.92:25461/live/102030405060/605040302010/18855.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",MBC 1 HD [TIMESHIFT -4]
-http://185.132.179.92:25461/live/102030405060/605040302010/18856.ts
-#EXTINF:0 tvg-id="MBC2.net" group-title="Channels",Mbc 2 HD
-http://185.132.179.92:25461/live/102030405060/605040302010/18857.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",MBC 2 HD [TIMESHIFT -4]
-http://185.132.179.92:25461/live/102030405060/605040302010/18858.ts
-#EXTINF:0 tvg-id="MBC3.net" group-title="Channels",Mbc 3 HD
-http://185.132.179.92:25461/live/102030405060/605040302010/18859.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",MBC 3 HD [TIMESHIFT -4]
-http://185.132.179.92:25461/live/102030405060/605040302010/18860.ts
-#EXTINF:0 tvg-id="MBC4.net" group-title="Channels",Mbc 4 HD
-http://185.132.179.92:25461/live/102030405060/605040302010/18861.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",MBC 4 HD [TIMESHIFT -4]
-http://185.132.179.92:25461/live/102030405060/605040302010/18862.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",MBC 5 HD
-http://185.132.179.92:25461/live/102030405060/605040302010/18863.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",MBC IRAQ HD
-http://185.132.179.92:25461/live/102030405060/605040302010/18864.ts
-#EXTINF:0 tvg-id="MBCMax.net" group-title="Channels",Mbc Max HD
-http://185.132.179.92:25461/live/102030405060/605040302010/18865.ts
-#EXTINF:0 tvg-id="MBCAction.net" group-title="Channels",Mbc Action HD
-http://185.132.179.92:25461/live/102030405060/605040302010/18866.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",MBC Action HD [TIMESHIFT -4]
-http://185.132.179.92:25461/live/102030405060/605040302010/18867.ts
-#EXTINF:0 tvg-id="MBCBollywood.net" group-title="Channels",Mbc Bollywood HD
-http://185.132.179.92:25461/live/102030405060/605040302010/18868.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",MBC Bollywood HD [TIMESHIFT -4]
-http://185.132.179.92:25461/live/102030405060/605040302010/18869.ts
-#EXTINF:0 tvg-id="MBCDrama.net" group-title="Channels",MBC Drama HD
-http://185.132.179.92:25461/live/102030405060/605040302010/18870.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",MBC Drama HD [TIMESHIFT -4]
-http://185.132.179.92:25461/live/102030405060/605040302010/18871.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",MBC Drama Plus HD
-http://185.132.179.92:25461/live/102030405060/605040302010/18872.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",MBC Variety HD
-http://185.132.179.92:25461/live/102030405060/605040302010/18873.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Movies Family
-http://185.132.179.92:25461/live/102030405060/605040302010/18874.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Movies Action
-http://185.132.179.92:25461/live/102030405060/605040302010/18875.ts
-#EXTINF:0 tvg-id="FixFoxi.de" group-title="Channels",Fix&Foxi
-http://185.132.179.92:25461/live/102030405060/605040302010/18876.ts
-#EXTINF:0 tvg-id="TRT.gr" group-title="Channels",TRT
-http://185.132.179.92:25461/live/102030405060/605040302010/18877.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",MY Cinema
-http://185.132.179.92:25461/live/102030405060/605040302010/18878.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery.Science
-http://185.132.179.92:25461/live/102030405060/605040302010/18879.ts
-#EXTINF:0 tvg-id="MBC1.net" group-title="Channels",Mbc1
-http://185.132.179.92:25461/live/102030405060/605040302010/13346.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Mbc1+
-http://185.132.179.92:25461/live/102030405060/605040302010/13347.ts
-#EXTINF:0 tvg-id="MBC2.net" group-title="Channels",Mbc2
-http://185.132.179.92:25461/live/102030405060/605040302010/13348.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Mbc2 +
-http://185.132.179.92:25461/live/102030405060/605040302010/13349.ts
-#EXTINF:0 tvg-id="MBC3.net" group-title="Channels",Mbc3
-http://185.132.179.92:25461/live/102030405060/605040302010/13350.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Mbc3 +
-http://185.132.179.92:25461/live/102030405060/605040302010/13351.ts
-#EXTINF:0 tvg-id="MBC4.net" group-title="Channels",Mbc4
-http://185.132.179.92:25461/live/102030405060/605040302010/13352.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Mbc4 +
-http://185.132.179.92:25461/live/102030405060/605040302010/13353.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Mbc5
-http://185.132.179.92:25461/live/102030405060/605040302010/13354.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",MbcMasr
-http://185.132.179.92:25461/live/102030405060/605040302010/13355.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",MbcMasr +
-http://185.132.179.92:25461/live/102030405060/605040302010/13356.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",MbcMasr2
-http://185.132.179.92:25461/live/102030405060/605040302010/13357.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",MbcMasr2 +
-http://185.132.179.92:25461/live/102030405060/605040302010/13358.ts
-#EXTINF:0 tvg-id="MBCAction.net" group-title="Channels",MbcAction
-http://185.132.179.92:25461/live/102030405060/605040302010/13359.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",MbcAction +
-http://185.132.179.92:25461/live/102030405060/605040302010/13360.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PS-MUSAWA
-http://185.132.179.92:25461/live/102030405060/605040302010/13627.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",QA:Qatar
-http://185.132.179.92:25461/live/102030405060/605040302010/13628.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",QA:Al Rayyan
-http://185.132.179.92:25461/live/102030405060/605040302010/13629.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",QA:Al Rayyan AL Qadeem
-http://185.132.179.92:25461/live/102030405060/605040302010/13630.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",QA:Alkass 1
-http://185.132.179.92:25461/live/102030405060/605040302010/13631.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",QA:Alkass 2
-http://185.132.179.92:25461/live/102030405060/605040302010/13632.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",QA:Alkass 3
-http://185.132.179.92:25461/live/102030405060/605040302010/13633.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",QA:Alkass 4
-http://185.132.179.92:25461/live/102030405060/605040302010/13634.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",QA:Alkass 5
-http://185.132.179.92:25461/live/102030405060/605040302010/13635.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Kids-Disney-XD
-http://185.132.179.92:25461/live/102030405060/605040302010/13272.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Kids-Disney-Junior
-http://185.132.179.92:25461/live/102030405060/605040302010/13273.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Kids-Disney
-http://185.132.179.92:25461/live/102030405060/605040302010/13274.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Kids-BOOMERANG
-http://185.132.179.92:25461/live/102030405060/605040302010/13275.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Kids-Be.Junior
-http://185.132.179.92:25461/live/102030405060/605040302010/13276.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Kids-Nickelodeon
-http://185.132.179.92:25461/live/102030405060/605040302010/13277.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Kids-Toyor
-http://185.132.179.92:25461/live/102030405060/605040302010/13278.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Kids-Toyor Baby
-http://185.132.179.92:25461/live/102030405060/605040302010/13279.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Kids-Spacetoon
-http://185.132.179.92:25461/live/102030405060/605040302010/13280.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Kids-TAHA
-http://185.132.179.92:25461/live/102030405060/605040302010/13281.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Kids-MODY
-http://185.132.179.92:25461/live/102030405060/605040302010/13282.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Kids-Mickey
-http://185.132.179.92:25461/live/102030405060/605040302010/13283.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Kids-Majid
-http://185.132.179.92:25461/live/102030405060/605040302010/13284.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Kids-Koky
-http://185.132.179.92:25461/live/102030405060/605040302010/13285.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Kids-Karameesh
-http://185.132.179.92:25461/live/102030405060/605040302010/13286.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Kids-Gulli Arabie
-http://185.132.179.92:25461/live/102030405060/605040302010/13287.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Qu-Al Majd 1
-http://185.132.179.92:25461/live/102030405060/605040302010/13288.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Qu-Al Majd 2
-http://185.132.179.92:25461/live/102030405060/605040302010/13289.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Qu-Al Majd 3
-http://185.132.179.92:25461/live/102030405060/605040302010/13290.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Qu-Al Majd 4
-http://185.132.179.92:25461/live/102030405060/605040302010/13291.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Qu-Al Majd 8
-http://185.132.179.92:25461/live/102030405060/605040302010/13292.ts
+#EXTINF:0 tvg-id="BeINSports.es" group-title="SPORTS CH",beIN SPORTS HD
+http://2022tv.co:80/george/george/10067
+#EXTINF:0 tvg-id="beinsportsnews.jsc" group-title="SPORTS CH",beIN SPORTS NEWS
+http://2022tv.co:80/george/george/4387
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",beIN SPORTS premium 1 FHD
+http://2022tv.co:80/george/george/69026
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",beIN SPORTS premium 2 FHD
+http://2022tv.co:80/george/george/69027
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",beIN SPORTS premium 3 FHD
+http://2022tv.co:80/george/george/69028
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="SPORTS CH",beIN SPORTS 1 FHD
+http://2022tv.co:80/george/george/69019
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="SPORTS CH",beIN SPORTS 2 FHD
+http://2022tv.co:80/george/george/69020
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="SPORTS CH",beIN SPORTS 3 FHD
+http://2022tv.co:80/george/george/69021
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="SPORTS CH",beIN SPORTS 4 FHD
+http://2022tv.co:80/george/george/69022
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="SPORTS CH",beIN SPORTS 5 FHD
+http://2022tv.co:80/george/george/69023
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="SPORTS CH",beIN SPORTS 6 FHD
+http://2022tv.co:80/george/george/69024
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="SPORTS CH",beIN SPORTS 7 FHD
+http://2022tv.co:80/george/george/69025
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",beIN SPORTS premium 1HD
+http://2022tv.co:80/george/george/1694
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",beIN SPORTS premium 2HD
+http://2022tv.co:80/george/george/1693
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",beIN SPORTS premium 3HD
+http://2022tv.co:80/george/george/1692
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="SPORTS CH",beIN SPORTS 1HD
+http://2022tv.co:80/george/george/20998
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="SPORTS CH",beIN SPORTS 2HD
+http://2022tv.co:80/george/george/20999
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="SPORTS CH",beIN SPORTS 3HD
+http://2022tv.co:80/george/george/21000
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="SPORTS CH",beIN SPORTS 4HD
+http://2022tv.co:80/george/george/19143
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="SPORTS CH",beIN SPORTS 5HD
+http://2022tv.co:80/george/george/7881
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="SPORTS CH",beIN SPORTS 6HD
+http://2022tv.co:80/george/george/8796
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="SPORTS CH",beIN SPORTS 7HD
+http://2022tv.co:80/george/george/1695
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",AL Kass 1HD
+http://2022tv.co:80/george/george/1469
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",AL Kass 2HD
+http://2022tv.co:80/george/george/1468
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",AL Kass 3HD
+http://2022tv.co:80/george/george/4040
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",AL Kass 4HD
+http://2022tv.co:80/george/george/1466
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",Abu Dhabi Sports 1 HD
+http://2022tv.co:80/george/george/1720
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",Abu Dhabi Sports 2 HD
+http://2022tv.co:80/george/george/1721
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",Abu Dhabi Sports 3 HD
+http://2022tv.co:80/george/george/10052
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",Abu Dhabi Sports 4  HD
+http://2022tv.co:80/george/george/31887
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",KSA SPORT1 HD
+http://2022tv.co:80/george/george/12821
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",KSA SPORT2 HD
+http://2022tv.co:80/george/george/8883
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",KSA SPORT 3 HD
+http://2022tv.co:80/george/george/12822
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",Sharjah Sport HD
+http://2022tv.co:80/george/george/34734
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",Kuwait Sports HD
+http://2022tv.co:80/george/george/117728
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",Al Ahly Sports
+http://2022tv.co:80/george/george/117724
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",Zamalek Sports
+http://2022tv.co:80/george/george/117725
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",ON TIME Sport 1
+http://2022tv.co:80/george/george/7215
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",ON TIME  Sport 2
+http://2022tv.co:80/george/george/80863
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",DUBAI SPORT 1
+http://2022tv.co:80/george/george/1585
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",DUBAI SPORT 2
+http://2022tv.co:80/george/george/1584
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",DUBAI SPORT 3
+http://2022tv.co:80/george/george/117726
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",YAS Sports HD
+http://2022tv.co:80/george/george/117727
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",RMC SPORTS 1 HD
+http://2022tv.co:80/george/george/2863
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",RMC SPORTS 2 HD
+http://2022tv.co:80/george/george/2864
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",RMC SPORTS 3 HD
+http://2022tv.co:80/george/george/2865
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",RMC SPORTS 4 HD
+http://2022tv.co:80/george/george/52053
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",RMC SPORTS 5 HD
+http://2022tv.co:80/george/george/52054
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",RMC SPORTS 6 HD
+http://2022tv.co:80/george/george/52055
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",RMC SPORTS 7 HD
+http://2022tv.co:80/george/george/52056
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",RMC SPORTS 8 HD
+http://2022tv.co:80/george/george/52057
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",RMC SPORTS 9 HD
+http://2022tv.co:80/george/george/52058
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",RMC SPORTS 10 HD
+http://2022tv.co:80/george/george/52059
+#EXTINF:0 tvg-id="ArenaSport1.rs" group-title="SPORTS CH",Arena Sport 1 HD
+http://2022tv.co:80/george/george/72481
+#EXTINF:0 tvg-id="ArenaSport2.rs" group-title="SPORTS CH",Arena Sport 2 HD
+http://2022tv.co:80/george/george/72483
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",Arena Sport 2 BIH
+http://2022tv.co:80/george/george/72482
+#EXTINF:0 tvg-id="ArenaSport3.rs" group-title="SPORTS CH",Arena Sport 3 HD
+http://2022tv.co:80/george/george/72484
+#EXTINF:0 tvg-id="ArenaSport4.rs" group-title="SPORTS CH",Arena Sport 4 HD
+http://2022tv.co:80/george/george/72485
+#EXTINF:0 tvg-id="ArenaSport5.rs" group-title="SPORTS CH",Arena Sport 5 HD
+http://2022tv.co:80/george/george/72486
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",SuperSport Action FHD
+http://2022tv.co:80/george/george/50741
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",SuperSport Golf FHD
+http://2022tv.co:80/george/george/50742
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",SuperSport Grandstand FHD
+http://2022tv.co:80/george/george/50743
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",SuperSport Maximo HD
+http://2022tv.co:80/george/george/50744
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",SuperSport | HD 5
+http://2022tv.co:80/george/george/50745
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",SuperSport | HD 6
+http://2022tv.co:80/george/george/50746
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",SuperSport MotorSport HD
+http://2022tv.co:80/george/george/50753
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",SuperSport 1 FHD
+http://2022tv.co:80/george/george/50754
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",beIN SPORT HD1 F
+http://2022tv.co:80/george/george/2080
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",beIN SPORT HD2 F
+http://2022tv.co:80/george/george/2079
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",beIN SPORT HD3 F
+http://2022tv.co:80/george/george/2078
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",beIN SPORT MAX4 HD
+http://2022tv.co:80/george/george/4043
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",beIN SPORT MAX5 HD
+http://2022tv.co:80/george/george/4044
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",beIN SPORT MAX6 HD
+http://2022tv.co:80/george/george/4045
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",beIN SPORT MAX7 HD
+http://2022tv.co:80/george/george/4046
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",beIN SPORT MAX8 HD
+http://2022tv.co:80/george/george/4047
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",beIN SPORT MAX9 HD
+http://2022tv.co:80/george/george/4048
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",beIN SPORT MAX10 HD
+http://2022tv.co:80/george/george/4049
+#EXTINF:0 tvg-id="SkySpF1.uk" group-title="SPORTS CH",Sky Sports F1
+http://2022tv.co:80/george/george/6804
+#EXTINF:0 tvg-id="SkySpArena.uk" group-title="SPORTS CH",SKY SPORTS HD ARENA
+http://2022tv.co:80/george/george/6808
+#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="SPORTS CH",Sky Sports Cricket
+http://2022tv.co:80/george/george/6806
+#EXTINF:0 tvg-id="SkySpFball.uk" group-title="SPORTS CH",Sky Sports Football
+http://2022tv.co:80/george/george/6812
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",Sky Sports Main Events
+http://2022tv.co:80/george/george/6819
+#EXTINF:0 tvg-id="SkySpMix.uk" group-title="SPORTS CH",Sky Sports Mix
+http://2022tv.co:80/george/george/6817
+#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="SPORTS CH",Sky Sports News
+http://2022tv.co:80/george/george/6821
+#EXTINF:0 tvg-id="SkySpPL.uk" group-title="SPORTS CH",Sky Sports Premier League
+http://2022tv.co:80/george/george/6814
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",KUWAIT Sport hd
+http://2022tv.co:80/george/george/8938
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",Kuwait Sport Plus
+http://2022tv.co:80/george/george/8944
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",Jordan Sports
+http://2022tv.co:80/george/george/24585
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",|AR| Jordan Sports
+http://2022tv.co:80/george/george/61601
+#EXTINF:0 tvg-id="ext" group-title="SPORTS CH",|AR| KUWAIT Sport hd
+http://2022tv.co:80/george/george/61627
+
+#EXTINF:0 tvg-id="ext" group-title="MY BOX Netflix",NetFilx Action UHD
+http://2022tv.co:80/george/george/164265
+#EXTINF:0 tvg-id="ext" group-title="MY BOX Netflix",NetFilx Arabic UHD
+http://2022tv.co:80/george/george/164266
+#EXTINF:0 tvg-id="ext" group-title="MY BOX Netflix",NetFilx Bollywood UHD
+http://2022tv.co:80/george/george/164267
+#EXTINF:0 tvg-id="ext" group-title="MY BOX Netflix",NetFilx Box Office UHD
+http://2022tv.co:80/george/george/164268
+#EXTINF:0 tvg-id="ext" group-title="MY BOX Netflix",NetFilx Classics UHD
+http://2022tv.co:80/george/george/164269
+#EXTINF:0 tvg-id="ext" group-title="MY BOX Netflix",NetFilx Comedy UHD
+http://2022tv.co:80/george/george/164270
+#EXTINF:0 tvg-id="ext" group-title="MY BOX Netflix",NetFilx Drama UHD
+http://2022tv.co:80/george/george/164271
+#EXTINF:0 tvg-id="ext" group-title="MY BOX Netflix",NetFilx Horror UHD
+http://2022tv.co:80/george/george/164272
+#EXTINF:0 tvg-id="ext" group-title="MY BOX Netflix",NetFilx Kids UHD
+http://2022tv.co:80/george/george/164273
+#EXTINF:0 tvg-id="ext" group-title="MY BOX Netflix",NetFilx Movies UHD
+http://2022tv.co:80/george/george/164274
+#EXTINF:0 tvg-id="ext" group-title="MY BOX Netflix",NetFilx Plays UHD
+http://2022tv.co:80/george/george/164275
+#EXTINF:0 tvg-id="ext" group-title="MY BOX Netflix",NetFilx Thriller UHD
+http://2022tv.co:80/george/george/164276
+#EXTINF:0 tvg-id="ext" group-title="MY BOX Netflix",NetFlix Series 01 Ar UHD
+http://2022tv.co:80/george/george/164277
+#EXTINF:0 tvg-id="ext" group-title="MY BOX Netflix",NetFlix Series 02 Ar UHD
+http://2022tv.co:80/george/george/164278
+#EXTINF:0 tvg-id="ext" group-title="MY BOX Netflix",NetFlix Series 03 Ar UHD
+http://2022tv.co:80/george/george/164279
+#EXTINF:0 tvg-id="ext" group-title="MY BOX Netflix",NetFlix Series 04 Ar UHD
+http://2022tv.co:80/george/george/164280
+#EXTINF:0 tvg-id="ext" group-title="MY BOX Netflix",NetFlix Series 05 Ar UHD
+http://2022tv.co:80/george/george/164281
+#EXTINF:0 tvg-id="ext" group-title="MY BOX Netflix",NetFlix Series 06 Ar UHD
+http://2022tv.co:80/george/george/164282
+#EXTINF:0 tvg-id="ext" group-title="MY BOX Netflix",NetFilx Series FHD
+http://2022tv.co:80/george/george/164283
+#EXTINF:0 tvg-id="ext" group-title="MY BOX Netflix",NetFlix Series 07 Ar UHD
+http://2022tv.co:80/george/george/164285
+#EXTINF:0 tvg-id="ext" group-title="MY BOX Netflix",NetFlix Series 08 Ar UHD
+http://2022tv.co:80/george/george/164286
+#EXTINF:0 tvg-id="ext" group-title="MY BOX Netflix",NetFlix Series 09 Ar UHD
+http://2022tv.co:80/george/george/164287
+#EXTINF:0 tvg-id="ext" group-title="MY BOX Netflix",NetFlix Series 10 Ar UHD
+http://2022tv.co:80/george/george/164288
+#EXTINF:0 tvg-id="ext" group-title="MY BOX Netflix",NetFlix Series 11 Ar UHD
+http://2022tv.co:80/george/george/164289
+#EXTINF:0 tvg-id="ext" group-title="MY BOX Netflix",NetFlix Series 12 Ar UHD
+http://2022tv.co:80/george/george/164290
+#EXTINF:0 tvg-id="ext" group-title="MY BOX Netflix",NetFlix WWE FHD
+http://2022tv.co:80/george/george/164291
+#EXTINF:0 tvg-id="ext" group-title="MY BOX Netflix",Netflix HD1 Ar
+http://2022tv.co:80/george/george/117918
+#EXTINF:0 tvg-id="ext" group-title="MY BOX Netflix",Netflix HD2 Ar
+http://2022tv.co:80/george/george/117919
+#EXTINF:0 tvg-id="ext" group-title="MY BOX Netflix",Netflix HD3 Ar
+http://2022tv.co:80/george/george/117920
+#EXTINF:0 tvg-id="ext" group-title="MY BOX Netflix",Netflix HD4 Ar
+http://2022tv.co:80/george/george/117921
+#EXTINF:0 tvg-id="ext" group-title="MY BOX Netflix",Netflix HD5 Ar
+http://2022tv.co:80/george/george/117922
+#EXTINF:0 tvg-id="ext" group-title="MY BOX Netflix",Netflix HD6 Ar
+http://2022tv.co:80/george/george/117923
+#EXTINF:0 tvg-id="ext" group-title="MY BOX Netflix",Netflix HD7 Ar
+http://2022tv.co:80/george/george/117924
+#EXTINF:0 tvg-id="ext" group-title="MY BOX Netflix",Netflix HD10 Ar
+http://2022tv.co:80/george/george/117927
+#EXTINF:0 tvg-id="ext" group-title="MY BOX Netflix",Netflix HD14 Ar
+http://2022tv.co:80/george/george/117931
+#EXTINF:0 tvg-id="ext" group-title="MY BOX Netflix",Netflix Family HD
+http://2022tv.co:80/george/george/117944
+#EXTINF:0 tvg-id="ext" group-title="MY BOX Netflix",Netflix Fast And Furious HD
+http://2022tv.co:80/george/george/117945
+
+#EXTINF:0 tvg-id="ext" group-title="MY BOX ",Nature Relaxation
+http://2022tv.co:80/george/george/52051
+#EXTINF:0 tvg-id="ext" group-title="MY BOX ",MY BOX OFFICE 1
+http://2022tv.co:80/george/george/157307
+#EXTINF:0 tvg-id="ext" group-title="MY BOX ",MY BOX OFFICE 2
+http://2022tv.co:80/george/george/157308
+#EXTINF:0 tvg-id="ext" group-title="MY BOX ",MY BOX OFFICE 3
+http://2022tv.co:80/george/george/157309
+#EXTINF:0 tvg-id="ext" group-title="MY BOX ",MY BOX OFFICE 4
+http://2022tv.co:80/george/george/157310
+#EXTINF:0 tvg-id="ext" group-title="MY BOX ",MY BOX OFFICE 5
+http://2022tv.co:80/george/george/157311
+#EXTINF:0 tvg-id="ext" group-title="MY BOX ",MY BOX OFFICE 6
+http://2022tv.co:80/george/george/157312
+#EXTINF:0 tvg-id="ext" group-title="MY BOX ",TRT EBA TV ORTAOKUL HD
+http://2022tv.co:80/george/george/60383
+#EXTINF:0 tvg-id="ext" group-title="MY BOX ",TRT EBA TV ILKOKUL HD
+http://2022tv.co:80/george/george/60384
+#EXTINF:0 tvg-id="ext" group-title="MY BOX ",TRT EBA TV LISE HD
+http://2022tv.co:80/george/george/60385
+#EXTINF:0 tvg-id="ext" group-title="MY BOX ",MR BEAN
+http://2022tv.co:80/george/george/60678
+#EXTINF:0 tvg-id="ext" group-title="MY BOX ",Mohammad henedy
+http://2022tv.co:80/george/george/52366
+#EXTINF:0 tvg-id="ext" group-title="MY BOX ",Duraid Lahham
+http://2022tv.co:80/george/george/69365
+#EXTINF:0 tvg-id="ext" group-title="MY BOX ",Fayrouz box
+http://2022tv.co:80/george/george/40295
+#EXTINF:0 tvg-id="ext" group-title="MY BOX ",ISMAI YASEAN
+http://2022tv.co:80/george/george/40297
+#EXTINF:0 tvg-id="ext" group-title="MY BOX ",Um Kalthoum
+http://2022tv.co:80/george/george/35040
+
+#EXTINF:0 tvg-id="avi" group-title="English Movies Sub",Sogno Azzurro - La strada per Wembley (2021)
+http://2022tv.co:80/movie/george/george/164757.mp4
