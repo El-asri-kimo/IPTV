@@ -1,814 +1,1124 @@
 #EXTM3U
 
 #EXTINF:-1,kimoExtra
-http://red.ipfox.org:8080/1234/12345678/31493
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505619
 #EXTINF:-1,👈Groupe👉:IPTV FOR FREE..[by KIMO]
-http://red.ipfox.org:8080/1234/12345678/31498
+http://line.hi-live.me/96a1df17bd/1effd0ce74/554024
 
 
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="beIN Sport -1080P-",beIN Sport Premium 01 (1080P)
-http://red.ipfox.org:8080/1234/12345678/31498
-#EXTINF:0 tvg-id="ext" group-title="beIN Sport -1080P-",beIN Sport Premium 02 (1080P)
-http://red.ipfox.org:8080/1234/12345678/31497
-#EXTINF:0 tvg-id="ext" group-title="beIN Sport -1080P-",beIN Sport Premium 03 (1080P)
-http://red.ipfox.org:8080/1234/12345678/31496
-#EXTINF:0 tvg-id="ext" group-title="beIN Sport -1080P-",beIN Sport 01 (1080P)
-http://red.ipfox.org:8080/1234/12345678/31493
-#EXTINF:0 tvg-id="ext" group-title="beIN Sport -1080P-",beIN Sport 02 (1080P)
-http://red.ipfox.org:8080/1234/12345678/31492
-#EXTINF:0 tvg-id="ext" group-title="beIN Sport -1080P-",beIN Sport 03 (1080P)
-http://red.ipfox.org:8080/1234/12345678/31491
-#EXTINF:0 tvg-id="ext" group-title="beIN Sport -1080P-",beIN Sport 04 (1080P)
-http://red.ipfox.org:8080/1234/12345678/31490
-#EXTINF:0 tvg-id="ext" group-title="beIN Sport -1080P-",beIN Sport 05 (1080P)
-http://red.ipfox.org:8080/1234/12345678/31489
-#EXTINF:0 tvg-id="ext" group-title="beIN Sport -1080P-",beIN Sport 06 (1080P)
-http://red.ipfox.org:8080/1234/12345678/31488
-#EXTINF:0 tvg-id="ext" group-title="beIN Sport -1080P-",beIN Sport 07 (1080P)
-http://red.ipfox.org:8080/1234/12345678/31487
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",##### SPORTS HIGHT QUALITY FHD #####
+http://line.hi-live.me/96a1df17bd/1effd0ce74/627493
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - AMAZON PRIME 1 FHD [LIVE-EVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/605978
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - AMAZON PRIME 2 FHD [LIVE-EVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/605977
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - AMAZON PRIME 3 FHD [LIVE-EVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/605976
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - AMAZON PRIME 4 FHD [LIVE-EVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/605975
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - AMAZON PRIME 5 FHD [LIVE-EVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/605974
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - AMAZON PRIME 6 FHD [LIVE-EVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/605973
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - AMAZON PRIME 7 FHD [LIVE-EVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/605972
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - AMAZON PRIME 8 FHD [LIVE-EVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/605971
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - CANAl+ SPORT LDC UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/629542
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - CANAl+ SPORT LDC HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/629541
+#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="|EU| FRANCE SPORTS",FR - CANAL+ SPORT FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/554013
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - CANAL+ PL FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/554015
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - CANAL+ TOP FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/554014
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - CANAL+ FORMULA1 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/640337
+#EXTINF:0 tvg-id="Infosport.fr" group-title="|EU| FRANCE SPORTS",FR - INFOSPORT+ FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/554018
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - FOOT 24/24 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/554019
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS 1 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/554021
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS 2 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/554022
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS 3 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/554023
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - RMC SPORT 1 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/554024
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - RMC SPORT 1 FHD •
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543386
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - RMC SPORT 2 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/554025
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - RMC SPORT 3 LIVE FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543390
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - RMC SPORT 4 LIVE FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543392
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS 1 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543394
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS 2 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543396
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS 3 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543398
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - RMC SPORT LIVE 5 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543430
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - RMC SPORT LIVE 6 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543431
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - RMC SPORT LIVE 7 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543432
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - RMC SPORT LIVE 8 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543433
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS MAX 4 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/548746
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS MAX 5 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/548747
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS MAX 6 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/548748
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS MAX 7 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/548749
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS MAX 8 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/548750
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS MAX 9 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/548751
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS MAX 10 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/548745
+#EXTINF:0 tvg-id="Eurosport1.fr" group-title="|EU| FRANCE SPORTS",FR - EUROSPORT 1 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/554026
+#EXTINF:0 tvg-id="Eurosport2.fr" group-title="|EU| FRANCE SPORTS",FR - EUROSPORT 2 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/554027
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - EUROSPORT 360 1 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543422
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - EUROSPORT 360 2 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543423
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - EUROSPORT 360 3 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543424
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - EUROSPORT 360 4 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543425
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - EUROSPORT 360 5 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543426
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - EUROSPORT 360 6 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543427
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - EUROSPORT 360 7 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543428
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - EUROSPORT 360 8 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543429
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - MULTISPORTS 1 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543442
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - MULTISPORTS 2 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543443
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - MULTISPORTS 3 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543444
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - MULTISPORTS 4 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543445
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - MULTISPORTS 5 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543446
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - MULTISPORTS 6 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543447
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - TRACE SPORTS UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543412
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - OL TV UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543410
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - EQUIDIA UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543404
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - EQUIPE 21 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543400
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - AUTOMOTO FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/554020
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - GOLF CHANNEL UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543419
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - GOLF+ UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543421
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",##### SPORTS HIGHT QUALITY HEVC #####
+http://line.hi-live.me/96a1df17bd/1effd0ce74/627644
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",##### SPORTS LOW QUALITY SD #####
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543379
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - PRIME 1 SD [LIVE-EVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/619394
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - PRIME 1 UHD [LIVE-EVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/603210
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - PRIME 2 UHD [LIVE-EVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/603209
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - PRIME 3 UHD [LIVE-EVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/603208
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - PRIME 4 UHD [LIVE-EVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/603207
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - PRIME 5 UHD [LIVE-EVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/603206
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - PRIME 6 UHD [LIVE-EVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/603205
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - PRIME 7 UHD [LIVE-EVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/603204
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - PRIME 8 UHD [LIVE-EVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/603203
+#EXTINF:0 tvg-id="RMCSport1.fr" group-title="|EU| FRANCE SPORTS",FR - RMC SPORT 1
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543387
+#EXTINF:0 tvg-id="RMCSport2.fr" group-title="|EU| FRANCE SPORTS",FR - RMC SPORT 2
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543389
+#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="|EU| FRANCE SPORTS",FR - CANAL+ SPORT
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543383
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - CANAL+ PL
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543385
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS 1
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543395
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS 2
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543397
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS 3
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543399
+#EXTINF:0 tvg-id="Eurosport1.fr" group-title="|EU| FRANCE SPORTS",FR - EUROSPORT 1
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543414
+#EXTINF:0 tvg-id="Eurosport2.fr" group-title="|EU| FRANCE SPORTS",FR - EUROSPORT 2
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543416
+#EXTINF:0 tvg-id="EquipeTV.fr" group-title="|EU| FRANCE SPORTS",FR - EQUIPE 21
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543401
+#EXTINF:0 tvg-id="Infosport.fr" group-title="|EU| FRANCE SPORTS",FR - INFOSPORT
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543409
+#EXTINF:0 tvg-id="Foot24.fr" group-title="|EU| FRANCE SPORTS",FR - FOOT 24/24
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543407
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - AUTOMOTO
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543403
+#EXTINF:0 tvg-id="EquidiaLive.fr" group-title="|EU| FRANCE SPORTS",FR - EQUIDIA
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543405
+#EXTINF:0 tvg-id="OLTV.fr" group-title="|EU| FRANCE SPORTS",FR - OL TV
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543411
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - CANAL+ MOTOGP FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/554016
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - CANAL+ LIGUE 1 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/554017
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - CANAL+ TOP UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543380
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - CANAL+ TOP
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543381
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - CANAL+ SPORT UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543382
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - CANAL+ PL UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543384
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - RMC SPORT 2 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543388
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - AUTOMOTO UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543402
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - FOOT 24/24 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543406
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - INFOSPORT UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543408
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - EUROSPORT 1 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543413
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - EUROSPORT 2 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543415
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - SPORTS EN FRANCE UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543417
+#EXTINF:0 tvg-id="ext" group-title="|EU| FRANCE SPORTS",FR - SPORTS EN FRANCE
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543418
+#EXTINF:0 tvg-id="Golf.fr" group-title="|EU| FRANCE SPORTS",FR - GOLF CHANNEL
+http://line.hi-live.me/96a1df17bd/1effd0ce74/543420
 
-#EXTINF:0 tvg-id="ext" group-title="beIN Sport -720P-",beIN Sport Premium 01 (720P)
-http://red.ipfox.org:8080/1234/12345678/31529
-#EXTINF:0 tvg-id="ext" group-title="beIN Sport -720P-",beIN Sport Premium 02 (720P)
-http://red.ipfox.org:8080/1234/12345678/31528
-#EXTINF:0 tvg-id="ext" group-title="beIN Sport -720P-",beIN Sport Premium 03 (720P)
-http://red.ipfox.org:8080/1234/12345678/31527
-#EXTINF:0 tvg-id="ext" group-title="beIN Sport -720P-",beIN Sport 01 (720P)
-http://red.ipfox.org:8080/1234/12345678/31536
-#EXTINF:0 tvg-id="ext" group-title="beIN Sport -720P-",beIN Sport 02 (720P)
-http://red.ipfox.org:8080/1234/12345678/31535
-#EXTINF:0 tvg-id="ext" group-title="beIN Sport -720P-",beIN Sport 03 (720P)
-http://red.ipfox.org:8080/1234/12345678/31534
-#EXTINF:0 tvg-id="ext" group-title="beIN Sport -720P-",beIN Sport 04 (720P)
-http://red.ipfox.org:8080/1234/12345678/31533
-#EXTINF:0 tvg-id="ext" group-title="beIN Sport -720P-",beIN Sport 05 (720P)
-http://red.ipfox.org:8080/1234/12345678/31532
-#EXTINF:0 tvg-id="ext" group-title="beIN Sport -720P-",beIN Sport 06 (720P)
-http://red.ipfox.org:8080/1234/12345678/31531
-#EXTINF:0 tvg-id="ext" group-title="beIN Sport -720P-",beIN Sport 07 (720P)
-http://red.ipfox.org:8080/1234/12345678/31530
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",##### BEIN SPORTS HD #####
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550444
+#EXTINF:0 tvg-id="beINSPORTS.us" group-title="|AR| BEIN SPORTS",BEIN SPORT HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/517858
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORT NEWS HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/517859
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORTS 1 PREMIUM HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550443
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORTS 2 PREMIUM HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550442
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORTS 3 PREMIUM HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550441
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORTS 1 HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550440
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORTS 2 HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550439
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORTS 3 HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550438
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORTS 4 HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550437
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORTS 5 HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550436
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORTS 6 HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550435
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORTS 7 HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550434
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORTS XTRA 1 HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/603954
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORTS XTRA 2 HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/603952
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORT 1 HD EN
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550433
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORT 2 HD EN
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550432
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORT 3 HD EN
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550431
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORTS FRENCH 1 HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/603950
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORTS FRENCH 2 HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/603948
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",ITALIAN LEAGUE 1 HD [LIVE-EVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/604046
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",ITALIAN LEAGUE 2 HD [LIVE-EVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/613015
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",ITALIAN LEAGUE 3 HD [LIVE-EVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/613014
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",ITALIAN LEAGUE 4 HD [LIVE-EVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/613013
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",ITALIAN LEAGUE 5 HD [LIVE-EVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/613012
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",### BEIN SPORTS SD ###
+http://line.hi-live.me/96a1df17bd/1effd0ce74/559749
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN PREMIUM 1
+http://line.hi-live.me/96a1df17bd/1effd0ce74/559748
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN PREMIUM 2
+http://line.hi-live.me/96a1df17bd/1effd0ce74/559747
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN PREMIUM 3
+http://line.hi-live.me/96a1df17bd/1effd0ce74/559746
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORT 1
+http://line.hi-live.me/96a1df17bd/1effd0ce74/559745
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORT 2
+http://line.hi-live.me/96a1df17bd/1effd0ce74/559744
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORT 3
+http://line.hi-live.me/96a1df17bd/1effd0ce74/559743
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORT 4
+http://line.hi-live.me/96a1df17bd/1effd0ce74/559742
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORT 5
+http://line.hi-live.me/96a1df17bd/1effd0ce74/559741
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORT 6
+http://line.hi-live.me/96a1df17bd/1effd0ce74/559740
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORT 7
+http://line.hi-live.me/96a1df17bd/1effd0ce74/559739
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORT XTRA 1
+http://line.hi-live.me/96a1df17bd/1effd0ce74/603947
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORT XTRA 2
+http://line.hi-live.me/96a1df17bd/1effd0ce74/603946
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORT 1 ENGLISH
+http://line.hi-live.me/96a1df17bd/1effd0ce74/559738
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORT 2 ENGLISH
+http://line.hi-live.me/96a1df17bd/1effd0ce74/559737
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORT 3 ENGLISH
+http://line.hi-live.me/96a1df17bd/1effd0ce74/559736
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORT FRENCH 1
+http://line.hi-live.me/96a1df17bd/1effd0ce74/603945
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORT FRENCH 2
+http://line.hi-live.me/96a1df17bd/1effd0ce74/603944
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",##### BEIN SPORTS FHD #####
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550430
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORTS 1 PREMIUM FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550429
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORTS 2 PREMIUM FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550428
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORTS 3 PREMIUM FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550427
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORTS 1 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550426
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORTS 2 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550425
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORTS 3 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550424
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORTS 4 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550423
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORTS 5 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550422
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORTS 6 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550421
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="|AR| BEIN SPORTS",BEIN SPORTS 7 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550420
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORTS XTRA 1 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/603955
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORTS XTRA 2 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/603953
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORTS 1 EN FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550419
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORTS 2 EN FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550418
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORTS 3 EN FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550417
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORTS FRENCH 1 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/603951
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",BEIN SPORTS FRENCH 2 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/603949
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",AR - AL KASS 1 HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/584499
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",AR - AL KASS 2 HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/584497
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",AR - AL KASS 3 HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/631033
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",AR - AL KASS 3 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/631032
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",AR - AL KASS 4 HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/584495
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",AR - AL KASS 5 HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/584493
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS",AR - AL KASS 6 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/631034
 
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| REELPX Cinema HD
-http://red.ipfox.org:8080/1234/12345678/37506
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| OSN Engima
-http://red.ipfox.org:8080/1234/12345678/37505
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| OSN Movies First +2
-http://red.ipfox.org:8080/1234/12345678/37504
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| OSN Series
-http://red.ipfox.org:8080/1234/12345678/37503
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| Osn Mezze
-http://red.ipfox.org:8080/1234/12345678/37502
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| OSN Series Comedy
-http://red.ipfox.org:8080/1234/12345678/37501
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| Fine living HD
-http://red.ipfox.org:8080/1234/12345678/37500
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| HGTV HD
-http://red.ipfox.org:8080/1234/12345678/37499
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| E! HD
-http://red.ipfox.org:8080/1234/12345678/37497
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| Food Network
-http://red.ipfox.org:8080/1234/12345678/37493
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| MOTORVISION
-http://red.ipfox.org:8080/1234/12345678/37492
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| FAST BOX
-http://red.ipfox.org:8080/1234/12345678/37491
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| MTV MUSIC
-http://red.ipfox.org:8080/1234/12345678/37490
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| FilmBox HD
-http://red.ipfox.org:8080/1234/12345678/37489
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|OSN| Al Yawm HD
-http://red.ipfox.org:8080/1234/12345678/2859
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|OSN| Cinema 1
-http://red.ipfox.org:8080/1234/12345678/2861
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|OSN| Cinema 2
-http://red.ipfox.org:8080/1234/12345678/2862
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|OSN| Discovery HD
-http://red.ipfox.org:8080/1234/12345678/2863
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|OSN| Disney HD
-http://red.ipfox.org:8080/1234/12345678/2864
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|OSN| Movies First HD
-http://red.ipfox.org:8080/1234/12345678/2865
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|OSN| History HD
-http://red.ipfox.org:8080/1234/12345678/2866
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|OSN| Movies Action HD
-http://red.ipfox.org:8080/1234/12345678/2868
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|OSN| Movies Disney  HD
-http://red.ipfox.org:8080/1234/12345678/2871
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|OSN| Movies HD
-http://red.ipfox.org:8080/1234/12345678/2872
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|OSN| Music Now
-http://red.ipfox.org:8080/1234/12345678/2873
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|OSN| Nat Geo Wild HD
-http://red.ipfox.org:8080/1234/12345678/2874
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|OSN| Nat Geo HD
-http://red.ipfox.org:8080/1234/12345678/2875
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|OSN| Series First HD
-http://red.ipfox.org:8080/1234/12345678/2877
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|OSN| Star Movies HD
-http://red.ipfox.org:8080/1234/12345678/2878
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|OSN| Star World HD
-http://red.ipfox.org:8080/1234/12345678/2879
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|OSN| Yahala Cinema HD
-http://red.ipfox.org:8080/1234/12345678/2880
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|OSN| Yahala HD
-http://red.ipfox.org:8080/1234/12345678/2881
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|OSN| OSN Kids HD
-http://red.ipfox.org:8080/1234/12345678/2882
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|OSN| Yahala ALOula HD
-http://red.ipfox.org:8080/1234/12345678/2883
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|OSN| Nat Geo People HD
-http://red.ipfox.org:8080/1234/12345678/2884
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|OSN| Musalsalat 1 HD
-http://red.ipfox.org:8080/1234/12345678/2885
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|OSN| Baby TV HD
-http://red.ipfox.org:8080/1234/12345678/2887
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|OSN| Nickelodeon HD
-http://red.ipfox.org:8080/1234/12345678/2888
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|OSN| Sky News HD
-http://red.ipfox.org:8080/1234/12345678/2895
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|OSN | Fann
-http://red.ipfox.org:8080/1234/12345678/21035
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|OSN| Al Safwa HD
-http://red.ipfox.org:8080/1234/12345678/21036
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|OSN| Kid Zone TV HD
-http://red.ipfox.org:8080/1234/12345678/25917
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|OSN| Musalsalat 2 HD
-http://red.ipfox.org:8080/1234/12345678/25920
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| ReelPX Action
-http://red.ipfox.org:8080/1234/12345678/25956
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| ReelPX Family
-http://red.ipfox.org:8080/1234/12345678/25955
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| ReelPX Comedy
-http://red.ipfox.org:8080/1234/12345678/30407
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| ReelPX Ultimate
-http://red.ipfox.org:8080/1234/12345678/25957
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| FX HD
-http://red.ipfox.org:8080/1234/12345678/25950
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| Fox Movies
-http://red.ipfox.org:8080/1234/12345678/2292
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| Fox Life HD
-http://red.ipfox.org:8080/1234/12345678/2291
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| Fox Crime HD
-http://red.ipfox.org:8080/1234/12345678/2280
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| Fox Rewayat HD
-http://red.ipfox.org:8080/1234/12345678/2290
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| Fox Action Movies
-http://red.ipfox.org:8080/1234/12345678/2293
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| beIN Fatafeat
-http://red.ipfox.org:8080/1234/12345678/2299
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| beIN Groummet
-http://red.ipfox.org:8080/1234/12345678/2300
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| BEIN DRAMA 1 HD
-http://red.ipfox.org:8080/1234/12345678/25939
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| BeIN Movies Action
-http://red.ipfox.org:8080/1234/12345678/2316
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| BeIN Movies Family
-http://red.ipfox.org:8080/1234/12345678/2315
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| BeIN Movies Drama
-http://red.ipfox.org:8080/1234/12345678/2313
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| BeIN Movies Premiere
-http://red.ipfox.org:8080/1234/12345678/2314
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| beIN Series 1
-http://red.ipfox.org:8080/1234/12345678/2296
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| BEIN SERIES 2 HD
-http://red.ipfox.org:8080/1234/12345678/25940
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| Zekrayat
-http://red.ipfox.org:8080/1234/12345678/25942
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| Rotana Classic HD
-http://red.ipfox.org:8080/1234/12345678/2840
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| Rotana Cinema HD
-http://red.ipfox.org:8080/1234/12345678/2841
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| Rotana Khalijeah HD
-http://red.ipfox.org:8080/1234/12345678/2838
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| Rotana Drama HD
-http://red.ipfox.org:8080/1234/12345678/2839
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| Rotana Comedy HD
-http://red.ipfox.org:8080/1234/12345678/2842
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| Rotana Kids HD
-http://red.ipfox.org:8080/1234/12345678/30406
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| H2 HD
-http://red.ipfox.org:8080/1234/12345678/25934
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| Bein BBC Earth HD
-http://red.ipfox.org:8080/1234/12345678/25938
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| BeIN animal planet
-http://red.ipfox.org:8080/1234/12345678/25937
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| Discovery ID HD
-http://red.ipfox.org:8080/1234/12345678/25926
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| Discovery Science
-http://red.ipfox.org:8080/1234/12345678/2850
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| VH1
-http://red.ipfox.org:8080/1234/12345678/25927
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| MTV Live HD
-http://red.ipfox.org:8080/1234/12345678/25925
-#EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| FIGHT BOX
-http://red.ipfox.org:8080/1234/12345678/25949
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",### BEIN SPORTS HEVC ###
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594520
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN PREMIUM 1 HEVC
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594519
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN PREMIUM 2 HEVC
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594518
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN PREMIUM 3 HEVC
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594517
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 1 HEVC
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594516
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 2 HEVC
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594515
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 3 HEVC
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594514
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 4 HEVC
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594513
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 5 HEVC
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594512
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 6 HEVC
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594511
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 7 HEVC
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594510
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 1 EN HEVC
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594509
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 2 EN HEVC
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594508
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 3 EN HEVC
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594507
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",### BEIN SPORTS ULTRA FHD ###
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550416
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 1 PREMIUM ULTRA FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550415
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 2 PREMIUM ULTRA FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550414
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 3 PREMIUM ULTRA FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550413
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 1 ULTRA FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550412
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 2 ULTRA FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550411
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 3 ULTRA FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550410
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 4 ULTRA FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550409
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 5 ULTRA FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550408
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 6 ULTRA FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550407
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 7 ULTRA FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550406
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 1 EN ULTRA FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550405
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 2 EN ULTRA FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550404
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 3 EN ULTRA FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550403
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS NEWS ULTRA FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550402
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS GLOBAL ULTRA FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/550401
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",### BEIN SPORTS 4K ###
+http://line.hi-live.me/96a1df17bd/1effd0ce74/653635
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS NEWS 4K
+http://line.hi-live.me/96a1df17bd/1effd0ce74/653634
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS GLOBAL 4K
+http://line.hi-live.me/96a1df17bd/1effd0ce74/653633
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 1 8K
+http://line.hi-live.me/96a1df17bd/1effd0ce74/653632
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 1 PREMIUM 8K
+http://line.hi-live.me/96a1df17bd/1effd0ce74/653631
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 3 8K
+http://line.hi-live.me/96a1df17bd/1effd0ce74/653630
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 1 PREMIUM 4K
+http://line.hi-live.me/96a1df17bd/1effd0ce74/653629
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 2 PREMIUM 4K
+http://line.hi-live.me/96a1df17bd/1effd0ce74/653628
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 3 PREMIUM 4K
+http://line.hi-live.me/96a1df17bd/1effd0ce74/653627
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 1 4K
+http://line.hi-live.me/96a1df17bd/1effd0ce74/653626
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 2 4K
+http://line.hi-live.me/96a1df17bd/1effd0ce74/653625
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 3 4K
+http://line.hi-live.me/96a1df17bd/1effd0ce74/653624
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 4 4K
+http://line.hi-live.me/96a1df17bd/1effd0ce74/653623
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 5 4K
+http://line.hi-live.me/96a1df17bd/1effd0ce74/653622
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 6 4K
+http://line.hi-live.me/96a1df17bd/1effd0ce74/653621
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 7 4K
+http://line.hi-live.me/96a1df17bd/1effd0ce74/653620
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS XTRA 1 4K
+http://line.hi-live.me/96a1df17bd/1effd0ce74/653619
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS XTRA 2 4K
+http://line.hi-live.me/96a1df17bd/1effd0ce74/653618
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 1 EN 4K
+http://line.hi-live.me/96a1df17bd/1effd0ce74/653617
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 2 EN 4K
+http://line.hi-live.me/96a1df17bd/1effd0ce74/653616
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS 3 EN 4K
+http://line.hi-live.me/96a1df17bd/1effd0ce74/653615
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS FRENCH 1 4K
+http://line.hi-live.me/96a1df17bd/1effd0ce74/653614
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS 4K",BEIN SPORTS FRENCH 2 4K
+http://line.hi-live.me/96a1df17bd/1effd0ce74/653613
 
-#EXTINF:0 tvg-id="TF1.fr" group-title="FRANCE TV",|FR| TF1 HD
-http://red.ipfox.org:8080/1234/12345678/2341
-#EXTINF:0 tvg-id="AB1.fr" group-title="FRANCE TV",|FR| AB 1
-http://red.ipfox.org:8080/1234/12345678/2447
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",|FR| AB 3
-http://red.ipfox.org:8080/1234/12345678/2446
-#EXTINF:0 tvg-id="Action.fr" group-title="FRANCE TV",|FR| Action
-http://red.ipfox.org:8080/1234/12345678/2445
-#EXTINF:0 tvg-id="France2.fr" group-title="FRANCE TV",|FR| France 2
-http://red.ipfox.org:8080/1234/12345678/2394
-#EXTINF:0 tvg-id="France3.fr" group-title="FRANCE TV",|FR| France 3
-http://red.ipfox.org:8080/1234/12345678/2393
-#EXTINF:0 tvg-id="France4.fr" group-title="FRANCE TV",|FR| France 4
-http://red.ipfox.org:8080/1234/12345678/2392
-#EXTINF:0 tvg-id="France5.fr" group-title="FRANCE TV",|FR| France 5
-http://red.ipfox.org:8080/1234/12345678/2391
-#EXTINF:0 tvg-id="Franceinfo.fr" group-title="FRANCE TV",|FR| France Info
-http://red.ipfox.org:8080/1234/12345678/2390
-#EXTINF:0 tvg-id="M6.fr" group-title="FRANCE TV",|FR| M6 HD
-http://red.ipfox.org:8080/1234/12345678/2380
-#EXTINF:0 tvg-id="Syfy.fr" group-title="FRANCE TV",|FR| SYFY HD
-http://red.ipfox.org:8080/1234/12345678/2345
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",|FR| TFX HD
-http://red.ipfox.org:8080/1234/12345678/2339
-#EXTINF:0 tvg-id="6ter.fr" group-title="FRANCE TV",|FR| 6ter HD
-http://red.ipfox.org:8080/1234/12345678/2449
-#EXTINF:0 tvg-id="W9.fr" group-title="FRANCE TV",|FR| W9 HD
-http://red.ipfox.org:8080/1234/12345678/2330
-#EXTINF:0 tvg-id="C8.fr" group-title="FRANCE TV",|FR| C8 HD
-http://red.ipfox.org:8080/1234/12345678/2427
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",|FR| CStar HD
-http://red.ipfox.org:8080/1234/12345678/2408
-#EXTINF:0 tvg-id="13RUE.fr" group-title="FRANCE TV",|FR| 13eme Rue
-http://red.ipfox.org:8080/1234/12345678/2450
-#EXTINF:0 tvg-id="TCM.fr" group-title="FRANCE TV",|FR| TCM Cinema
-http://red.ipfox.org:8080/1234/12345678/2344
-#EXTINF:0 tvg-id="SerieClub.fr" group-title="FRANCE TV",|FR| Serie Club
-http://red.ipfox.org:8080/1234/12345678/2347
-#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="FRANCE TV",|FR| Canal+ Sport
-http://red.ipfox.org:8080/1234/12345678/2422
-#EXTINF:0 tvg-id="CanalplusSeries.fr" group-title="FRANCE TV",|FR| Canal+ Series
-http://red.ipfox.org:8080/1234/12345678/2423
-#EXTINF:0 tvg-id="CANALplusFamily.fr" group-title="FRANCE TV",|FR| Canal+ Family
-http://red.ipfox.org:8080/1234/12345678/2424
-#EXTINF:0 tvg-id="CANALplusCINEMA.fr" group-title="FRANCE TV",|FR| Canal+ Cinema
-http://red.ipfox.org:8080/1234/12345678/2425
-#EXTINF:0 tvg-id="UshuaiaTV.fr" group-title="FRANCE TV",|FR| Ushuaïa
-http://red.ipfox.org:8080/1234/12345678/2332
-#EXTINF:0 tvg-id="Trek.fr" group-title="FRANCE TV",|FR| TREK
-http://red.ipfox.org:8080/1234/12345678/2334
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",|FR| Toute histoire
-http://red.ipfox.org:8080/1234/12345678/2335
-#EXTINF:0 tvg-id="Toonami.fr" group-title="FRANCE TV",|FR| Toonami
-http://red.ipfox.org:8080/1234/12345678/2336
-#EXTINF:0 tvg-id="TMC.fr" group-title="FRANCE TV",|FR| TMC HD
-http://red.ipfox.org:8080/1234/12345678/2337
-#EXTINF:0 tvg-id="Tiji.fr" group-title="FRANCE TV",|FR| Tiji HD
-http://red.ipfox.org:8080/1234/12345678/2338
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",|FR| TF1 SERIES-FILMS
-http://red.ipfox.org:8080/1234/12345678/2340
-#EXTINF:0 tvg-id="Teva.fr" group-title="FRANCE TV",|FR| Teva HD
-http://red.ipfox.org:8080/1234/12345678/2342
-#EXTINF:0 tvg-id="TeleTOON.fr" group-title="FRANCE TV",|FR| TéléTOON
-http://red.ipfox.org:8080/1234/12345678/2343
-#EXTINF:0 tvg-id="Seasons.fr" group-title="FRANCE TV",|FR| Seasons HD
-http://red.ipfox.org:8080/1234/12345678/2348
-#EXTINF:0 tvg-id="ScienceVie.fr" group-title="FRANCE TV",|FR| Science et Vie
-http://red.ipfox.org:8080/1234/12345678/2349
-#EXTINF:0 tvg-id="RTL9.fr" group-title="FRANCE TV",|FR| RTL 9
-http://red.ipfox.org:8080/1234/12345678/2350
-#EXTINF:0 tvg-id="Comedie.fr" group-title="FRANCE TV",|FR| Comedie+
-http://red.ipfox.org:8080/1234/12345678/2410
-#EXTINF:0 tvg-id="CinecinemaPremier.fr" group-title="FRANCE TV",|FR| Ciné Premier
-http://red.ipfox.org:8080/1234/12345678/2412
-#EXTINF:0 tvg-id="CinecinemaFrisson.fr" group-title="FRANCE TV",|FR| Ciné Frisson
-http://red.ipfox.org:8080/1234/12345678/2413
-#EXTINF:0 tvg-id="CinecinemaFamiz.fr" group-title="FRANCE TV",|FR| Ciné Famiz
-http://red.ipfox.org:8080/1234/12345678/2414
-#EXTINF:0 tvg-id="CinecinemaEmotion.fr" group-title="FRANCE TV",|FR| Ciné Emotion
-http://red.ipfox.org:8080/1234/12345678/2415
-#EXTINF:0 tvg-id="CinecinemaClub.fr" group-title="FRANCE TV",|FR| Ciné Club
-http://red.ipfox.org:8080/1234/12345678/2416
-#EXTINF:0 tvg-id="CinecinemaClassic.fr" group-title="FRANCE TV",|FR| Ciné Classic
-http://red.ipfox.org:8080/1234/12345678/2417
-#EXTINF:0 tvg-id="PLANETE.fr" group-title="FRANCE TV",|FR| Planete+
-http://red.ipfox.org:8080/1234/12345678/2360
-#EXTINF:0 tvg-id="PLANETEJustice.fr" group-title="FRANCE TV",|FR| Planete+ CI
-http://red.ipfox.org:8080/1234/12345678/2358
-#EXTINF:0 tvg-id="PLANETEnoLIMIT.fr" group-title="FRANCE TV",|FR| Planete+ A&E
-http://red.ipfox.org:8080/1234/12345678/2359
-#EXTINF:0 tvg-id="ParisPremiere.fr" group-title="FRANCE TV",|FR| Paris Premiere
-http://red.ipfox.org:8080/1234/12345678/2362
-#EXTINF:0 tvg-id="ParamountChannel.fr" group-title="FRANCE TV",|FR| Paramount channel
-http://red.ipfox.org:8080/1234/12345678/2363
-#EXTINF:0 tvg-id="OrangeCinemax.fr" group-title="FRANCE TV",|FR| OCS Max
-http://red.ipfox.org:8080/1234/12345678/2365
-#EXTINF:0 tvg-id="OrangeCineGeants.fr" group-title="FRANCE TV",|FR| OCS Geants
-http://red.ipfox.org:8080/1234/12345678/2366
-#EXTINF:0 tvg-id="OrangeCineHappy.fr" group-title="FRANCE TV",|FR| OCS City
-http://red.ipfox.org:8080/1234/12345678/2367
-#EXTINF:0 tvg-id="OrangeCinechoc.fr" group-title="FRANCE TV",|FR| OCS Choc
-http://red.ipfox.org:8080/1234/12345678/2368
-#EXTINF:0 tvg-id="NRJ12.fr" group-title="FRANCE TV",|FR| NRJ 12
-http://red.ipfox.org:8080/1234/12345678/2369
-#EXTINF:0 tvg-id="NRJHits.fr" group-title="FRANCE TV",|FR| NRJ Hits
-http://red.ipfox.org:8080/1234/12345678/2370
-#EXTINF:0 tvg-id="MCMtop.fr" group-title="FRANCE TV",|FR| MCM TOP
-http://red.ipfox.org:8080/1234/12345678/2377
-#EXTINF:0 tvg-id="MCM.fr" group-title="FRANCE TV",|FR| MCM HD
-http://red.ipfox.org:8080/1234/12345678/2378
-#EXTINF:0 tvg-id="Mangas.fr" group-title="FRANCE TV",|FR| Mangas HD
-http://red.ipfox.org:8080/1234/12345678/2379
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",|FR| LCP HD
-http://red.ipfox.org:8080/1234/12345678/2381
-#EXTINF:0 tvg-id="LCI.fr" group-title="FRANCE TV",|FR| LCI HD
-http://red.ipfox.org:8080/1234/12345678/2382
-#EXTINF:0 tvg-id="JOne.fr" group-title="FRANCE TV",|FR| J One
-http://red.ipfox.org:8080/1234/12345678/2383
-#EXTINF:0 tvg-id="GameOne.fr" group-title="FRANCE TV",|FR| Game One
-http://red.ipfox.org:8080/1234/12345678/2388
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",|FR| Euro Sport 2
-http://red.ipfox.org:8080/1234/12345678/2395
-#EXTINF:0 tvg-id="EquipeTV.fr" group-title="FRANCE TV",|FR| Equipe 21
-http://red.ipfox.org:8080/1234/12345678/2396
-#EXTINF:0 tvg-id="EquidiaLive.fr" group-title="FRANCE TV",|FR| Equidia Live
-http://red.ipfox.org:8080/1234/12345678/2397
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",|FR| E! Entertaiment
-http://red.ipfox.org:8080/1234/12345678/2398
-#EXTINF:0 tvg-id="Boing.fr" group-title="FRANCE TV",|FR| Boing
-http://red.ipfox.org:8080/1234/12345678/2430
-#EXTINF:0 tvg-id="PIWI.fr" group-title="FRANCE TV",|FR| Piwi+ HD
-http://red.ipfox.org:8080/1234/12345678/2361
-#EXTINF:0 tvg-id="Gulli.fr" group-title="FRANCE TV",|FR| Gulli
-http://red.ipfox.org:8080/1234/12345678/2385
-#EXTINF:0 tvg-id="Boomerang.fr" group-title="FRANCE TV",|FR| Boomerang
-http://red.ipfox.org:8080/1234/12345678/2429
-#EXTINF:0 tvg-id="CartoonNetwork.fr" group-title="FRANCE TV",|FR| Cartoon Network
-http://red.ipfox.org:8080/1234/12345678/2420
-#EXTINF:0 tvg-id="DisneyJunior.fr" group-title="FRANCE TV",|FR| Disney Junior
-http://red.ipfox.org:8080/1234/12345678/2400
-#EXTINF:0 tvg-id="DisneyMagic.fr" group-title="FRANCE TV",|FR| Disney Cinema
-http://red.ipfox.org:8080/1234/12345678/2401
-#EXTINF:0 tvg-id="DisneyChannel.fr" group-title="FRANCE TV",|FR| Disney Channel
-http://red.ipfox.org:8080/1234/12345678/2403
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",|FR| Nick Junior
-http://red.ipfox.org:8080/1234/12345678/2372
-#EXTINF:0 tvg-id="Nickelodeon.fr" group-title="FRANCE TV",|FR| Nickelodeon
-http://red.ipfox.org:8080/1234/12345678/2373
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",|FR| Nick 4 Teens
-http://red.ipfox.org:8080/1234/12345678/2374
-#EXTINF:0 tvg-id="CrimeDistrict.fr" group-title="FRANCE TV",|FR| Crime District
-http://red.ipfox.org:8080/1234/12345678/2409
-#EXTINF:0 tvg-id="BFMTV.fr" group-title="FRANCE TV",|FR| BFM TV
-http://red.ipfox.org:8080/1234/12345678/2431
-#EXTINF:0 tvg-id="CNews.fr" group-title="FRANCE TV",|FR| CNews HD
-http://red.ipfox.org:8080/1234/12345678/2411
-#EXTINF:0 tvg-id="Cherie25.fr" group-title="FRANCE TV",|FR| Cherie 25
-http://red.ipfox.org:8080/1234/12345678/2418
-#EXTINF:0 tvg-id="CanalJ.fr" group-title="FRANCE TV",|FR| Canal J
-http://red.ipfox.org:8080/1234/12345678/2421
-#EXTINF:0 tvg-id="CANALplus.fr" group-title="FRANCE TV",|FR| Canal+
-http://red.ipfox.org:8080/1234/12345678/2426
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",|FR| Info Sport
-http://red.ipfox.org:8080/1234/12345678/2384
-#EXTINF:0 tvg-id="Golf.fr" group-title="FRANCE TV",|FR| Golf Channel
-http://red.ipfox.org:8080/1234/12345678/2386
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",|FR| Rmc Story
-http://red.ipfox.org:8080/1234/12345678/2351
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",|FR| RMC Sport 1
-http://red.ipfox.org:8080/1234/12345678/2355
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",|FR| RMC Sport 2
-http://red.ipfox.org:8080/1234/12345678/2354
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",|FR| RMC Sport 3
-http://red.ipfox.org:8080/1234/12345678/2353
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",|FR| RMC Sport 4
-http://red.ipfox.org:8080/1234/12345678/2352
-#EXTINF:0 tvg-id="beINSport1.fr" group-title="FRANCE TV",|FR| beIN SPORTS 1
-http://red.ipfox.org:8080/1234/12345678/2441
-#EXTINF:0 tvg-id="beINSport2.fr" group-title="FRANCE TV",|FR| beIN SPORTS 2
-http://red.ipfox.org:8080/1234/12345678/2439
-#EXTINF:0 tvg-id="beINSport3.fr" group-title="FRANCE TV",|FR| beIN SPORTS 3
-http://red.ipfox.org:8080/1234/12345678/2438
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",|FR| beIN SPORTS 4
-http://red.ipfox.org:8080/1234/12345678/2437
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",|FR| beIN SPORTS 5
-http://red.ipfox.org:8080/1234/12345678/2436
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",|FR| beIN SPORTS 6
-http://red.ipfox.org:8080/1234/12345678/2435
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",|FR| beIN SPORTS 7
-http://red.ipfox.org:8080/1234/12345678/2434
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",|FR| beIN SPORTS 10
-http://red.ipfox.org:8080/1234/12345678/2440
-#EXTINF:0 tvg-id="ARTE.fr" group-title="FRANCE TV",|FR| ARTE
-http://red.ipfox.org:8080/1234/12345678/2442
-#EXTINF:0 tvg-id="Animaux.fr" group-title="FRANCE TV",|FR| Animaux
-http://red.ipfox.org:8080/1234/12345678/2443
-#EXTINF:0 tvg-id="ChassePeche.fr" group-title="FRANCE TV",|FR| Chasse & Pêche
-http://red.ipfox.org:8080/1234/12345678/2419
-#EXTINF:0 tvg-id="NationalGeographic.fr" group-title="FRANCE TV",|FR| NAT GEO HD
-http://red.ipfox.org:8080/1234/12345678/2375
-#EXTINF:0 tvg-id="NatGeoWildHD.fr" group-title="FRANCE TV",|FR| NAT GEO WILD
-http://red.ipfox.org:8080/1234/12345678/2376
-#EXTINF:0 tvg-id="Discovery.fr" group-title="FRANCE TV",|FR| Discovery HD
-http://red.ipfox.org:8080/1234/12345678/2407
-#EXTINF:0 tvg-id="DiscoveryFamily.fr" group-title="FRANCE TV",|FR| Discovery Family
-http://red.ipfox.org:8080/1234/12345678/2406
-#EXTINF:0 tvg-id="DiscoveryScience.fr" group-title="FRANCE TV",|FR| Discovery Science
-http://red.ipfox.org:8080/1234/12345678/2404
-#EXTINF:0 tvg-id="TVBreizh.fr" group-title="FRANCE TV",|FR| TV Breizh
-http://red.ipfox.org:8080/1234/12345678/2405
-#EXTINF:0 tvg-id="AlticeStudio.fr" group-title="FRANCE TV",|FR| Altice Studio
-http://red.ipfox.org:8080/1234/12345678/2444
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",### AR - BEIN ENTERTAINMENT HD ###
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533073
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN MOVIES HD1
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533072
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN MOVIES HD2
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533071
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN MOVIES HD3
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533070
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN MOVIES HD4
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533069
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN SERIES HD1
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533068
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN SERIES HD2
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533067
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN DRAMA HD1
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533066
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN FOX MOVIES HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533065
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN FOX ACTION MOVIES HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533064
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN GOURMET HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533063
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN JEEM HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533062
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN BARAEM HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533061
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN FATAFEAT
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533060
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN BABY HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533059
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN FOX LIFE HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533058
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN FOX REWAYAT HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533057
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN FOX CRIME HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533056
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN NAT GEO HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533055
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN NAT GEO WILD HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533054
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN NAT GEO PEOPLE HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533053
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN AMC HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533052
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN HGTV HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533051
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN BE JUNIOR
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533050
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN STAR WORLD HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533049
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN STAR MOVIES HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533048
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN TRAVEL HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533047
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN OUTDOOR HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533046
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN FOOD NETWORK HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533045
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN BBC EARTH HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533044
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",### AR - BEIN ENTERTAINMENT 4K ###
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533043
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN MOVIES 4K 1
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533042
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN MOVIES 4K 2
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533041
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN MOVIES 4K 3
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533040
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN MOVIES 4K 4
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533039
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN SERIES 4K 1
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533038
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN SERIES 4K 2
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533037
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN DRAMA 4K
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533036
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN FOX MOVIES 4K
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533035
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN FOX MOV ACTION 4K
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533034
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN FOX LIFE 4K
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533033
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN FOX CRIME 4K
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533032
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN FOX REWAYAT 4K
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533031
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN BBC EARTH 4K
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533030
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN SPARE 4K
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533029
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN GORMENT 4K
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533028
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN FATAFEAT 4K
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533027
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN BARAEAM 4K
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533026
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN ENTERTAINMENT",AR - BEIN JEEM 4K
+http://line.hi-live.me/96a1df17bd/1effd0ce74/533025
 
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| TVE La1
-http://red.ipfox.org:8080/1234/12345678/2507
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| TVE La2
-http://red.ipfox.org:8080/1234/12345678/2506
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| AXN HD
-http://red.ipfox.org:8080/1234/12345678/2577
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| AXN White
-http://red.ipfox.org:8080/1234/12345678/2576
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| AMC HD
-http://red.ipfox.org:8080/1234/12345678/2580
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Movistar Series
-http://red.ipfox.org:8080/1234/12345678/2529
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Movistar Series Xtra
-http://red.ipfox.org:8080/1234/12345678/2528
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Movistar Comedia
-http://red.ipfox.org:8080/1234/12345678/2534
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Movistar Estrenos
-http://red.ipfox.org:8080/1234/12345678/2531
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Movistar Deportes 1
-http://red.ipfox.org:8080/1234/12345678/2533
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Movistar Deportes 2
-http://red.ipfox.org:8080/1234/12345678/2532
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Dcine HD
-http://red.ipfox.org:8080/1234/12345678/2559
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| ACCION HD
-http://red.ipfox.org:8080/1234/12345678/2582
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| TELE Cinco
-http://red.ipfox.org:8080/1234/12345678/2512
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Fox HD
-http://red.ipfox.org:8080/1234/12345678/2549
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Fox Life
-http://red.ipfox.org:8080/1234/12345678/2548
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| SYFY HD
-http://red.ipfox.org:8080/1234/12345678/2515
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Sundance TV
-http://red.ipfox.org:8080/1234/12345678/2516
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Comedy Central
-http://red.ipfox.org:8080/1234/12345678/2563
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Paramount HD
-http://red.ipfox.org:8080/1234/12345678/2518
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Barca TV
-http://red.ipfox.org:8080/1234/12345678/2574
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Real Madrid TV
-http://red.ipfox.org:8080/1234/12345678/2517
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| La Liga HD
-http://red.ipfox.org:8080/1234/12345678/2539
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Gol TV
-http://red.ipfox.org:8080/1234/12345678/2545
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Moviestar La Liga 1
-http://red.ipfox.org:8080/1234/12345678/2546
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Formula 1 HD
-http://red.ipfox.org:8080/1234/12345678/2550
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Disney XD
-http://red.ipfox.org:8080/1234/12345678/2554
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Disney Junior
-http://red.ipfox.org:8080/1234/12345678/2555
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Disney Channel
-http://red.ipfox.org:8080/1234/12345678/2556
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Boing HD
-http://red.ipfox.org:8080/1234/12345678/2572
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Baby TV
-http://red.ipfox.org:8080/1234/12345678/2575
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Nick Jr
-http://red.ipfox.org:8080/1234/12345678/2521
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Clan TVE
-http://red.ipfox.org:8080/1234/12345678/2565
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Caza y Pesca
-http://red.ipfox.org:8080/1234/12345678/2566
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Canal sur A
-http://red.ipfox.org:8080/1234/12345678/2567
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Canal Panda
-http://red.ipfox.org:8080/1234/12345678/2568
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Canal Cocina
-http://red.ipfox.org:8080/1234/12345678/2569
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Canal 24 Horas
-http://red.ipfox.org:8080/1234/12345678/2570
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Calle 13
-http://red.ipfox.org:8080/1234/12345678/2571
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Toros TV
-http://red.ipfox.org:8080/1234/12345678/2508
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| TNT HD
-http://red.ipfox.org:8080/1234/12345678/2509
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Tele Sur
-http://red.ipfox.org:8080/1234/12345678/2510
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| TELE Deporte
-http://red.ipfox.org:8080/1234/12345678/2511
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| TCM HD
-http://red.ipfox.org:8080/1234/12345678/2513
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Odisea HD
-http://red.ipfox.org:8080/1234/12345678/2519
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Neox HD
-http://red.ipfox.org:8080/1234/12345678/2523
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Nova Spain
-http://red.ipfox.org:8080/1234/12345678/2520
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Discovery Channel
-http://red.ipfox.org:8080/1234/12345678/2557
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Nat Geo Wild
-http://red.ipfox.org:8080/1234/12345678/2524
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Nat Geo HD
-http://red.ipfox.org:8080/1234/12345678/2525
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| MTV HD
-http://red.ipfox.org:8080/1234/12345678/2527
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Aragon TV
-http://red.ipfox.org:8080/1234/12345678/2578
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Antena 3 HD
-http://red.ipfox.org:8080/1234/12345678/2579
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Mezzo Live HD
-http://red.ipfox.org:8080/1234/12345678/2537
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| La Sexta HD
-http://red.ipfox.org:8080/1234/12345678/2538
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Iberalia TV
-http://red.ipfox.org:8080/1234/12345678/2540
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Hollywood HD
-http://red.ipfox.org:8080/1234/12345678/2542
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Historia HD
-http://red.ipfox.org:8080/1234/12345678/2543
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Hash 0 HD
-http://red.ipfox.org:8080/1234/12345678/2544
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Energy HD
-http://red.ipfox.org:8080/1234/12345678/2552
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Divinity HD
-http://red.ipfox.org:8080/1234/12345678/2553
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Decasa HD
-http://red.ipfox.org:8080/1234/12345678/2558
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Cuatro HD
-http://red.ipfox.org:8080/1234/12345678/2560
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Crimen Investigacion
-http://red.ipfox.org:8080/1234/12345678/2561
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Cosmo  TV
-http://red.ipfox.org:8080/1234/12345678/2562
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Classica Europe
-http://red.ipfox.org:8080/1234/12345678/2564
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Disney Plus
-http://red.ipfox.org:8080/1234/12345678/36211
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Dazn 4 HD
-http://red.ipfox.org:8080/1234/12345678/36210
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Dazn 3 HD
-http://red.ipfox.org:8080/1234/12345678/36209
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Dazn 2 HD
-http://red.ipfox.org:8080/1234/12345678/36208
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Dazn 1 HD
-http://red.ipfox.org:8080/1234/12345678/36207
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Eurosport 2
-http://red.ipfox.org:8080/1234/12345678/36206
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Eurosport 1
-http://red.ipfox.org:8080/1234/12345678/36205
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| TVE Internacional
-http://red.ipfox.org:8080/1234/12345678/36202
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Bemad
-http://red.ipfox.org:8080/1234/12345678/36201
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Galicia TV
-http://red.ipfox.org:8080/1234/12345678/36200
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Vamos HD
-http://red.ipfox.org:8080/1234/12345678/36199
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Blaze
-http://red.ipfox.org:8080/1234/12345678/36198
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| FDF HD
-http://red.ipfox.org:8080/1234/12345678/36197
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Moviestar Doc&roll
-http://red.ipfox.org:8080/1234/12345678/36196
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Moviestar Series Mania
-http://red.ipfox.org:8080/1234/12345678/36195
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Moviestar Drama
-http://red.ipfox.org:8080/1234/12345678/36194
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Moviestar Campeon 2
-http://red.ipfox.org:8080/1234/12345678/36192
-#EXTINF:0 tvg-id="ext" group-title="SPAIN TV",|SP| Moviestar Campeon 1
-http://red.ipfox.org:8080/1234/12345678/36191
+#EXTINF:0 tvg-id="ext" group-title="|AR| NETFLIX",##### NF - NETFLIX 4K #####
+http://line.hi-live.me/96a1df17bd/1effd0ce74/587716
+#EXTINF:0 tvg-id="ext" group-title="|AR| NETFLIX",NF - NETFLIX MOVIES 1 4K
+http://line.hi-live.me/96a1df17bd/1effd0ce74/587715
+#EXTINF:0 tvg-id="ext" group-title="|AR| NETFLIX",###### NF - NETFLIX UHD ######
+http://line.hi-live.me/96a1df17bd/1effd0ce74/587714
+#EXTINF:0 tvg-id="ext" group-title="|AR| NETFLIX",NF - NETFLIX MOVIES 1 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/587713
+#EXTINF:0 tvg-id="ext" group-title="|AR| NETFLIX",NF - NETFLIX MOVIES 2 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/587712
+#EXTINF:0 tvg-id="ext" group-title="|AR| NETFLIX",NF - NETFLIX MOVIES 3 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/587711
+#EXTINF:0 tvg-id="ext" group-title="|AR| NETFLIX",NF - NETFLIX MOVIES 4 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/587710
+#EXTINF:0 tvg-id="ext" group-title="|AR| NETFLIX",NF - NETFLIX MOVIES 5 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/587709
+#EXTINF:0 tvg-id="ext" group-title="|AR| NETFLIX",NF - NETFLIX MOVIES 6 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/587708
+#EXTINF:0 tvg-id="ext" group-title="|AR| NETFLIX",NF - NETFLIX MOVIES 7 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/587707
+#EXTINF:0 tvg-id="ext" group-title="|AR| NETFLIX",NF - NETFLIX MOVIES 8 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/587706
+#EXTINF:0 tvg-id="ext" group-title="|AR| NETFLIX",NF - NETFLIX MOVIES 9 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/587705
+#EXTINF:0 tvg-id="ext" group-title="|AR| NETFLIX",NF - NETFLIX MOVIES 10 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/587704
 
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Pursuit
-http://red.ipfox.org:8080/movie/1234/12345678/41146.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Resident Evil: Welcome to Raccoon City
-http://red.ipfox.org:8080/movie/1234/12345678/41083.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",The Requin
-http://red.ipfox.org:8080/movie/1234/12345678/40185.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",The 355
-http://red.ipfox.org:8080/movie/1234/12345678/40177.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Warhunt
-http://red.ipfox.org:8080/movie/1234/12345678/40060.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",The Kings Daughter
-http://red.ipfox.org:8080/movie/1234/12345678/39974.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Most Dangerous Game
-http://red.ipfox.org:8080/movie/1234/12345678/39969.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Red Notice
-http://red.ipfox.org:8080/movie/1234/12345678/38795.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",No Time to Die
-http://red.ipfox.org:8080/movie/1234/12345678/38510.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Shang-Chi and the Legend of the Ten Rings
-http://red.ipfox.org:8080/movie/1234/12345678/38509.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Prisoners of the Ghostland
-http://red.ipfox.org:8080/movie/1234/12345678/38061.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Megalodon Rising
-http://red.ipfox.org:8080/movie/1234/12345678/38045.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Kate
-http://red.ipfox.org:8080/movie/1234/12345678/38042.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Final Frequency
-http://red.ipfox.org:8080/movie/1234/12345678/38040.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Catch the Bullet
-http://red.ipfox.org:8080/movie/1234/12345678/38036.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",The Protege
-http://red.ipfox.org:8080/movie/1234/12345678/37845.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Snake Eyes: G.I. Joe Origins
-http://red.ipfox.org:8080/movie/1234/12345678/37834.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Survive
-http://red.ipfox.org:8080/movie/1234/12345678/37833.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",The Suicide Squad
-http://red.ipfox.org:8080/movie/1234/12345678/37777.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Rurouni Kenshin: The Beginning
-http://red.ipfox.org:8080/movie/1234/12345678/37748.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",The Last Mercenary
-http://red.ipfox.org:8080/movie/1234/12345678/37746.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Jungle Cruise
-http://red.ipfox.org:8080/movie/1234/12345678/37745.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Fast Furious 9
-http://red.ipfox.org:8080/movie/1234/12345678/37743.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Bartkowiak
-http://red.ipfox.org:8080/movie/1234/12345678/37740.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Jolt
-http://red.ipfox.org:8080/movie/1234/12345678/37723.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Black Widow
-http://red.ipfox.org:8080/movie/1234/12345678/37711.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Hard Target 2
-http://red.ipfox.org:8080/movie/1234/12345678/37536.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Just Another Dream
-http://red.ipfox.org:8080/movie/1234/12345678/37432.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Buckskin
-http://red.ipfox.org:8080/movie/1234/12345678/37431.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",The Misfits
-http://red.ipfox.org:8080/movie/1234/12345678/37429.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",The Paper Tigers
-http://red.ipfox.org:8080/movie/1234/12345678/37428.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Riders of Justice
-http://red.ipfox.org:8080/movie/1234/12345678/37413.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Take Back
-http://red.ipfox.org:8080/movie/1234/12345678/37410.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",The Vault
-http://red.ipfox.org:8080/movie/1234/12345678/37273.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Army of the Dead
-http://red.ipfox.org:8080/movie/1234/12345678/37184.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Those Who Wish Me Dead
-http://red.ipfox.org:8080/movie/1234/12345678/37124.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Zack Snyder's Justice League (2021)
-http://red.ipfox.org:8080/movie/1234/12345678/32279.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Godzilla vs. Kong
-http://red.ipfox.org:8080/movie/1234/12345678/32219.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Monster Hunter
-http://red.ipfox.org:8080/movie/1234/12345678/31316.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Narco Sub 2021
-http://red.ipfox.org:8080/movie/1234/12345678/31085.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Black Beach
-http://red.ipfox.org:8080/movie/1234/12345678/31060.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",HellKat 2021
-http://red.ipfox.org:8080/movie/1234/12345678/31047.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Below Zero 2021
-http://red.ipfox.org:8080/movie/1234/12345678/31039.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Redemption Day 2021
-http://red.ipfox.org:8080/movie/1234/12345678/30973.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Skylines 2020
-http://red.ipfox.org:8080/movie/1234/12345678/30866.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Tribal: Get Out Alive
-http://red.ipfox.org:8080/movie/1234/12345678/30859.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Wonder Woman 1984
-http://red.ipfox.org:8080/movie/1234/12345678/30585.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Enhanced
-http://red.ipfox.org:8080/movie/1234/12345678/30430.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Breach 2020
-http://red.ipfox.org:8080/movie/1234/12345678/30321.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Heroes and Cowards
-http://red.ipfox.org:8080/movie/1234/12345678/30241.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Army of One 2020
-http://red.ipfox.org:8080/movie/1234/12345678/30236.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Archenemy 2020
-http://red.ipfox.org:8080/movie/1234/12345678/30220.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Paydirt 2020
-http://red.ipfox.org:8080/movie/1234/12345678/30216.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Spare Parts 2020
-http://red.ipfox.org:8080/movie/1234/12345678/30149.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Monsters of Man 2020 HD
-http://red.ipfox.org:8080/movie/1234/12345678/30127.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Monsters of Man 2020 SD
-http://red.ipfox.org:8080/movie/1234/12345678/30126.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Infidel 2020
-http://red.ipfox.org:8080/movie/1234/12345678/30119.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",No Place 2020
-http://red.ipfox.org:8080/movie/1234/12345678/30116.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Tenet 2020
-http://red.ipfox.org:8080/movie/1234/12345678/29550.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Mosul
-http://red.ipfox.org:8080/movie/1234/12345678/29540.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Boss Level 2020
-http://red.ipfox.org:8080/movie/1234/12345678/29518.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Counterpunch 2019
-http://red.ipfox.org:8080/movie/1234/12345678/29499.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Jiu Jitsu 2020
-http://red.ipfox.org:8080/movie/1234/12345678/29481.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Last Three Days 2020
-http://red.ipfox.org:8080/movie/1234/12345678/29449.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Greenland 2020
-http://red.ipfox.org:8080/movie/1234/12345678/29448.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Echo Boomers 2020
-http://red.ipfox.org:8080/movie/1234/12345678/29444.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Contracts 2020
-http://red.ipfox.org:8080/movie/1234/12345678/29419.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Rogue City 2020
-http://red.ipfox.org:8080/movie/1234/12345678/29125.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Skydog 2020
-http://red.ipfox.org:8080/movie/1234/12345678/28887.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Blue Ridge 2020
-http://red.ipfox.org:8080/movie/1234/12345678/28883.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Unhinged 2020
-http://red.ipfox.org:8080/movie/1234/12345678/28880.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",World War Four
-http://red.ipfox.org:8080/movie/1234/12345678/28727.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Shark Season 2020
-http://red.ipfox.org:8080/movie/1234/12345678/28718.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Cagefighter: Worlds Collide
-http://red.ipfox.org:8080/movie/1234/12345678/28653.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Tremors: Shrieker Island 2020
-http://red.ipfox.org:8080/movie/1234/12345678/28650.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Seized 2020
-http://red.ipfox.org:8080/movie/1234/12345678/28648.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Cut Throat City 2020
-http://red.ipfox.org:8080/movie/1234/12345678/28629.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",The Doorman 2020
-http://red.ipfox.org:8080/movie/1234/12345678/28575.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",The Tax Collector 2020
-http://red.ipfox.org:8080/movie/1234/12345678/28574.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",The 2nd
-http://red.ipfox.org:8080/movie/1234/12345678/28556.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",326.Welcome.to.Sudden.Death.2020
-http://red.ipfox.org:8080/movie/1234/12345678/28510.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",325.The.Silencing.2020
-http://red.ipfox.org:8080/movie/1234/12345678/28502.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",324.The.Debt.Collector.2.2020
-http://red.ipfox.org:8080/movie/1234/12345678/28501.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",Behind the Line: Escape to Dunkirk
-http://red.ipfox.org:8080/movie/1234/12345678/28444.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",323.Pistolera.2020
-http://red.ipfox.org:8080/movie/1234/12345678/28432.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",322.Beckman.2020
-http://red.ipfox.org:8080/movie/1234/12345678/28317.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",321.The.2nd.2020
-http://red.ipfox.org:8080/movie/1234/12345678/27683.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",319.English.Dogs.In.Bangkok.2020
-http://red.ipfox.org:8080/movie/1234/12345678/27676.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",318.Mortal.2020
-http://red.ipfox.org:8080/movie/1234/12345678/26062.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",317.Santana.2020
-http://red.ipfox.org:8080/movie/1234/12345678/25905.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",316.Attack.of.the.Unknown.2020
-http://red.ipfox.org:8080/movie/1234/12345678/25903.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",315.Last.Shot.2020
-http://red.ipfox.org:8080/movie/1234/12345678/25695.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",314.Mulan.Legend.2020
-http://red.ipfox.org:8080/movie/1234/12345678/25693.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",313.Hard.Kill.2020
-http://red.ipfox.org:8080/movie/1234/12345678/25692.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",312.Steel.Rain.2.2020
-http://red.ipfox.org:8080/movie/1234/12345678/25688.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",311.The.Sleepover.2020
-http://red.ipfox.org:8080/movie/1234/12345678/25620.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",310.Ava.2020
-http://red.ipfox.org:8080/movie/1234/12345678/25617.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",309.Before.The.Fire.2020
-http://red.ipfox.org:8080/movie/1234/12345678/25558.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",308.Project.Power.2020
-http://red.ipfox.org:8080/movie/1234/12345678/25554.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",307.G.Loc.2020
-http://red.ipfox.org:8080/movie/1234/12345678/25536.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",306.Robot.Riot.2020
-http://red.ipfox.org:8080/movie/1234/12345678/25535.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",305.The.Tax.Collector.2020
-http://red.ipfox.org:8080/movie/1234/12345678/25531.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",304.Mortal.2020
-http://red.ipfox.org:8080/movie/1234/12345678/25527.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",303.Legacy.Of.Lies.2020
-http://red.ipfox.org:8080/movie/1234/12345678/25227.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",302.Battle.Scars.2020
-http://red.ipfox.org:8080/movie/1234/12345678/25222.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",301.Deep.Blue.Sea.3.2020
-http://red.ipfox.org:8080/movie/1234/12345678/25221.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",300.The.Silencing.2020
-http://red.ipfox.org:8080/movie/1234/12345678/25182.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",299.Father.Soldier.Son.2020
-http://red.ipfox.org:8080/movie/1234/12345678/25130.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",298.Battlefield.2025.2020
-http://red.ipfox.org:8080/movie/1234/12345678/25116.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",297.Archive.2020
-http://red.ipfox.org:8080/movie/1234/12345678/25115.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",296.Coma.2019
-http://red.ipfox.org:8080/movie/1234/12345678/25071.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",295.Journey.to.China.The.Mystery.of.Iron.Mask.2020
-http://red.ipfox.org:8080/movie/1234/12345678/25070.mp4
-#EXTINF:0 tvg-id="avi" group-title="Action Movies",294.Wira.2019
-http://red.ipfox.org:8080/movie/1234/12345678/25069.mp4
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",###### AR - BEIN OD #######
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594506
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN OD 1 MOVIES UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594505
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN OD 2 MOVIES UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594504
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN OD 3 MOVIES UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594503
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN OD 4 MOVIES UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594502
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN OD 5 MOVIES UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594501
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN OD 6 MOVIES UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594500
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN OD 7 MOVIES UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594499
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN OD 8 MOVIES UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594498
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN OD 1 KIDS UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594497
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN OD 2 KIDS UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594496
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN OD 3 KIDS UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594495
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN BARAM UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594494
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN BARAM HEVC
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594493
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN BARAM HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594492
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN BARAM SD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594491
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN BOX OFFICE 1 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594489
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN BOX OFFICE 1 HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594488
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN BOX OFFICE 2 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594486
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN BOX OFFICE 2 HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594485
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN MOVIES 1 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594484
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN MOVIES 1 HEVC
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594483
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN MOVIES 1 HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594482
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN MOVIES 1 SD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594481
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN MOVIES 2 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594480
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN MOVIES 2 HEVC
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594479
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN MOVIES 2 HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594478
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN MOVIES 2 SD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594477
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN MOVIES 3 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594476
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN MOVIES 3 HEVC
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594475
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN MOVIES 3 HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594474
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN MOVIES 3 SD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594473
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN SERIES 1 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594472
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN SERIES 1 HEVC
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594471
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN SERIES 1 HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594470
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN SERIES 1 SD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594469
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN DRAMA 1 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594468
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN DRAMA 1 HEVC
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594467
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN DRAMA 1 HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594466
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN PREMIUM PLAY",AR - BEIN DRAMA 1 SD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/594465
+
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",###### GOBX - GOBX GROUP ######
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602746
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC 1 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602745
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC 1 HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602744
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC 2 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602743
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC 2 HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602742
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC 3 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602741
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC 3 HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602740
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC 4 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602739
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC 4 HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602738
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC 5 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602737
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC 5 HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602736
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC DRAMA UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602735
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC DRAMA HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602734
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC ACTION UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602733
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC ACTION HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602732
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC MASR 1 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602731
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC MASR 1 HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602730
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC MASR 2 UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602729
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC MASR 2 HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602728
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC IRAQ UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602727
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC IRAQ HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602726
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC DRAMA+ UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602725
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC DRAMA+ HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602724
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC VARIETY UHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602723
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC VARIETY HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602722
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MBC MAX HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602721
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - TIJI HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602720
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - PLANET EARTH HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602719
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - REEL PX ACTION HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602718
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - REEL PX CINEMA HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602717
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - REEL PX FAMILY HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602716
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - REEL PX UNLIMITED HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602715
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - REEL PX COMEDY HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602714
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - DOCUMENTARY BIL ARABIE HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602713
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - FIX FOXI HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602712
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - LAAB WA JAD HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602711
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - FILMBOX ARTHOUSE HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602710
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - FILMBOX HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602709
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - WOMAN HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602708
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - STEREO HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602707
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - STEREO 2 HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602706
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - MOTORVISION HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602705
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - DOCUBOX HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602704
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - FAST-FUN HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602703
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - AWE HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602702
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - ZOOMOO HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602701
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - FIGHT BOX HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602700
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - FIGHT NETWORK HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602699
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - HORSE HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602698
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - NAUTICAL HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602697
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - CARS HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602696
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - RECIPE HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602695
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - TRACE SPORT STARS HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602694
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - GULI BIL ARABIC HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602693
+#EXTINF:0 tvg-id="ext" group-title="|AR| GOBX GROUP",GOBX - DUCK HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/602692
+
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",### AR - BOX OFFICE ###
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458290
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 1 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458291
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 2 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458292
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 3 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458293
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 4 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458294
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 5 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458295
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 6 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458296
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 7 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458297
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 8 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458298
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 9 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458299
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 10 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458300
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 11 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458301
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 12 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458302
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 13 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458303
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 14 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458304
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 15 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458305
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 16 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458306
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 17 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458307
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 18 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458308
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 19 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458309
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 20 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458310
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 21 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458311
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 22 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458312
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 23 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458313
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 24 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458314
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 25 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458315
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 26 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458316
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 27 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458317
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 28 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458318
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 29 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458319
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 30 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458320
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 31 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458321
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 32 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458322
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 33 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458323
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 34 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458324
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 35 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458325
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 36 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458326
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 37 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458327
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 38 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458328
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 39 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458329
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 40 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458330
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 41 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458331
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 42 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458332
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 43 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458333
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 44 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458334
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 45 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458335
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 46 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458336
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 47 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458337
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 48 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458338
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 49 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458339
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 50 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458340
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 51 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458341
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 52 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458342
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 53 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458343
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 54 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458344
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 55 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458345
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 56 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458346
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 57 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458347
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 58 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458348
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 59 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458349
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 60 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458350
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 61 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458351
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 62 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458352
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 63 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458353
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 64 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458354
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 65 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458355
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 66 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458356
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 67 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458357
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 68 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458358
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 69 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458359
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 70 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458360
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 71 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458361
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 72 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458362
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 73 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458363
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 74 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458364
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 75 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458365
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 76 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458366
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 77 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458367
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 78 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458368
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 79 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458369
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 80 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458370
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 81 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458371
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 82 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458372
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 83 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458373
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 84 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458374
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 85 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458375
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 86 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458376
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 87 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458377
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 88 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458378
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 89 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458379
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 90 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458380
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 91 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458381
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 92 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458382
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 93 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458383
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 94 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458384
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 95 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458385
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 96 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458386
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 97 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458387
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 98 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458388
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 99 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458389
+#EXTINF:0 tvg-id="ext" group-title="|AR| PREMIUM PLAY",AR - BOX OFFICE 100 FHD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/458390
+
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",##### ESP DEPORTES #####
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505613
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - GOL
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505614
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - BARCA TV
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505615
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - R. MADRID TV
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505616
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. GOLF HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505617
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. LALIGA HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505618
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. LALIGA FHD (1080P)
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505620
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. LALIGA 1 FHD (1080)
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505621
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. LALIGA 2 FHD (1080P)
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505622
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. LALIGA 2 HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505623
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. LALIGA 3 HD [LIVEEVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505624
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. LA LIGA 4 HD [LIVEEVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/578232
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. LALIGA 5 [LIVEEVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505625
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. LALIGA 6 [LIVEEVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505626
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. LALIGA 7 [LIVEEVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505627
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. LALIGA 8 [LIVEEVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505628
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. LALIGA 9 [LIVEEVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505629
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. LALIGA 10 [LIVEEVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505630
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M.FORMULA1 HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505631
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - #VAMOS HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505632
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - DAZN FORMULA1
+http://line.hi-live.me/96a1df17bd/1effd0ce74/554553
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - EUROSPORT 1 HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505633
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - EUROSPORT 2
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505634
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. DEPORTES HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505635
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. DEPORTES1 HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505636
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. DEPORTES2
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505637
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. DEPORTES3 [LIVEEVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505638
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. DEPORTES4 (LIVEEVEENT)
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505639
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. DEPORTES5 (LIVEEVEENT)
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505640
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. DEPORTES6 (LIVEEVEENT)
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505641
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. DEPORTES7 (LIVEEVEENT)
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505642
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - LALIGA 123 HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505643
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - LALIGATV BAR HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505619
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - LALIGATVBAR1 [LIVEEVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505644
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - LALIGATVBAR2 [LIVEEVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505645
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - LALIGATVBAR3 [LIVEEVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505646
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - LALIGATVBAR4 [LIVEEVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505647
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - MULTIDEPORTE
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505648
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M.LCAMPEONES HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505650
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M. LCAMPEONES FHD (1080)
+http://line.hi-live.me/96a1df17bd/1effd0ce74/556935
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M.LCAMPEON2 [LIVEEVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505653
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M.LCAMPEONES 2 FHD (1080P)
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505651
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M.LCAMPEON1 [LIVEEVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505652
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M.LCAMPEON3 [LIVEEVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505654
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M.LCAMPEON 4 [LIVEEVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505655
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M.LCAMPEON 5 [LIVEEVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505656
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M.LCAMPEON 6 [LIVEEVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505657
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M.LCAMPEON 7 [LIVEEVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505658
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - M.LCAMPEON 8 [LIVEEVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505659
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - TELEDEPORTE
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505660
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - TOROS HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505661
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",##### ESP DAZN #####
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505662
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - DAZN HD
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505663
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - DAZN
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505664
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - DAZN 1
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505665
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - DAZN 2
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505666
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - DAZN 3
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505667
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - DAZN 4
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505668
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - DAZN 5
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505669
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - DAZN 6
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505670
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - DAZN 7
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505671
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - DAZN 8
+http://line.hi-live.me/96a1df17bd/1effd0ce74/505672
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - FOOTTERS 1 [LIVE-EVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/649926
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - FOOTTERS 2 [LIVE-EVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/649925
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - FOOTTERS 3 [LIVE-EVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/649924
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - FOOTTERS 4 [LIVE-EVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/649923
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - FOOTTERS 5 [LIVE-EVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/649922
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - FOOTTERS 6 [LIVE-EVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/649921
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - FOOTTERS 7 [LIVE-EVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/649920
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - FOOTTERS 8 [LIVE-EVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/649919
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - FOOTTERS 9 [LIVE-EVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/649918
+#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES - FOOTTERS 10 [LIVE-EVENT]
+http://line.hi-live.me/96a1df17bd/1effd0ce74/649917
