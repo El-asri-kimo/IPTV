@@ -1936,3 +1936,26 @@ http://red.ipfox.org:8080/movie/1234/12345678/25071.mp4
 http://red.ipfox.org:8080/movie/1234/12345678/25070.mp4
 #EXTINF:0 tvg-id="avi" group-title="Action Movies",294.Wira.2019
 http://red.ipfox.org:8080/movie/1234/12345678/25069.mp4
+
+
+##########
+##########
+
+#EXTINF:-1,Cosmote Sport 1
+http://stariptv.org:8080/wael2021/123456/81743
+#EXTINF:-1,Cosmote Sport 2 HD
+http://stariptv.org:8080/wael2021/123456/81744
+#EXTINF:-1,Cosmote Sport 3 HD
+http://stariptv.org:8080/wael2021/123456/81745
+#EXTINF:-1,Cosmote Sport 4
+http://stariptv.org:8080/wael2021/123456/81746
+#EXTINF:-1,Cosmote Sport 5
+http://stariptv.org:8080/wael2021/123456/81747
+#EXTINF:-1,Cosmote Sport 6
+http://stariptv.org:8080/wael2021/123456/81748
+#EXTINF:-1,Cosmote Sport7
+http://stariptv.org:8080/wael2021/123456/81749
+#EXTINF:-1,Cosmote Sport 8
+http://stariptv.org:8080/wael2021/123456/81750
+#EXTINF:-1,Cosmote Sport 9
+http://stariptv.org:8080/wael2021/123456/81751
