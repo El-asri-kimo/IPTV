@@ -5,6 +5,24 @@ http://red.ipfox.org:8080/1234/12345678/31493
 #EXTINF:-1,👈Groupe👉:IPTV FOR FREE..[by KIMO]
 http://red.ipfox.org:8080/1234/12345678/31498
 ########################
+#EXTINF:-1,beIN 2 PREMIUM FHD
+http://stariptv.org:8080/wael2021/123456/141564
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN 3 PREMIUM FHD
+http://stariptv.org:8080/wael2021/123456/141565
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports HD1 FHD
+http://stariptv.org:8080/wael2021/123456/141566
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports HD2 FHD
+http://stariptv.org:8080/wael2021/123456/141567
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports HD3 FHD
+http://stariptv.org:8080/wael2021/123456/141568
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports HD4 FHD
+http://stariptv.org:8080/wael2021/123456/141569
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports HD5 FHD
+http://stariptv.org:8080/wael2021/123456/141570
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports HD6 FHD
+http://stariptv.org:8080/wael2021/123456/141571
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports HD7 FHD
+http://stariptv.org:8080/wael2021/123456/141572
 
 
 ########################
