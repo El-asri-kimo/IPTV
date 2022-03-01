@@ -26,6 +26,696 @@ http://stariptv.org:8080/wael2021/123456/141572
 
 
 ########################
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TV8 5 RAW
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/113569
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | A2 RAW
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/113570
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | BEYAZ TV RAW
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/113571
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | KANAL 7 RAW
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/113572
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | teve2 RAW
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/113573
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | NTV RAW
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/113574
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | HABERTURK RAW
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/113575
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | CNN TÜRK RAW
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/113576
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | A HABER RAW
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/113577
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | BLOOMBERGHT RAW
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/113582
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TRT HABER RAW
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/113583
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TRT SPOR RAW
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/113584
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | A SPOR RAW
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/113589
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | BEIN SPORTS 1 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/78345
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | BEIN SPORT 1 FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76289
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | BEIN SPORTS 1 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76291
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR |  Bein SPORTS 1 Feed 4K 10Mbit
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/116592
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | BEIN SPORTS 1 PLATINUM X SPORTS ULTIMATE (MAC SAATİ ACIK)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/121353
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | BEIN SPORTS 1 PLATINUM X SPORTS HD+ (MAC SAATİ ACIK)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/121354
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | BEIN SPORTS 1 PLATINUM X SPORTS SD (MAC SAATİ ACIK)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/121356
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | BEINSPORT 2  PREMİUM
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/78349
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | BEIN SPORTS 2 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76295
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | BEIN SPORTS 3 FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76296
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | BEIN SPORTS 3 (SD/HD)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/78351
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | BEIN SPORTS 3 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76297
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | BEIN SPORTS 4 FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76298
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | BEIN SPORTS 4 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76299
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | BEIN SPORTS 4 (SD/HD)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/78352
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | BEIN SPORTS MAX 1 FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76300
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | BEIN SPORTS MAX 1 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76301
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | BEIN SPORTS MAX 2 FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76302
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | BEIN SPORTS MAX 2 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76303
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | BEIN SPORTS MAX 1 (SD/HD)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/78353
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | BEIN SPORTS HABER FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76304
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | BEIN SPORTS HABER HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76305
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: EXXEN SPORT 1 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/133594
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: EXXEN SPORT 2 HD+
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/133595
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: EXXEN SPORT 1  HD FENERBAHCE
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/133596
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: EXXEN SPORT 3 HD+
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/133597
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: EXXEN SPORT 3 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/133598
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: EXXEN SPORT 4 HD+
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/133599
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: EXXEN SPORT 5 HD+
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/133600
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: EXXEN SPORT 6 HD+
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/133601
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: EXXEN SPORT 7 HD+
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/133602
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: EXXEN SPORT 8 HD+
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/133603
+#EXTINF:0 tvg-id="ext" group-title="Channels",✪✪✪✪✪ TURK EXXEN SPORTS ✪✪✪✪✪
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118303
+#EXTINF:0 tvg-id="ext" group-title="Channels",EXXEN SPORT 1 HD (MAC SAATİ ACIK)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/116206
+#EXTINF:0 tvg-id="ext" group-title="Channels",EXXEN SPORT 2 HD (MAC SAATİ ACIK)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/116207
+#EXTINF:0 tvg-id="ext" group-title="Channels",EXXEN SPORT 3 HD (MAC SAATİ ACIK)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/116208
+#EXTINF:0 tvg-id="ext" group-title="Channels",EXXEN SPORT 4 HD (MAC SAATİ ACIK)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118300
+#EXTINF:0 tvg-id="ext" group-title="Channels",EXXEN SPORT 5 HD (MAC SAATİ ACIK)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118301
+#EXTINF:0 tvg-id="ext" group-title="Channels",EXXEN SPORT 6 HD (MAC SAATİ ACIK)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118302
+#EXTINF:0 tvg-id="ext" group-title="Channels",EXXEN SPORT 7 HD (MAC SAATİ ACIK)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118291
+#EXTINF:0 tvg-id="ext" group-title="Channels",EXXEN SPORT 8 HD (MAC SAATİ ACIK)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118292
+#EXTINF:0 tvg-id="ext" group-title="Channels",EXXEN SPORT 9 HD (MAC SAATİ ACIK)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118293
+#EXTINF:0 tvg-id="ext" group-title="Channels",EXXEN SPORT 10 HD (MAC SAATİ ACIK)
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118294
+#EXTINF:0 tvg-id="ext" group-title="Channels",✪✪✪✪✪ TURK SARAN S SPORTS ✪✪✪✪✪
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/118667
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | S-SPORT
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76313
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | S SPORT 1 FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76314
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | S-SPORT 1 FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76315
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | S-SPORT 1 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76316
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | S-SPORT 2 FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76317
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | S SPORT 2 FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76318
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | S-SPORT 2 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76319
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: S Sport+1 Mac Saati
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/116517
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: S Sport+2 Mac Saati
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/116518
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: S Sport+3 Mac Saati
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/116519
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: S Sport+4 Mac Saati
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/116520
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: S Sport+5 Mac Saati
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/116521
+#EXTINF:0 tvg-id="SSport.tr" group-title="Channels",|TR| S SPORT HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/160586
+#EXTINF:0 tvg-id="ext" group-title="Channels",|TR| S SPORTS TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/160587
+#EXTINF:0 tvg-id="ext" group-title="Channels",|TR| SARAN SPORT FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/160588
+#EXTINF:0 tvg-id="ext" group-title="Channels",|TR| SMART SPOR 1 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/160589
+#EXTINF:0 tvg-id="ext" group-title="Channels",|TR| SPORT SMART 1 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/160590
+#EXTINF:0 tvg-id="ext" group-title="Channels",|TR| TIVIBUSPOR 4 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/160591
+#EXTINF:0 tvg-id="ext" group-title="Channels",|TR| TiViBUSPOR 1 FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/160592
+#EXTINF:0 tvg-id="ext" group-title="Channels",|TR| TIVIBUSPOR 1 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/160593
+#EXTINF:0 tvg-id="ext" group-title="Channels",|TR| TiViBUSPOR 2 FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/160594
+#EXTINF:0 tvg-id="ext" group-title="Channels",|TR| TIVIBUSPOR 2 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/160595
+#EXTINF:0 tvg-id="ext" group-title="Channels",|TR| TiViBUSPOR 3 FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/160596
+#EXTINF:0 tvg-id="ext" group-title="Channels",|TR| TIVIBUSPOR 3 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/160597
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | SPOR SMART FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76320
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | SPOR SMART HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76321
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | SPOR SMART 2 HD+
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/95150
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | SPOR SMART 2 HD+
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76312
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TIVIBUSPOR 1 FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76306
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TIVIBUSPOR 1 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76307
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TIVIBUSPOR 2 FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76308
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TIVIBUSPOR 2 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76309
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TIVIBUSPOR 3 FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76310
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TIVIBUSPOR 3 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76311
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TIVIBUSPOR 4 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/95859
+#EXTINF:0 tvg-id="ext" group-title="Channels",✪✪✪✪✪ TURK SPOR ✪✪✪✪✪
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/97388
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | A SPOR FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76344
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | A SPOR HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76345
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TRT SPOR FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76323
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TRT SPOR HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76324
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TRT SPOR 3
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76339
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TRT SPOR YILDIZ HD+
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76325
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TRT SPOR YILDIZ HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76326
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | FB TV HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76331
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | GS TV HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76332
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | NBA TV FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76336
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | SPORTSTV HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76322
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | SPORTS TV HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76343
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | FIGHTBOX HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/105863
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | EUROSPORT 1 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76328
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | EUROSPORT2 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76329
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TAY TV FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76333
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TJK TV HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76334
+#EXTINF:0 tvg-id="ext" group-title="Channels",✪✪✪✪✪ TURK HABER ✪✪✪✪✪
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/97389
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | A HABER FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/75988
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | A HABER HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/75989
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | A PARA HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/75993
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | CNN TURK FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/75994
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | CNN TURK HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/75995
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | GLOBAL HABER FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/75996
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | GLOBAL HABER HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/75997
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | HABER TURK FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/75998
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | HABER TURK HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/75999
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | NTV FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76000
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | NTV HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76001
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TRT HABER FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76002
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TRT HABER HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76003
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TELE 1 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/106783
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TELE 1 SD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76004
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TV100 FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76005
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | HALK TV FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76006
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | HALK TV HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/106784
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | Bloomberg HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76007
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | KANAL 24 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76008
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | KRT TV FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76009
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TGRT HABER HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76010
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | ULKETV HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76011
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | UZAY HABER HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76012
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | A NEWS FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/75990
+#EXTINF:0 tvg-id="ext" group-title="Channels",✪✪✪✪✪ TURK YEREL ✪✪✪✪✪
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/97768
+#EXTINF:0 tvg-id="ext" group-title="Channels",Duzgun tv +
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/193484
+#EXTINF:0 tvg-id="ext" group-title="Channels",DuzgunTV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/184104
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TV5 TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76382
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | REHBER TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76388
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | DIYANET TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76389
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | DOST TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76391
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | LALEGUL TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76393
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | SEMERKAND TV HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76394
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: GAZIANTEP OLAY TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167134
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: GRT TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167135
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Sivas VIZYON 58 TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167137
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: ADIYAMAN MERCAN TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167139
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Malatya ERTV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167140
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Mavi Karadeniz
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167141
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Yeni Kocaeli TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167142
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: ELAZIG KANAL FIRAT
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167143
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: ANKARA Türkiyem TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167144
+#EXTINF:0 tvg-id="KanalT.tr" group-title="Channels",TR: KANAL T
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167145
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Ada TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167146
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: ANTALYA Kanal V
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167147
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: LINE TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167148
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Karadeniz BRTV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167149
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: KOZA TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167150
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: WM TV WOMAN KADIN
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167151
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Aksaray Kanal 68
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167152
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: EDESSA TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167153
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Tvo TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167155
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: ELAZIG Kanal 23
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167156
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: DOST TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167157
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: A VUSLAT TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167158
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: 363 TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167159
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: ER TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167161
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: ASTV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167162
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: VIZYON 58
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167163
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Afyon Türk TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167164
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: TV 35
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167165
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: AV TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167166
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: DORUK TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167167
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: KANAL 15
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167169
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: ON 4
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167170
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: TVDEN TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167171
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: TON TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167172
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: TV 41
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167173
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: TV 52
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167176
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: GUNES TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167177
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: ANADOLU DERNEK TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167178
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Kahramanmaraş AKSU TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167179
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: KONYA KON TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167181
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: ES TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167182
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Can TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167184
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: YASIN TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167185
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: HRT
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167186
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Yildiz EN TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167187
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: CEM TV HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167188
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Manisa TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167190
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: YOL TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167192
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: BENGUTURK HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167193
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Altaş TV ORDU
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167197
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: AVRUPA TURK TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/167198
+#EXTINF:0 tvg-id="ext" group-title="Channels",[TR] AKIT TV HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/169176
+#EXTINF:0 tvg-id="ext" group-title="Channels",Adana TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/224920
+#EXTINF:0 tvg-id="ext" group-title="Channels",Otağ TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/224921
+#EXTINF:0 tvg-id="ext" group-title="Channels",✪✪✪✪✪ TURK BELGESEL ✪✪✪✪✪
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/97390
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | 24 KITCHEN FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76050
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | 24 KITCHEN HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76027
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | Animal Planet HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76053
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | BBC Earth FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76051
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | BBC Earth HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76028
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | BEIN GURME HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76029
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | BEIN IZ
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76030
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | DISCOVERY CHANNEL FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76031
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | DISCOVERY CHANNEL HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76035
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | DISCOVERY IDX FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76032
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | DISCOVERY IDX HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76034
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | DISCOVERY SCIENCE HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76033
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | DMAX HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76044
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | DOCUBOX FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76055
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | HISTORY FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76048
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | LOVE NATURE FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76052
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | NAT GEO WILD HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76042
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | NAT GEO WILD FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76040
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | NATIONAL GEOGRAPHIC FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76037
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | NATIONAL GEOGRAPHIC HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76038
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | Outdoor Channel FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76025
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | DISCOVERY SCIENCE HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76022
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TGRT BELGESEL HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76045
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TRT BELGESEL FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76046
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TRT BELGESEL HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76054
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | ViASAT HiSTORY FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76023
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | VIASAT HISTORY HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76024
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | YABAN TV FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76047
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | VIASAT EXPLORE HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/95151
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TLC TV HD+
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/96827
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | DMAX FHD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/76043
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | VİASAT NATURE
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100770
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | BBC FIRST
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/100771
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | Chasse et Peche
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/105864
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | FIGHT NETWORK HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/105865
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | FAST AND FUN HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/105866
+#EXTINF:0 tvg-id="ext" group-title="Channels",✪✪✪✪✪ TURK BeIN & DSMART ✪✪✪✪✪
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/97391
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | beIN SERIES VICE HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/92373
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | beIN SERIES COMEDY HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/92374
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | beIN SERIES SCI-FI HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/92375
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | beIN MOVIES TURK HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/92376
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | beIN MOVIES STARS HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/92377
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | beIN MOVIES PREMIER HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/92378
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | beIN MOVIES PREMIER 2 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/92379
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | beIN MOVIES FAMILY HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/92380
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | beIN MOVIES ACTION HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/92381
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | beIN MOVIES ACTION 2 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/92382
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | beINBOX OFFICE 1 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/92383
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | beINBOX OFFICE 2 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/92384
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | MOVIESMART TURK HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/92385
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | MOVIESMART PREMIUM HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/92386
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | MOVIESMART PREMIUM 2 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/92387
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | MOVIESMART CLASSIC HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/92388
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | DIZISMART PREMIUM HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/92389
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | DIZI SMART MAX HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/92390
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | FOX CRIME HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/92391
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | FX HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/92392
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | SiNEMA TV YERLi HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/92393
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | SiNEMA TV 1001 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/92394
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | SiNEMA TV AiLE HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/92395
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | SiNEMA TV AKSiYON HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/92396
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | SiNEMA TV HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/92397
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | SINEMA TV AKSIYON 2 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/92398
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | SINEMA TV 2 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/92399
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | SINEMA TV KOMEDI HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/92400
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | SINEMA TV AILE 2 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/92401
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | SINEMA TV 1002 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/92402
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:  MAX Aksiyon HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/170918
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: MAX Aksiyon 2 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/170919
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: MAX Premier HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/170920
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: MAX Orjinal HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/170921
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: MAX Western HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/170922
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: MAX Hint Filimleri
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/170923
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: MAX Vizyon HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/170924
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: MAX Vizyon 2 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/170925
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: MAX Vizyon 3 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/170926
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: MAX Vizyon 4 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/170927
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: MAX 007 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/170928
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: MAX STAR WARS HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/170929
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: MAX TURK HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/170930
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: MAX PLUS HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/170931
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: MAX GOLD HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/170932
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: REDBOX PREMIERE
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/171036
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: REDBOX VIZYON 1 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/171037
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: REDBOX VIZYON 2  HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/171038
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: REDBOX SINEMA TURK 1 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/171039
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: REDBOX SINEMA TURK  2 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/171040
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: REDBOX ACTIE 1 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/171041
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: REDBOX BILIMKURGU 1 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/171042
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: REDBOX HORROR 1 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/171043
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: REDBOX MIX 1 HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/171044
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: REDBOX DRAMA HD
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/171045
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: BEST HABABAM SINIFI
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/171046
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: YESILCAM MUN OZKUL
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/171047
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: YESILCAM ZEKMET TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/171048
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: YESILCAM CUNEYT ARKIN TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/171049
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: YESILCAM TARIK AKAN
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/171051
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: YESILCAM MUN OZKUL2
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/171052
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: ZEKI BABA
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/171056
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: HAK-TAN TV
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/171057
+
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",### TURK DINI ####
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/171060
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",TR: HZ YUSUF
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/171061
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",TR: ASHABI KEHF
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/171062
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",TR: HZ MERYEM
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/171063
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",TR: HASAN VE HUSEYIN
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/171064
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",TR: HZ OMER
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/171065
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",TR: IMAM AHMED
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/171066
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",TR: YUNUS EMRE
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/171067
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",[TR] SINEVIZYON 1
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/190631
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",[TR] SINEVIZYON 2
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/190632
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",[TR] SINEVIZYON 3
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/190633
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",[TR] SINEVIZYON 4
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/190634
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",[TR] SINEVIZYON 5
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/190635
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",[TR]SINEVIZYON 6
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/190636
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",[TR] SINEVIZYON 9
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/190637
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",[TR] SINEVIZYON 12
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/190638
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",[TR] SINEVIZYON 13
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/190639
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",[TR] SINEVIZYON 14
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/190640
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",[TR] SINEVIZYON 15
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/190641
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",[TR] SINEVIZYON 16
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/190642
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",[TR] SINEVIZYON 18
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/190643
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",[TR] SINEVIZYON 19
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/190644
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",[TR] SINEVIZYON 20
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/190645
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",[TR] SINEVIZYON 24
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/190646
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",[TR]SINEVIZYON CEM YILMAZ
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/190647
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",[TR] SINEVIZYON TURK 1
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/190648
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",[TR] SINEVIZYON TURK 2
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/190649
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",[TR] SINEVIZYON TURK 3
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/190650
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",[TR]SINEVIZYON NOSTALJI 1
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/190651
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",[TR]SINEVIZYON NOSTALJI 2
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/190652
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",[TR] SINEVIZYON NOSTALJI 3
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/190653
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",[TR] SINEVIZYON NOSTALJI 4
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/190654
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",[TR] SINEVIZYON NOSTALJI 5
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/190655
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",[TR] SALON 1 SINEMAX
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/190656
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",[TR] SALON 2 SINEMAX
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/190657
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",[TR] SINEMAX KOMEDI
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/190658
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",[TR]GLADIO TV NILOYA
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/190659
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",[TR] ENO TURK 1
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/190660
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",[TR] ENO VIZYON 1
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/190661
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",[TR] ENO VIZYON 2
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/190662
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",[TR] ENO VIZYON 3
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/190663
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",[TR] ENO VIZYON 4
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/190664
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",[TR] ENO VIZYON 5
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/190665
+#EXTINF:0 tvg-id="ext" group-title="TURK DINI",[TR] ENO VIZYON 6
+http://trabzontv.xyz:8080/CIFTCI/CIFTCI/190666
 ########################
 
 #EXTINF:0 tvg-id="ext" group-title="beIN Sport -1080P-",beIN Sport Premium 01 (1080P)
