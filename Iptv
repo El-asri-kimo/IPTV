@@ -238,3 +238,393 @@ http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52140
 #EXTINF:0 tvg-id="ext" group-title="AD SPORTS", AD SPORTS 4 Hevc
 http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52141
 
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN*SPORTS*HD1*720
+http://stream.shabakaty.com:6001/sport/ch1/ch1_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN*SPORTS*HD2*720
+http://stream.shabakaty.com:6001/sport/ch2/ch2_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN*SPORTS*HD3*720
+http://stream.shabakaty.com:6001/sport/ch3/ch3_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN*SPORTS*HD4*720
+http://stream.shabakaty.com:6001/sport/ch4/ch4_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN*SPORTS*HD5*720
+http://stream.shabakaty.com:6001/sport/ch5/ch5_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN*SPORTS*HD6*720
+http://stream.shabakaty.com:6001/sport/ch6/ch6_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN*SPORTS*HD7*720
+http://stream.shabakaty.com:6001/sport/ch7/ch7_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN*SPORTS*HD8*720
+http://stream.shabakaty.com:6001/sport/ch8/ch8_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN*SPORTS*HD9*720
+http://stream.shabakaty.com:6001/sport/ch9/ch9_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN*SPORTS*HD10*720
+http://stream.shabakaty.com:6001/sport/ch10/ch10_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN*SPORTS*NBA*720
+http://stream.shabakaty.com:6001/sport/ch11/ch11_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",IRAQIA*SPORT*720
+http://stream.shabakaty.com:6001/sport/ch12/ch12_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN*SPORTS*HD1*1080
+http://stream.shabakaty.com:6001/sport/ch1/ch1_1080.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN*SPORTS*HD2*1080
+http://stream.shabakaty.com:6001/sport/ch2/ch2_1080.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN*SPORTS*HD3*1080
+http://stream.shabakaty.com:6001/sport/ch3/ch3_1080.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN*SPORTS*HD4*1080
+http://stream.shabakaty.com:6001/sport/ch4/ch4_1080.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALKAAS1*720
+http://stream.shabakaty.com:6001/sport/ch13/ch13_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALKAAS2*720
+http://stream.shabakaty.com:6001/sport/ch14/ch14_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALKAAS*3*720
+http://stream.shabakaty.com:6001/sport/ch15/ch15_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALKAAS*4*720
+http://stream.shabakaty.com:6001/sport/ch16/ch16_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALKAAS*5*720
+http://stream.shabakaty.com:6001/sport/ch17/ch17_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ABU*DHABISPORT*1*720
+http://stream.shabakaty.com:6001/sport/ch20/ch20_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ABU*DHABSP0RT*2*720
+http://stream.shabakaty.com:6001/sport/ch21/ch21_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN*SERIES*1*720
+http://stream.shabakaty.com:6001/series/ch1/ch1_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN*SERIES*2*720
+http://stream.shabakaty.com:6001/series/ch2/ch2_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN*DRAMA1*720
+http://stream.shabakaty.com:6001/series/ch3/ch3_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",FX*HD*720
+http://stream.shabakaty.com:6001/series/ch4/ch4_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX*RIWAYAT720
+http://stream.shabakaty.com:6001/series/ch5/ch5_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",OSN*YAHLA*720
+http://stream.shabakaty.com:6001/series/ch6/ch6_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CTF BOX 1*720
+http://stream.shabakaty.com:6001/series/ch7/ch7_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MBC+DRAMA*720
+http://stream.shabakaty.com:6001/series/ch8/ch8_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",OSN*SERIES*FIRST*720
+http://stream.shabakaty.com:6001/series/ch9/ch9_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",OSN*YAHLA*ALOOLA*720
+http://stream.shabakaty.com:6001/series/ch10/ch10_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ON*TURKEY*720
+http://stream.shabakaty.com:6001/series/ch11/ch11_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CBS*REALITY* 720
+http://stream.shabakaty.com:6001/enter/ch1/ch1_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",D*LIFE*720
+http://stream.shabakaty.com:6001/enter/ch2/ch2_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DTX*720
+http://stream.shabakaty.com:6001/enter/ch3/ch3_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NATIONAL*GEOGRAPHIC*720
+http://stream.shabakaty.com:6001/enter/ch4/ch4_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NAT*GEO*WILD*720
+http://stream.shabakaty.com:6001/enter/ch5/ch5_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ANIMAL*PLANET*720
+http://stream.shabakaty.com:6001/enter/ch6/ch6_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN*GOURMET*720
+http://stream.shabakaty.com:6001/enter/ch7/ch7_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",FATAFET*720
+http://stream.shabakaty.com:6001/enter/ch8/ch8_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DMAX*720
+http://stream.shabakaty.com:6001/enter/ch9/ch9_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",OUTDOOR*720
+http://stream.shabakaty.com:6001/enter/ch10/ch10_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRAVEL*CHANEL*720
+http://stream.shabakaty.com:6001/enter/ch11/ch11_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",HGTV*720
+http://stream.shabakaty.com:6001/enter/ch12/ch12_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOOD*NETWORK*720
+http://stream.shabakaty.com:6001/enter/ch13/ch13_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",FINE*LIVING*720
+http://stream.shabakaty.com:6001/enter/ch14/ch14_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NAT*GIO*PEOPLE*720
+http://stream.shabakaty.com:6001/enter/ch16/ch16_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MBC*IRAQ*720
+http://stream.shabakaty.com:6001/enter/ch18/ch18_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY*720
+http://stream.shabakaty.com:6001/enter/ch19/ch19_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",HISTORY*720
+http://stream.shabakaty.com:6001/enter/ch20/ch20_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TLC*720
+http://stream.shabakaty.com:6001/enter/ch21/ch21_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",E*720
+http://stream.shabakaty.com:6001/enter/ch22/ch22_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",OSN ENIGMA*720
+http://stream.shabakaty.com:6001/enter/ch24/ch24_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ComadyCentral*720
+http://stream.shabakaty.com:6001/enter/ch26/ch26_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ON DOCUMENTARY*720
+http://stream.shabakaty.com:6001/enter/ch27/ch27_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",HISTORY2*720
+http://stream.shabakaty.com:6001/enter/ch29/ch29_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBC EARTH*720
+http://stream.shabakaty.com:6001/enter/ch30/ch30_720.m3u8
+#EXTINF:0 tvg-id="Baraem.net" group-title="Channels",BARAEM 720
+http://stream.shabakaty.com:6001/kids/ch1/ch1_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",BABY*TV*720
+http://stream.shabakaty.com:6001/kids/ch2/ch2_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",BOOM*ERANG720
+http://stream.shabakaty.com:6001/kids/ch3/ch3_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",JIM*JAM720
+http://stream.shabakaty.com:6001/kids/ch6/ch6_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN*SPORTS*HD1*360
+http://stream.shabakaty.com:6001/sport/ch1/ch1_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN*SPORTS*HD2*360
+http://stream.shabakaty.com:6001/sport/ch2/ch2_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN*SPORTS*HD3*360
+http://stream.shabakaty.com:6001/sport/ch3/ch3_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN*SPORTS*HD4*360
+http://stream.shabakaty.com:6001/sport/ch4/ch4_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN*SPORTS*HD5*360
+http://stream.shabakaty.com:6001/sport/ch5/ch5_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN*SPORTS*HD6*360
+http://stream.shabakaty.com:6001/sport/ch6/ch6_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN*SPORTS*HD7*360
+http://stream.shabakaty.com:6001/sport/ch7/ch7_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN*SPORTS*HD8*360
+http://stream.shabakaty.com:6001/sport/ch8/ch8_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN*SPORTS*HD9*360
+http://stream.shabakaty.com:6001/sport/ch9/ch9_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN*SPORTS*HD10*360
+http://stream.shabakaty.com:6001/sport/ch10/ch10_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN*SPORTS*NBA*360
+http://stream.shabakaty.com:6001/sport/ch11/ch11_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",IRAQIA*SPORT*360
+http://stream.shabakaty.com:6001/sport/ch12/ch12_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALKAAS1*360
+http://stream.shabakaty.com:6001/sport/ch13/ch13_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALKAAS2*360
+http://stream.shabakaty.com:6001/sport/ch14/ch14_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALKAAS*3*360
+http://stream.shabakaty.com:6001/sport/ch15/ch15_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALKAAS*4*360
+http://stream.shabakaty.com:6001/sport/ch16/ch16_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALKAAS*5*360
+http://stream.shabakaty.com:6001/sport/ch17/ch17_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ABU*DHABISPORT*1*360
+http://stream.shabakaty.com:6001/sport/ch20/ch20_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ABU*DHABSP0RT*2*360
+http://stream.shabakaty.com:6001/sport/ch21/ch21_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN*SERIES*1*360
+http://stream.shabakaty.com:6001/series/ch1/ch1_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN*SERIES*2*360
+http://stream.shabakaty.com:6001/series/ch2/ch2_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN*DRAMA1*360
+http://stream.shabakaty.com:6001/series/ch3/ch3_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",FX*HD*360
+http://stream.shabakaty.com:6001/series/ch4/ch4_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX*RIWAYAT*360
+http://stream.shabakaty.com:6001/series/ch5/ch5_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",OSN*YAHLA*360
+http://stream.shabakaty.com:6001/series/ch6/ch6_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CTF BOX 1*360
+http://stream.shabakaty.com:6001/series/ch7/ch7_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MBC+DRAMA*360
+http://stream.shabakaty.com:6001/series/ch8/ch8_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",OSN*SERIES*FIRST*360
+http://stream.shabakaty.com:6001/series/ch9/ch9_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",OSN*YAHLA*ALOOLA*360
+http://stream.shabakaty.com:6001/series/ch10/ch10_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ON*TURKEY*360
+http://stream.shabakaty.com:6001/series/ch11/ch11_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CBS*REALITY* 360
+http://stream.shabakaty.com:6001/enter/ch1/ch1_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",D*LIFE*360
+http://stream.shabakaty.com:6001/enter/ch2/ch2_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DTX*360
+http://stream.shabakaty.com:6001/enter/ch3/ch3_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NATIONAL*GEOGRAPHIC*360
+http://stream.shabakaty.com:6001/enter/ch4/ch4_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NAT*GEO*WILD*360
+http://stream.shabakaty.com:6001/enter/ch5/ch5_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ANIMAL*PLANET*360
+http://stream.shabakaty.com:6001/enter/ch6/ch6_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN*GOURMET*360
+http://stream.shabakaty.com:6001/enter/ch7/ch7_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",FATAFET*360
+http://stream.shabakaty.com:6001/enter/ch8/ch8_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DMAX*360
+http://stream.shabakaty.com:6001/enter/ch9/ch9_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",OUTDOOR*360
+http://stream.shabakaty.com:6001/enter/ch10/ch10_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRAVEL*CHANEL*360
+http://stream.shabakaty.com:6001/enter/ch11/ch11_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",HGTV*360
+http://stream.shabakaty.com:6001/enter/ch12/ch12_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOODNETWORK*360
+http://stream.shabakaty.com:6001/enter/ch13/ch13_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",FINE*LIVING*360
+http://stream.shabakaty.com:6001/enter/ch14/ch14_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX*LIFE*360
+http://stream.shabakaty.com:6001/enter/ch15/ch15_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NAT*GIO*PEOPLE*360
+http://stream.shabakaty.com:6001/enter/ch16/ch16_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MBC*IRAQ*360
+http://stream.shabakaty.com:6001/enter/ch18/ch18_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY*360
+http://stream.shabakaty.com:6001/enter/ch19/ch19_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",HISTORY*360
+http://stream.shabakaty.com:6001/enter/ch20/ch20_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TLC*360
+http://stream.shabakaty.com:6001/enter/ch21/ch21_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",E*360
+http://stream.shabakaty.com:6001/enter/ch22/ch22_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",OSN ENIGMA*360
+http://stream.shabakaty.com:6001/enter/ch24/ch24_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ComadyCentral*360
+http://stream.shabakaty.com:6001/enter/ch26/ch26_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY*FAMILY*360
+http://stream.shabakaty.com:6001/enter/ch27/ch27_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",HISTORY2*360
+http://stream.shabakaty.com:6001/enter/ch29/ch29_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBC EARTH*360
+http://stream.shabakaty.com:6001/enter/ch30/ch30_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOXLIVE*360
+http://stream.shabakaty.com:6001/enter/ch31/ch31_360.m3u
+#EXTINF:0 tvg-id="ext" group-title="Channels",BARAEM*360
+http://stream.shabakaty.com:6001/kids/ch1/ch1_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",BABY*TV*360
+http://stream.shabakaty.com:6001/kids/ch2/ch2_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",BOOM*ERANG*360
+http://stream.shabakaty.com:6001/kids/ch3/ch3_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",JIM*JAM*360
+http://stream.shabakaty.com:6001/kids/ch6/ch6_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NEKLODEN.360
+http://stream.shabakaty.com:6001/kids/ch5/ch5_360.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN*SPORTS*HD1*240
+http://stream.shabakaty.com:6001/sport/ch1/ch1_240.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN*SPORTS*HD2*240
+http://stream.shabakaty.com:6001/sport/ch2/ch2_240.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN*SPORTS*HD3*240
+http://stream.shabakaty.com:6001/sport/ch3/ch3_240.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN*SPORTS*HD4*240
+http://stream.shabakaty.com:6001/sport/ch4/ch4_240.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN*SPORTS*HD5*240
+http://stream.shabakaty.com:6001/sport/ch5/ch5_240.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN*SPORTS*HD6*240
+http://stream.shabakaty.com:6001/sport/ch6/ch6_240.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN*SPORTS*HD7*240
+http://stream.shabakaty.com:6001/sport/ch7/ch7_240.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN*SPORTS*HD8*240
+http://stream.shabakaty.com:6001/sport/ch8/ch8_240.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN*SPORTS*HD9*240
+http://stream.shabakaty.com:6001/sport/ch9/ch9_240.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN*SPORTS*HD10*240
+http://stream.shabakaty.com:6001/sport/ch10/ch10_240.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN*SPORTS*NBA*240
+http://stream.shabakaty.com:6001/sport/ch11/ch11_240.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALKAAS1*240
+http://stream.shabakaty.com:6001/sport/ch13/ch13_240.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALKAAS2*240
+http://stream.shabakaty.com:6001/sport/ch14/ch14_240.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALKAAS*3*240
+http://stream.shabakaty.com:6001/sport/ch15/ch15_240.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALKAAS*4*240
+http://stream.shabakaty.com:6001/sport/ch16/ch16_240.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALKAAS*5*240
+http://stream.shabakaty.com:6001/sport/ch17/ch17_240.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ABU*DHABISPORT*1*240
+http://stream.shabakaty.com:6001/sport/ch20/ch20_240.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ABU*DHABSP0RT*2*240
+http://stream.shabakaty.com:6001/sport/ch21/ch21_240.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",REAL*MADRID*CHANAL
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="Videos",BEIN*MOVIES1*720
+http://stream.shabakaty.com:6001/movies/ch1/ch1_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",BEIN*MOVIES2*720
+http://stream.shabakaty.com:6001/movies/ch2/ch2_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",BEIN*MOVIES3*720
+http://stream.shabakaty.com:6001/movies/ch3/ch3_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",BEIN*MOVIES4*720
+http://stream.shabakaty.com:6001/movies/ch4/ch4_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",FOX*MOVIES*720
+http://stream.shabakaty.com:6001/movies/ch5/ch5_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",FOXACTION*MOVIES1*720
+http://stream.shabakaty.com:6001/movies/ch6/ch6_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",FOXFAMILY*MOVIES1*720
+http://stream.shabakaty.com:6001/movies/ch7/ch7_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",TCM*HD*720
+http://stream.shabakaty.com:6001/movies/ch8/ch8_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",FOX*HD*720
+http://stream.shabakaty.com:6001/movies/ch9/ch9_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",STAR*WORLD*720
+http://stream.shabakaty.com:6001/movies/ch10/ch10_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",STAR*MOVIES*720
+http://stream.shabakaty.com:6001/movies/ch11/ch11_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",FOX*CRIME*720
+http://stream.shabakaty.com:6001/movies/ch12/ch12_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",OSN*MOVIES*720
+http://stream.shabakaty.com:6001/movies/ch13/ch13_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",OSN*ACTION*720
+http://stream.shabakaty.com:6001/movies/ch14/ch14_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",OSN*MOVIES*FIRST*720
+http://stream.shabakaty.com:6001/movies/ch15/ch15_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",CINEMA1*720
+http://stream.shabakaty.com:6001/movies/ch16/ch16_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",CINEMA2*720
+http://stream.shabakaty.com:6001/movies/ch17/ch17_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",OSNYAHLA*CINEMA*720
+http://stream.shabakaty.com:6001/movies/ch18/ch18_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",OSN*COMEDY*720
+http://stream.shabakaty.com:6001/movies/ch19/ch19_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",2CINEMA*720
+http://stream.shabakaty.com:6001/movies/ch20/ch20_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",ART*CINEMA*720
+http://stream.shabakaty.com:6001/movies/ch21/ch21_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",ART*AFLAM1*720
+http://stream.shabakaty.com:6001/movies/ch22/ch22_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",ART*AFLAM2*720
+http://stream.shabakaty.com:6001/movies/ch23/ch23_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",OSN*ENIGMA*720
+http://stream.shabakaty.com:6001/movies/ch24/ch24_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",ON*ARABIC*720
+http://stream.shabakaty.com:6001/movies/ch25/ch25_720.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",BEIN*MOVIES1*360
+http://stream.shabakaty.com:6001/movies/ch1/ch1_360.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",BEIN*MOVIES2*360
+http://stream.shabakaty.com:6001/movies/ch2/ch2_360.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",BEIN*MOVIES3*360
+http://stream.shabakaty.com:6001/movies/ch3/ch3_360.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",BEIN*MOVIES4*360
+http://stream.shabakaty.com:6001/movies/ch4/ch4_360.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",FOX*MOVIES*360
+http://stream.shabakaty.com:6001/movies/ch5/ch5_360.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",FOXACTION*MOVIES1*360
+http://stream.shabakaty.com:6001/movies/ch6/ch6_360.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",FOXFAMILY*MOVIES1*360
+http://stream.shabakaty.com:6001/movies/ch7/ch7_360.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",TCM*HD*360
+http://stream.shabakaty.com:6001/movies/ch8/ch8_360.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",FOX*HD*360
+http://stream.shabakaty.com:6001/movies/ch9/ch9_360.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",STAR*WORLD*360
+http://stream.shabakaty.com:6001/movies/ch10/ch10_360.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",STAR*MOVIES*360
+http://stream.shabakaty.com:6001/movies/ch11/ch11_360.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",FOX*CRIME*360
+http://stream.shabakaty.com:6001/movies/ch12/ch12_360.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",OSN*MOVIES*360
+http://stream.shabakaty.com:6001/movies/ch13/ch13_360.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",OSN*ACTION*360
+http://stream.shabakaty.com:6001/movies/ch14/ch14_360.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",OSN*MOVIES*FIRST*360
+http://stream.shabakaty.com:6001/movies/ch15/ch15_360.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",CINEMA1*360
+http://stream.shabakaty.com:6001/movies/ch16/ch16_360.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",CINEMA2*360
+http://stream.shabakaty.com:6001/movies/ch17/ch17_360.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",OSNYAHLA*CINEMA*360
+http://stream.shabakaty.com:6001/movies/ch18/ch18_360.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",OSN*COMEDY*360
+http://stream.shabakaty.com:6001/movies/ch19/ch19_360.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",2CINEMA*360
+http://stream.shabakaty.com:6001/movies/ch20/ch20_360.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",ART*CINEMA*360
+http://stream.shabakaty.com:6001/movies/ch21/ch21_360.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",ART*AFLAM1*360
+http://stream.shabakaty.com:6001/movies/ch22/ch22_360.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",ART*AFLAM2*360
+http://stream.shabakaty.com:6001/movies/ch23/ch23_360.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",OSN*ENIGMA*360
+http://stream.shabakaty.com:6001/movies/ch24/ch24_360.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Videos",ON*ARABIC*360
+http://stream.shabakaty.com:6001/movies/ch25/ch25_360.m3u8
