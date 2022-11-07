@@ -714,6 +714,40 @@ http://dx.cmsdik.xyz:8080/unitetelegram/bcchff/70647
 http://dx.cmsdik.xyz:8080/unitetelegram/bcchff/70649
 
 #############
+
+#EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",TR: BEIN SPORTS 1 HD (50fps 1920x1080)
+http://gbox.goldeniptv.com:25461/live/123321/123321/134227.ts
+#EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",TR: BEIN SPORTS SD 1 (FEED)
+http://gbox.goldeniptv.com:25461/live/123321/123321/134226.ts
+#EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",TR: BEINSPORT 1 (MACTA FHD)
+http://gbox.goldeniptv.com:25461/live/123321/123321/134225.ts
+#EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",TR: BEINSPORT 1 BACKUP
+http://gbox.goldeniptv.com:25461/live/123321/123321/134224.ts
+#EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",TR: BEIN SPORTS 2 HD
+http://gbox.goldeniptv.com:25461/live/123321/123321/134223.ts
+#EXTINF:0 tvg-id="LIGTV2.tr" group-title="Z-O-M-B-I-E-S 3 (2022)",TR: BEIN SPORTS SD 2
+http://gbox.goldeniptv.com:25461/live/123321/123321/134222.ts
+#EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",TR: BEIN SPORTS 3 HD
+http://gbox.goldeniptv.com:25461/live/123321/123321/134221.ts
+#EXTINF:0 tvg-id="LIGTV3.tr" group-title="Z-O-M-B-I-E-S 3 (2022)",TR: BEIN SPORTS SD 3
+http://gbox.goldeniptv.com:25461/live/123321/123321/134220.ts
+#EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",TR: BEIN SPORTS 4 HD
+http://gbox.goldeniptv.com:25461/live/123321/123321/134219.ts
+#EXTINF:0 tvg-id="LIGTV4.tr" group-title="Z-O-M-B-I-E-S 3 (2022)",TR: BEIN SPORTS SD 4
+http://gbox.goldeniptv.com:25461/live/123321/123321/134218.ts
+#EXTINF:0 tvg-id="LIGTV.tr" group-title="Z-O-M-B-I-E-S 3 (2022)",TR: BEIN SPORT 1 (480p)
+http://gbox.goldeniptv.com:25461/live/123321/123321/134217.ts
+#EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",TR: BEIN SPORTS MAX 1 HD
+http://gbox.goldeniptv.com:25461/live/123321/123321/134216.ts
+#EXTINF:0 tvg-id="beINSPORTSMAX.tr" group-title="Z-O-M-B-I-E-S 3 (2022)",TR: BEIN SPORTS MAX 1 SD
+http://gbox.goldeniptv.com:25461/live/123321/123321/134215.ts
+#EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",TR: BEIN SPORTS MAX 2 HD
+http://gbox.goldeniptv.com:25461/live/123321/123321/134214.ts
+#EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",TR: BEIN SPORTS MAX 2 SD
+http://gbox.goldeniptv.com:25461/live/123321/123321/134213.ts
+#EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",TR: BEiN SPORT HABER HD
+http://gbox.goldeniptv.com:25461/live/123321/123321/134212.ts
+
 #############
 
 
@@ -904,3 +938,87 @@ http://xtratexxx.dimapro.xyz:8080/unitetelegram/bcchff/3215
 ###############
 ###############
 
+#EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",AR: BEIN SPORTS NEWS HEVC
+http://gbox.goldeniptv.com:25461/live/123321/123321/137728.ts
+#EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",AR: BEIN SPORTS NBA HEVC
+http://gbox.goldeniptv.com:25461/live/123321/123321/137729.ts
+#EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",AR: BEIN SPORTS PREMIUM 1 HEVC
+http://gbox.goldeniptv.com:25461/live/123321/123321/137730.ts
+#EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",AR: BEIN SPORTS PREMIUM 2 HEVC
+http://gbox.goldeniptv.com:25461/live/123321/123321/137731.ts
+#EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",AR: BEIN SPORTS PREMIUM 3 HEVC
+http://gbox.goldeniptv.com:25461/live/123321/123321/137732.ts
+#EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",AR: BEIN SPORTS 1 HEVC
+http://gbox.goldeniptv.com:25461/live/123321/123321/137733.ts
+#EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",AR: BEIN SPORTS 2 HEVC
+http://gbox.goldeniptv.com:25461/live/123321/123321/137734.ts
+#EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",AR: BEIN SPORTS 3 HEVC
+http://gbox.goldeniptv.com:25461/live/123321/123321/137735.ts
+#EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",AR: BEIN SPORTS 4 HEVC
+http://gbox.goldeniptv.com:25461/live/123321/123321/137736.ts
+#EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",AR: BEIN SPORTS 5 HEVC
+http://gbox.goldeniptv.com:25461/live/123321/123321/137737.ts
+#EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",AR: BEIN SPORTS 6 HEVC
+http://gbox.goldeniptv.com:25461/live/123321/123321/137738.ts
+#EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",AR: BEIN SPORTS 7 HEVC
+http://gbox.goldeniptv.com:25461/live/123321/123321/137739.ts
+#EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",AR: BEIN SPORTS PREMIUM 1 HD
+http://gbox.goldeniptv.com:25461/live/123321/123321/137740.ts
+#EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",AR: BEIN SPORTS PREMIUM 2 HD
+http://gbox.goldeniptv.com:25461/live/123321/123321/137741.ts
+#EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",AR: BEIN SPORTS PREMIUM 3 HD
+http://gbox.goldeniptv.com:25461/live/123321/123321/137742.ts
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Z-O-M-B-I-E-S 3 (2022)",AR: BEIN SPORTS 1 HD
+http://gbox.goldeniptv.com:25461/live/123321/123321/137743.ts
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Z-O-M-B-I-E-S 3 (2022)",AR: BEIN SPORTS 2 HD
+http://gbox.goldeniptv.com:25461/live/123321/123321/137744.ts
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Z-O-M-B-I-E-S 3 (2022)",AR: BEIN SPORTS 3 HD
+http://gbox.goldeniptv.com:25461/live/123321/123321/137745.ts
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Z-O-M-B-I-E-S 3 (2022)",AR: BEIN SPORTS 4 HD
+http://gbox.goldeniptv.com:25461/live/123321/123321/137746.ts
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Z-O-M-B-I-E-S 3 (2022)",AR: BEIN SPORTS 5 HD
+http://gbox.goldeniptv.com:25461/live/123321/123321/137747.ts
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Z-O-M-B-I-E-S 3 (2022)",AR: BEIN SPORTS 6 HD
+http://gbox.goldeniptv.com:25461/live/123321/123321/137748.ts
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Z-O-M-B-I-E-S 3 (2022)",AR: BEIN SPORTS 7 HD
+http://gbox.goldeniptv.com:25461/live/123321/123321/137749.ts
+#EXTINF:0 tvg-id="beINSportsPremium1.qa" group-title="Z-O-M-B-I-E-S 3 (2022)",AR: BEIN SPORTS PREMIUM 1 SD
+http://gbox.goldeniptv.com:25461/live/123321/123321/137753.ts
+#EXTINF:0 tvg-id="beINSportsPremium2.qa" group-title="Z-O-M-B-I-E-S 3 (2022)",BEIN SPORTS PREMIUM 2 SD
+http://gbox.goldeniptv.com:25461/live/123321/123321/143154.ts
+#EXTINF:0 tvg-id="beINSportsPremium3.qa" group-title="Z-O-M-B-I-E-S 3 (2022)",BEIN SPORTS PREMIUM 3 SD
+http://gbox.goldeniptv.com:25461/live/123321/123321/143155.ts
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Z-O-M-B-I-E-S 3 (2022)",AR: BEIN SPORTS 1 SD
+http://gbox.goldeniptv.com:25461/live/123321/123321/137754.ts
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Z-O-M-B-I-E-S 3 (2022)",AR: BEIN SPORTS 2 SD
+http://gbox.goldeniptv.com:25461/live/123321/123321/137755.ts
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Z-O-M-B-I-E-S 3 (2022)",AR: BEIN SPORTS 3 SD
+http://gbox.goldeniptv.com:25461/live/123321/123321/137756.ts
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Z-O-M-B-I-E-S 3 (2022)",AR: BEIN SPORTS 4 SD
+http://gbox.goldeniptv.com:25461/live/123321/123321/137757.ts
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Z-O-M-B-I-E-S 3 (2022)",AR: BEIN SPORTS 5 SD
+http://gbox.goldeniptv.com:25461/live/123321/123321/137758.ts
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Z-O-M-B-I-E-S 3 (2022)",AR: BEIN SPORTS 6 SD
+http://gbox.goldeniptv.com:25461/live/123321/123321/137759.ts
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Z-O-M-B-I-E-S 3 (2022)",AR: BEIN SPORTS 7 SD
+http://gbox.goldeniptv.com:25461/live/123321/123321/137760.ts
+#EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",BEIN PREMUIM 1 HQ
+http://gbox.goldeniptv.com:25461/live/123321/123321/137761.ts
+#EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",BEIN PREMUIM 2 HQ
+http://gbox.goldeniptv.com:25461/live/123321/123321/137762.ts
+#EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",BEIN PREMUIM 3 HQ
+http://gbox.goldeniptv.com:25461/live/123321/123321/137763.ts
+#EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",beIN SPORTS HQ1
+http://gbox.goldeniptv.com:25461/live/123321/123321/137764.ts
+#EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",beIN SPORTS HQ2
+http://gbox.goldeniptv.com:25461/live/123321/123321/137765.ts
+#EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",beIN SPORTS HQ3
+http://gbox.goldeniptv.com:25461/live/123321/123321/137766.ts
+#EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",beIN SPORTS HQ4
+http://gbox.goldeniptv.com:25461/live/123321/123321/137767.ts
+#EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",beIN SPORTS HQ5
+http://gbox.goldeniptv.com:25461/live/123321/123321/137768.ts
+#EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",beIN SPORTS HQ6
+http://gbox.goldeniptv.com:25461/live/123321/123321/137769.ts
+#EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",beIN SPORTS HQ7
+http://gbox.goldeniptv.com:25461/live/123321/123321/137770.ts
