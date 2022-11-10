@@ -281,330 +281,516 @@ http://iptvclub.live:25461/HDuKtDundvsnEZP/9jbryBZTcofehAV/216939
 
 ################
 
-#EXTINF:0 tvg-id="ext" group-title="SPORT",✦●✦ SPORT ✦●✦
-http://client.nodomain.vip:80/live.ts?channelId=1120&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",MAX SPORT 1 HR HD
-http://client.nodomain.vip:80/live.ts?channelId=2185&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",MAX SPORT 2 HR HD
-http://client.nodomain.vip:80/live.ts?channelId=2186&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",MAX SPORT 1 HR FHD
-http://client.nodomain.vip:80/live.ts?channelId=481&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",MAX SPORT 2 HR FHD
-http://client.nodomain.vip:80/live.ts?channelId=2072&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",NOVA TV SPORT
-http://client.nodomain.vip:80/live.ts?channelId=1780&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ARENA FIGHT
-http://client.nodomain.vip:80/live.ts?channelId=1956&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ARENA ESPORT
-http://client.nodomain.vip:80/live.ts?channelId=1957&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ARENA SPORT 1X2
-http://client.nodomain.vip:80/live.ts?channelId=1955&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ARENA HD 1 HR
-http://client.nodomain.vip:80/live.ts?channelId=20&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ARENA HD 2 HR
-http://client.nodomain.vip:80/live.ts?channelId=21&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ARENA HD 3 HR
-http://client.nodomain.vip:80/live.ts?channelId=22&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ARENA HD 4 HR
-http://client.nodomain.vip:80/live.ts?channelId=23&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ARENA HD 5 HR
-http://client.nodomain.vip:80/live.ts?channelId=123&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ARENA HD 6 HR
-http://client.nodomain.vip:80/live.ts?channelId=464&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ARENA FHD 1 HR
-http://client.nodomain.vip:80/live.ts?channelId=1858&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ARENA FHD 2 HR
-http://client.nodomain.vip:80/live.ts?channelId=1859&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ARENA FHD 3 HR
-http://client.nodomain.vip:80/live.ts?channelId=1860&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ARENA FHD 4 HR
-http://client.nodomain.vip:80/live.ts?channelId=1861&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ARENA FHD 5 HR
-http://client.nodomain.vip:80/live.ts?channelId=1862&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ARENA FHD 6 HR
-http://client.nodomain.vip:80/live.ts?channelId=1979&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ARENA FHD 7 HR
-http://client.nodomain.vip:80/live.ts?channelId=1980&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ARENA FHD 8 HR
-http://client.nodomain.vip:80/live.ts?channelId=1981&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ARENA FHD 9 HR
-http://client.nodomain.vip:80/live.ts?channelId=1982&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ARENA FHD 10 HR
-http://client.nodomain.vip:80/live.ts?channelId=1983&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ARENA PREMIUM 1 HD
-http://client.nodomain.vip:80/live.ts?channelId=2037&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ARENA PREMIUM 2 HD
-http://client.nodomain.vip:80/live.ts?channelId=2038&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ARENA PREMIUM 3 HD
-http://client.nodomain.vip:80/live.ts?channelId=2039&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ArenaSport1.rs" group-title="SPORT",ARENA 1 SRB
-http://client.nodomain.vip:80/live.ts?channelId=100&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ArenaSport2.hr" group-title="SPORT",ARENA 2 SRB
-http://client.nodomain.vip:80/live.ts?channelId=101&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ArenaSport3.rs" group-title="SPORT",ARENA 3 SRB
-http://client.nodomain.vip:80/live.ts?channelId=102&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ArenaSport4.rs" group-title="SPORT",ARENA 4 SRB
-http://client.nodomain.vip:80/live.ts?channelId=35&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ArenaSport5.rs" group-title="SPORT",ARENA 5 SRB
-http://client.nodomain.vip:80/live.ts?channelId=121&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ARENA 1 HD BIH
-http://client.nodomain.vip:80/live.ts?channelId=1873&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ARENA 1 HD SRB
-http://client.nodomain.vip:80/live.ts?channelId=1336&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ARENA 2 HD SRB
-http://client.nodomain.vip:80/live.ts?channelId=1337&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ARENA 3 HD SRB
-http://client.nodomain.vip:80/live.ts?channelId=1338&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ARENA 4 HD SRB
-http://client.nodomain.vip:80/live.ts?channelId=1339&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ARENA 5 HD SRB
-http://client.nodomain.vip:80/live.ts?channelId=1930&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ARENA 6 HD SRB
-http://client.nodomain.vip:80/live.ts?channelId=2052&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ARENA 7 HD SRB
-http://client.nodomain.vip:80/live.ts?channelId=2053&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ARENA 8 HD SRB
-http://client.nodomain.vip:80/live.ts?channelId=2054&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",BEIN SPORTS 1 4K AR
-http://client.nodomain.vip:80/live.ts?channelId=2073&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",BEIN SPORTS 1 HD AR
-http://client.nodomain.vip:80/live.ts?channelId=1613&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",BEIN SPORTS 2 HD AR
-http://client.nodomain.vip:80/live.ts?channelId=1614&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",BEIN SPORTS 3 HD AR
-http://client.nodomain.vip:80/live.ts?channelId=1615&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",BEIN SPORTS 4 HD AR
-http://client.nodomain.vip:80/live.ts?channelId=1616&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",BEIN SPORTS 5 HD AR
-http://client.nodomain.vip:80/live.ts?channelId=1617&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",BEIN SPORTS 6 HD AR
-http://client.nodomain.vip:80/live.ts?channelId=1618&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",BEIN SPORTS 7 HD AR
-http://client.nodomain.vip:80/live.ts?channelId=1619&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",BEIN SPORTS 8 HD AR
-http://client.nodomain.vip:80/live.ts?channelId=1620&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",BEIN SPORTS 9 HD AR
-http://client.nodomain.vip:80/live.ts?channelId=1621&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",BEIN SPORTS 10 HD AR
-http://client.nodomain.vip:80/live.ts?channelId=1622&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",BEIN SPORTS 11 HD AR
-http://client.nodomain.vip:80/live.ts?channelId=2177&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",BEIN SPORTS 12 HD AR
-http://client.nodomain.vip:80/live.ts?channelId=2178&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",BEIN SPORTS 13 HD AR
-http://client.nodomain.vip:80/live.ts?channelId=2179&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",BEIN SPORTS 14 HD AR
-http://client.nodomain.vip:80/live.ts?channelId=2180&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="esp" group-title="SPORT",EUROSPORT
-http://client.nodomain.vip:80/live.ts?channelId=128&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="esp2" group-title="SPORT",EUROSPORT 2
-http://client.nodomain.vip:80/live.ts?channelId=129&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="FightChannel.svn" group-title="SPORT",FIGHT CHANNEL
-http://client.nodomain.vip:80/live.ts?channelId=1674&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",MNE SPORT 1 CG
-http://client.nodomain.vip:80/live.ts?channelId=1856&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",MNE SPORT 2 CG
-http://client.nodomain.vip:80/live.ts?channelId=2043&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",MNE SPORT 3 CG
-http://client.nodomain.vip:80/live.ts?channelId=2044&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",MOJA TV PREMIJER LIGA BH
-http://client.nodomain.vip:80/live.ts?channelId=1675&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ZVEZDA TV
-http://client.nodomain.vip:80/live.ts?channelId=1888&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="beINSport1.fr" group-title="SPORT",BEIN SPORTS 1 HD FR
-http://client.nodomain.vip:80/live.ts?channelId=1676&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="beINSport2.fr" group-title="SPORT",BEIN SPORTS 2 HD FR
-http://client.nodomain.vip:80/live.ts?channelId=1677&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="beINSport3.fr" group-title="SPORT",BEIN SPORTS 3 HD FR
-http://client.nodomain.vip:80/live.ts?channelId=1678&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",CANAL+ FOOT FR
-http://client.nodomain.vip:80/live.ts?channelId=2184&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="SPORT",CANAL+ SPORT FR
-http://client.nodomain.vip:80/live.ts?channelId=1684&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",RMC SPORT 1 FR
-http://client.nodomain.vip:80/live.ts?channelId=1976&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",RMC SPORT 2 FR
-http://client.nodomain.vip:80/live.ts?channelId=1977&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",RMC SPORT 3 FR
-http://client.nodomain.vip:80/live.ts?channelId=1978&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="LIGTV.tr" group-title="SPORT",BEIN SPORTS 1 HD TR
-http://client.nodomain.vip:80/live.ts?channelId=2136&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="LIGTV2.tr" group-title="SPORT",BEIN SPORTS 2 HD TR
-http://client.nodomain.vip:80/live.ts?channelId=2137&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="LIGTV3.tr" group-title="SPORT",BEIN SPORTS 3 HD TR
-http://client.nodomain.vip:80/live.ts?channelId=2138&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="LIGTV4.tr" group-title="SPORT",BEIN SPORTS 4 HD TR
-http://client.nodomain.vip:80/live.ts?channelId=2139&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="TivibuSpor1.tr" group-title="SPORT",TIVIBU SPOR 1 TR
-http://client.nodomain.vip:80/live.ts?channelId=2035&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="TivibuSpor2.tr" group-title="SPORT",TIVIBU SPOR 2 TR
-http://client.nodomain.vip:80/live.ts?channelId=2034&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="TivibuSpor3.tr" group-title="SPORT",TIVIBU SPOR 3 TR
-http://client.nodomain.vip:80/live.ts?channelId=2033&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="NBA.blt" group-title="SPORT",NBA TV HD
-http://client.nodomain.vip:80/live.ts?channelId=1685&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",DAZN SPORT 1 DE
-http://client.nodomain.vip:80/live.ts?channelId=1627&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",DAZN SPORT 2 DE
-http://client.nodomain.vip:80/live.ts?channelId=1628&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",EUROSPORT 1 DE
-http://client.nodomain.vip:80/live.ts?channelId=1686&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="Eurosport2.de" group-title="SPORT",EUROSPORT 2 DE
-http://client.nodomain.vip:80/live.ts?channelId=1687&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ORFSport.at" group-title="SPORT",ORF SPORT +
-http://client.nodomain.vip:80/live.ts?channelId=1742&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="Sport1HD.de" group-title="SPORT",SPORT 1 DE
-http://client.nodomain.vip:80/live.ts?channelId=1689&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="SkySportAustria.de" group-title="SPORT",SKY SPORT AUSTRIA 1 HD
-http://client.nodomain.vip:80/live.ts?channelId=1720&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="SkyBundesliga.de" group-title="SPORT",SKY SPORT BUNDESLIGA 1 DE
-http://client.nodomain.vip:80/live.ts?channelId=11&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",SKY SPORT BUNDESLIGA 2 DE (nur an Spieltagen)
-http://client.nodomain.vip:80/live.ts?channelId=580&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",SKY SPORT BUNDESLIGA 3 DE (nur an Spieltagen)
-http://client.nodomain.vip:80/live.ts?channelId=581&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",SKY SPORT BUNDESLIGA 4 DE (nur an Spieltagen)
-http://client.nodomain.vip:80/live.ts?channelId=582&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",SKY SPORT BUNDESLIGA 5 DE (nur an Spieltagen)
-http://client.nodomain.vip:80/live.ts?channelId=583&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",SKY SPORT BUNDESLIGA 6 DE (nur an Spieltagen)
-http://client.nodomain.vip:80/live.ts?channelId=1417&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",SKY SPORT BUNDESLIGA 7 DE (nur an Spieltagen)
-http://client.nodomain.vip:80/live.ts?channelId=1418&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",SKY SPORT BUNDESLIGA 8 DE (nur an Spieltagen)
-http://client.nodomain.vip:80/live.ts?channelId=1419&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="SkySportNewsHD.de" group-title="SPORT",SKY SPORT NEWS DE
-http://client.nodomain.vip:80/live.ts?channelId=1789&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",SKY SPORT PREMIER LEAGUE HD DE
-http://client.nodomain.vip:80/live.ts?channelId=2181&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",SKY SPORT TENNIS HD DE
-http://client.nodomain.vip:80/live.ts?channelId=2183&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",SKY SPORT TOP EVENT HD DE
-http://client.nodomain.vip:80/live.ts?channelId=2182&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",SKY SPORT 1 HD DE  (nur an Spieltagen)
-http://client.nodomain.vip:80/live.ts?channelId=92&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",SKY SPORT 2 HD DE  (nur an Spieltagen)
-http://client.nodomain.vip:80/live.ts?channelId=93&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",SKY SPORT 3 HD DE  (nur an Spieltagen)
-http://client.nodomain.vip:80/live.ts?channelId=1657&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",SKY SPORT 4 HD DE (nur an Spieltagen)
-http://client.nodomain.vip:80/live.ts?channelId=1658&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",SKY SPORT 5 HD DE (nur an Spieltagen)
-http://client.nodomain.vip:80/live.ts?channelId=1659&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",SKY SPORT 6 HD DE (nur an Spieltagen)
-http://client.nodomain.vip:80/live.ts?channelId=1660&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",AUTO MOTOR SPORT DE
-http://client.nodomain.vip:80/live.ts?channelId=1690&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",FC BAYERN HD DE
-http://client.nodomain.vip:80/live.ts?channelId=1691&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="BTSport1.uk" group-title="SPORT",BT SPORT 1
-http://client.nodomain.vip:80/live.ts?channelId=1694&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="BTSport2.uk" group-title="SPORT",BT SPORT 2
-http://client.nodomain.vip:80/live.ts?channelId=1695&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="BTSport3.uk" group-title="SPORT",BT SPORT 3
-http://client.nodomain.vip:80/live.ts?channelId=1696&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="SPORT",BT SPORT ESPN
-http://client.nodomain.vip:80/live.ts?channelId=1697&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ELEVEN SPORT 1 PL
-http://client.nodomain.vip:80/live.ts?channelId=1700&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ELEVEN SPORT 2 PL
-http://client.nodomain.vip:80/live.ts?channelId=1701&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ESPN.uk" group-title="SPORT",ESPN US
-http://client.nodomain.vip:80/live.ts?channelId=1703&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",NFL NETWORK US
-http://client.nodomain.vip:80/live.ts?channelId=2187&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",NFL REDZONE US
-http://client.nodomain.vip:80/live.ts?channelId=2071&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="LiverpoolFCTV.uk" group-title="SPORT",LIVERPOOL FC TV UK
-http://client.nodomain.vip:80/live.ts?channelId=1704&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",MANCHESTER UNITED TV UK
-http://client.nodomain.vip:80/live.ts?channelId=2022&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="PremierSports.uk" group-title="SPORT",PREMIER SPORTS UK
-http://client.nodomain.vip:80/live.ts?channelId=1800&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",PREMIER SPORTS 2 UK
-http://client.nodomain.vip:80/live.ts?channelId=1818&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",DAZN F1 ES
-http://client.nodomain.vip:80/live.ts?channelId=2059&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="SkySportF1.de" group-title="SPORT",SKY SPORT F1 DE
-http://client.nodomain.vip:80/live.ts?channelId=1994&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="SkySpF1.uk" group-title="SPORT",SKY SPORT F1 UK
-http://client.nodomain.vip:80/live.ts?channelId=1706&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",SKY SPORT ARENA UK
-http://client.nodomain.vip:80/live.ts?channelId=1707&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",SKY SPORT FOOTBALL UK
-http://client.nodomain.vip:80/live.ts?channelId=1984&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",SKY SPORT GOLF UK
-http://client.nodomain.vip:80/live.ts?channelId=1709&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",SKY SPORT MAIN EVENT UK
-http://client.nodomain.vip:80/live.ts?channelId=1710&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",SKY SPORT MIX UK
-http://client.nodomain.vip:80/live.ts?channelId=1708&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",SKY SPORT PREMIER LEAGUE UK
-http://client.nodomain.vip:80/live.ts?channelId=1711&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="RaiSport.it" group-title="SPORT",RAI SPORT 1
-http://client.nodomain.vip:80/live.ts?channelId=1717&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="SkySportUno.it" group-title="SPORT",SKY SPORT 1 HD IT
-http://client.nodomain.vip:80/live.ts?channelId=1718&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="SkySportArena.it" group-title="SPORT",SKY SPORT 2 HD IT
-http://client.nodomain.vip:80/live.ts?channelId=1719&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="SkySportMotoGP.it" group-title="SPORT",SKY MOTO GP HD IT
-http://client.nodomain.vip:80/live.ts?channelId=1753&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="DigiSport1.ro" group-title="SPORT",DIGI SPORT 1 HD RO
-http://client.nodomain.vip:80/live.ts?channelId=1832&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="DigiSport2.ro" group-title="SPORT",DIGI SPORT 2 HD RO
-http://client.nodomain.vip:80/live.ts?channelId=1831&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="DigiSport3.ro" group-title="SPORT",DIGI SPORT 3 HD RO
-http://client.nodomain.vip:80/live.ts?channelId=1833&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",DIGI SPORT 4 HD RO
-http://client.nodomain.vip:80/live.ts?channelId=1834&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ESPN SPORTS 1 NL
-http://client.nodomain.vip:80/live.ts?channelId=1721&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ESPN SPORTS 2 NL
-http://client.nodomain.vip:80/live.ts?channelId=1722&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ESPN SPORTS 3 NL
-http://client.nodomain.vip:80/live.ts?channelId=1723&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ESPN SPORTS 4 NL
-http://client.nodomain.vip:80/live.ts?channelId=1724&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="CMoreFotboll.se" group-title="SPORT",C MORE FOTBALL SE
-http://client.nodomain.vip:80/live.ts?channelId=1725&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",C MORE HOCKEY SE
-http://client.nodomain.vip:80/live.ts?channelId=1727&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="CMoreSport.se" group-title="SPORT",C MORE SPORT SE
-http://client.nodomain.vip:80/live.ts?channelId=1728&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="CMoreLive.se" group-title="SPORT",C MORE LIVE 1
-http://client.nodomain.vip:80/live.ts?channelId=1840&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="CMoreLive2.se" group-title="SPORT",C MORE LIVE 2
-http://client.nodomain.vip:80/live.ts?channelId=1841&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="CMoreLive3.se" group-title="SPORT",C MORE LIVE 3
-http://client.nodomain.vip:80/live.ts?channelId=1842&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="CMoreLive4.se" group-title="SPORT",C MORE LIVE 4
-http://client.nodomain.vip:80/live.ts?channelId=1843&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",C MORE LIVE 5
-http://client.nodomain.vip:80/live.ts?channelId=1844&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ViasatFotboll.se" group-title="SPORT",VIASAT FOTBOLL SE
-http://client.nodomain.vip:80/live.ts?channelId=1732&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="sport-plus" group-title="SPORT",VIASAT MOTOR SE
-http://client.nodomain.vip:80/live.ts?channelId=1735&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ViasatSport.se" group-title="SPORT",VIASAT SPORT SE
-http://client.nodomain.vip:80/live.ts?channelId=1736&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",VIASAT SPORT EXTRA SE
-http://client.nodomain.vip:80/live.ts?channelId=1731&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ViasatSportPremium.se" group-title="SPORT",VIASAT SPORT PREMIUM SE
-http://client.nodomain.vip:80/live.ts?channelId=1737&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",SUPER SPORT 1 ALB
-http://client.nodomain.vip:80/live.ts?channelId=1738&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",SUPER SPORT 2 ALB
-http://client.nodomain.vip:80/live.ts?channelId=1739&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",SUPER SPORT 3 ALB
-http://client.nodomain.vip:80/live.ts?channelId=1740&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
-#EXTINF:0 tvg-id="ext" group-title="SPORT",SUPER SPORT 4 ALB
-http://client.nodomain.vip:80/live.ts?channelId=1741&uid=20015&deviceUser=28:39:5e:1d:70:23&devicePass=XPTUhnnOla6nuvHw3OtE
 
 
 ################
 
 
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP",|WC| WORLD CUP LIVE SCORE
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/477424
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP",|DE| POP WORLD CUP 1
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/424255
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP",|IT| POP WORLD CUP 2
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/424803
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP",|BZ| POP WORLD CUP 3
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/424256
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP",|ARGENTINA| POP WORLD CUP 4
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/424258
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP",|BE| POP WORLD CUP 5
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/424259
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP",|HR| POP WORLD CUP 6
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/424260
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP",|PT| POP WORLD CUP 7
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/424261
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP",|SP| POP WORLD CUP 8
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/424262
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP",|FR-HD| POP WORLD CUP 9
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/424263
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP",|UK-HD| POP WORLD CUP 10
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/424264
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP",POP WORLD CUP 12 HIGHLIGHTS
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/424836
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP",POP WORLD CUP 11 GREATEST MOMENT
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/424835
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 1 UHD
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/424281
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 2 UHD
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/424280
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 3 UHD
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/424279
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 4 UHD
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/424278
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 5 UHD
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/471969
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 6 UHD
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/471968
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 1 4K
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/424277
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 2 4K
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/424276
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 3 4K
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/424275
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 4 4K
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/424274
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 5 4K
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/471967
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 6 4K
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/471966
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 1 HD
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/424273
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 2 HD
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/424272
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 3 HD
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/424271
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 4 HD
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/424270
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 5 HD
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/471971
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 6 HD
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/471970
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 1 SD
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/424269
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 2 SD
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/424268
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 3 SD
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/424267
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 4 SD
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/424266
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 5 SD
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/471965
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP",|AR| BEIN SPORTS MAX 6 SD
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/471964
 
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",## |FR-HD| SPORT ##
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12606
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| PPV 1 |
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/431230
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| PPV 1
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/250230
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| PPV 2
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/250231
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| CHAMPIONS LEAGUE 22-23
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/444139
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| CANAL+ 360
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/439764
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| CANAL+ SPORT
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12791
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| CANAL+ PREMIER LEAGUE
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/138279
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| CANAL+ TOP14
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/138278
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| CANAL+ FORMULE1
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/138277
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| CANAL+ FOOT
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/439766
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| CANAL+ MOTOGP
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/138276
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| CANAL+ RUGBY red
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/439770
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| AMAZON PRIME 1
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/226897
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| AMAZON PRIME 2
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/229117
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| AMAZON PRIME 3
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/229116
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| AMAZON PRIME 4
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/229115
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| AMAZON PRIME 5
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/229114
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| AMAZON PRIME 6
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/229113
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| AMAZON PRIME 7
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/229112
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| AMAZON PRIME 8
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/229111
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| AMAZON PRIME MULTIPLEX
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/239278
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| AMAZON PRIME 1 (LEAGUE 2)
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/330188
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| AMAZON PRIME 2 (LEAGUE 2)
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/330187
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| AMAZON PRIME 3 (LEAGUE 2)
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/330186
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| AMAZON PRIME 4 (LEAGUE 2)
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/330185
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| AMAZON PRIME 5 (LEAGUE 2)
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/330184
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| AMAZON PRIME 6 (LEAGUE 2)
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/330183
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| AMAZON PRIME 7 (LEAGUE 2)
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/330182
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| AMAZON PRIME 8 (LEAGUE 2)
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/330181
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| BEIN SPORT 1
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12605
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| BEIN SPORT 2
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12604
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| BEIN SPORT 3
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12603
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| BEIN SPORT MAX 4
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12602
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| BEIN SPORT MAX 5
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12601
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| BEIN SPORT MAX 6
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12600
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| BEIN SPORT MAX 7
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12599
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| BEIN SPORT MAX 8
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12598
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| BEIN SPORT MAX 9
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12597
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| BEIN SPORT MAX 10
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12596
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| MULTI SPORTS 1
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12577
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| MULTI SPORTS 2
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12576
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| MULTI SPORTS 3
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12575
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| MULTI SPORTS 4
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12574
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| MULTI SPORTS 5
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12573
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| MULTI SPORTS 6
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12572
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| EUROSPORT 1
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12595
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| EUROSPORT 2
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12594
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| EUROSPORT 360 1
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/139053
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| EUROSPORT 360 2
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/139052
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| EUROSPORT 360 3
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/139051
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| EUROSPORT 360 4
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/139050
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| EUROSPORT 360 5
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/139049
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| RMC SPORT 1
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12592
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| RMC SPORT 2
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12591
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| RMC SPORT LIVE 3
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/146389
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| RMC SPORT LIVE 4
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/146388
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| RMC SPORT LIVE 5
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12588
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| RMC SPORT LIVE 6
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12587
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| RMC SPORT LIVE 7
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12586
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| RMC SPORT LIVE 8
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12585
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| RMC SPORT LIVE 9
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12584
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| RMC SPORT LIVE 10
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12583
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| RMC SPORT LIVE 11
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12582
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| RMC SPORT LIVE 12
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12581
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| POP Ligue 1 HIGHLIGHTS
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/475035
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| Ligue 1 Replay  | Highlights
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/455200
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",04 November 2022 20:00
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/420664
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",05 November 2022 16:00
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/420663
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",05 November 2022 20:00
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/420662
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",06 November 2022 12:00
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/420661
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",06 November 2022 14:00
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/420660
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",06 November 2022 14:00
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/420659
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",06 November 2022 14:00
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/420658
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",06 November 2022 14:00
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/420657
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",06 November 2022 16:05
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/420656
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",06 November 2022 19:45
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/420655
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| PSG O VILLE LUMIERE 50 ANS DE LEG
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/442276
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| PSG TV INTERVIEWS 24/24
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/442275
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| PSG TV MATCHS COMPLETS 24/24
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/442274
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| PSG TV RÉACTIONS 24/24
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/442273
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| PSG TV RÉSUMÉS 24/24
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/442272
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| PSG ULTRAS
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/442271
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| TRACE SPORT STARS
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/171712
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| OLTV
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/67605
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| INFO SPORT
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12570
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| EQUIDIA LIVE
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12569
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| GOLF+
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12568
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| GOLF CHANNEL
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/330741
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-HD| AUTO MOTO
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12566
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",## |FR-SD| SPORT ##
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12529
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-SD| CANAL+ 360
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/439769
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-SD| TRACE SPORT STARS
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/179311
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-SD| CANAL+ SPORT SD
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/289603
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-SD| CANAL+ PREMIER LEAGUE
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/138280
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-SD| BEIN SPORT 1
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12528
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-SD| BEIN SPORT 2
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12527
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-SD| BEIN SPORT 3
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12526
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-SD| MULTI SPORTS 1
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12507
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-SD| MULTI SPORTS 2
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12506
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-SD| MULTI SPORTS 3
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12505
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-SD| MULTI SPORTS 4
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12504
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-SD| MULTISPORTS 5
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12503
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-SD| MULTISPORTS 6
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12502
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-SD| EUROSPORT 1
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12525
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-SD| EUROSPORT 2
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12524
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-SD| RMC SPORT 1
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12522
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-SD| RMC SPORT LIVE 3
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/146393
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-SD| RMC SPORT LIVE 4
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/146392
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-SD| RMC SPORT 2
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12521
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-SD| RMC SPORT LIVE 5
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12518
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-SD| RMC SPORT LIVE 6
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12517
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-SD| RMC SPORT LIVE 7
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12516
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-SD| RMC SPORT LIVE 8
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12515
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-SD| RMC SPORT LIVE 9
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12514
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-SD| RMC SPORT LIVE 10
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12513
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-SD| RMC SPORT LIVE 11
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12512
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-SD| RMC SPORT LIVE 12
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12511
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-SD| INFO SPORT
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12499
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-SD| EQUIDIA LIVE
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12498
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-SD| GOLF CHANNEL
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/330743
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-SD| GOLF
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12497
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-SD| AUTO MOTO
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/12495
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-SD| CANAL+ MOTOGP
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/371582
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-SD| CANAL+ FORMULE 1
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/371581
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-SD| CANAL+ TOP14
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/371580
+#EXTINF:0 tvg-id="ext" group-title="FR| SPORTS",|FR-SD| CANAL+ FOOT
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/439767
+
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",## |SP| DEPORTES ##
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/1621
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| POP LALIGA HIGHLIGHTS
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/475076
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| LA LIGA REPLAY | HIGHLIGHTS
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/448094
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| M+ ELLAS HD
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/412506
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| M+ CLáSICOS
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/412505
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| DAZN LALIGA
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/419428
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| ESPORT 3 CAT
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/457617
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| #VAMOS HD
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/1677
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| DAZN LALIGA 2
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/426348
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| M.LALIGA HD
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/1644
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| M.LALIGA HD backup 1
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/448156
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| M.LALIGA HD backup 2
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/448155
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| M.LALIGA HD backup 3
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/448154
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| M.LALIGA HD backup 4
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/448153
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| M. LALIGA 1 HD |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/31268
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| M. LALIGA 2 HD |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/31270
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| M. LALIGA 3 HD |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/31272
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| M. LALIGA 4 HD |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/318477
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| M. LALIGA 5 HD |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/318476
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| M. LALIGA 6 HD |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/318475
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| M. LALIGA 7 HD |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/318474
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| M. LALIGA 8 HD |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/325815
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| M. LALIGA 9 HD |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/325816
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| LALIGA TV BAR
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/325618
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| LALIGA SMARTBANK TV HD
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/428601
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| LALIGA SMARTBANK TV 1 HD
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/428600
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| LALIGA SMARTBANK TV 2
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/439868
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| EUROSPORT1 HD
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/1642
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| EUROSPORT 1
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/1641
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| EUROSPORT 2
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/1640
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| M.DEPORTES HD
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/1619
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| TELEDEPORTE
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/1618
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| M. FEST HD
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/412813
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| M.DEPORTES 1 HD
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/1620
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| M.DEPORTES 2 HD
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/226589
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| M.DEPORTES 3 HD
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/226590
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| Sevilla FC TV
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/414793
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| GOL
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/1639
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| BAR TV
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/1638
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| R. MADRID TV
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/1637
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| TOROS HD
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/1636
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| HORSE TV
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/412734
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| M.GOLF HD
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/1633
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| M.LCAMPEONES
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/1647
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| M.LCAMPEONES backup
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/353730
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| M.LCAMPEONES backup 2
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/445820
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| M.LCAMPEONES backup 3
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/445819
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| M.LCAMPEONES backup 4
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/445818
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| M.LCAMPEONES 1 |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/83381
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| M.LCAMPEONES 2 |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/83380
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| M.LCAMPEONES 3 |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/83379
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| M.LCAMPEONES 4 |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/319074
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| M.LCAMPEONES 5 |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/319073
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| M.LCAMPEONES 6 |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/319072
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| M.LCAMPEONES 7 |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/319071
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| M.LCAMPEONES 8 |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/319070
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| M.LCAMPEONES 9 |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/325614
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| M.LCAMPEONES 10 |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/325615
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| M.LCAMPEONES 11 |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/325616
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| M.LCAMPEONES 12 |ONLY DURING LIVE MATCHES|
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/325617
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",08 November 2022 18:00
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/420674
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",08 November 2022 19:00
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/420673
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",08 November 2022 20:30
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/420672
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",09 November 2022 18:00
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/420671
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",09 November 2022 18:00
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/420670
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",09 November 2022 19:00
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/420669
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",09 November 2022 20:30
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/420668
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",10 November 2022 18:00
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/420667
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",10 November 2022 19:00
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/420666
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",10 November 2022 20:30
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/420665
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| DAZN 1 HD
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/41323
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| DAZN 2 HD
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/41324
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| DAZN 3 HD
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/157478
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| DAZN 4 HD
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/157477
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| DAZN F1 SD
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/414785
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| DAZN F1 HD
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/157476
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| DAZN F1 ESPAÑA HD
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/414786
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| FOOTTERS 1
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/282436
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| FOOTTERS 2
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/282427
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| FOOTTERS 3
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/282428
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| FOOTTERS 4
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/282429
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| FOOTTERS 5
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/282430
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| FOOTTERS 6
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/282431
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| FOOTTERS 7
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/282432
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| FOOTTERS 8
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/282433
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| FOOTTERS 9
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/282434
+#EXTINF:0 tvg-id="ext" group-title="ES| DEPORTES",|SP| FOOTTERS 10
+http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/282435
 
 
 #############
@@ -614,242 +800,6 @@ http://client.nodomain.vip:80/live.ts?channelId=1741&uid=20015&deviceUser=28:39:
 
 
 
-#EXTINF:0 tvg-id="BeINSports.es" group-title="BeinSport HD Source 1",BEIN  SPORTS HD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/50
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEIN SPORTS PREMIUM 1 HD  Local
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/51
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEIN SPORTS PREMIUM 2 HD  Local
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/52
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEIN SPORTS PREMIUM 3 HD  Local
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/53
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEIN SPORTS 1 HD Local
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/54
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEIN SPORTS 2 HD Local
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/55
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEIN SPORTS 3 HD Local
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/56
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEIN SPORTS 4 HD Local
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/57
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEIN SPORTS 5 HD Local
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/58
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEIN SPORTS 6 HD LOCAL
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/59
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEIN SPORTS 7 HD LOCAL
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/60
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",Source1 : ♣♦♣♦♣♦♣--beIN SporT HD--♣♦♣♦♣♦♣
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/61
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEIN SPORTS 1 Premium
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/62
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEIN SPORTS 2 Premium
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/63
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEIN SPORTS 3 Premium
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/64
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="BeinSport HD Source 1",BEIN SPORTS 4
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/65
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="BeinSport HD Source 1",BEIN SPORTS 5
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/66
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="BeinSport HD Source 1",BEIN SPORTS 6
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/67
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="BeinSport HD Source 1",BEIN SPORTS 7
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/68
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="BeinSport HD Source 1",BEIN SPORTS 1 HD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/69
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="BeinSport HD Source 1",BEIN SPORTS 2 HD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/70
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="BeinSport HD Source 1",BEIN SPORTS 3 HD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/71
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",Source1 : ♣♦♣♦♣♦♣--beIN SporT Local --♣♦♣♦♣♦♣
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/72
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEINSPORT AR 1 Premium
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/73
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEINSPORT AR 1
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/74
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEINSPORT AR 2 Premium
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/75
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEINSPORT AR 2
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/76
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEINSPORT AR 3 Premium
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/77
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEINSPORT AR 3
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/78
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEINSPORT AR 4
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/79
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEINSPORT AR 5
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/80
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEINSPORT AR 6
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/81
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEINSPORT AR 7
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/82
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",Source1 : ♣♦♣♦♣♦♣--beIN SporT--♣♦♣♦♣♦♣
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/83
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEIN SPORTS NEWS HD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/84
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="BeinSport HD Source 1",BEIN SPORTS 1
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/85
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEIN SPORTS 1  Premium
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/86
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="BeinSport HD Source 1",BEIN SPORTS 3
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/87
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="BeinSport HD Source 1",BEIN SPORTS 2
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/88
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEIN SPORTS 3 Premium
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/89
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="BeinSport HD Source 1",BEIN SPORTS 3
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/90
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="BeinSport HD Source 1",BEIN SPORTS 4
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/91
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="BeinSport HD Source 1",BEIN SPORTS 5
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/92
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="BeinSport HD Source 1",BEIN SPORTS 6
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/93
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",Source1 : ♣♦♣♦♣♦♣--beIN SporT--♣♦♣♦♣♦♣
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/97
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEIN SPORTS 1 premiem
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/98
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEIN SPORTS 2 Premium
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/99
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEIN SPORTS 3 Premium
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/100
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="BeinSport HD Source 1",BEIN SPORTS 4
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/101
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="BeinSport HD Source 1",BEIN SPORTS 5
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/102
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="BeinSport HD Source 1",BEIN SPORTS 6
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/103
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="BeinSport HD Source 1",BEIN SPORTS 7
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/104
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="BeinSport HD Source 1",BEIN SPORTS 1
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/105
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="BeinSport HD Source 1",BEIN SPORTS 2
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/106
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="BeinSport HD Source 1",BEIN SPORTS 3
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/107
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",Source1 : ♣♦♣♦♣♦♣--beIN SporT--♣♦♣♦♣♦♣
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/108
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEIN SPORTS 1 Premium
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/109
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEIN SPORTS 2 Premium
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/110
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEIN SPORTS 3 Premium
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/111
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="BeinSport HD Source 1",BEIN SPORTS 4
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/112
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="BeinSport HD Source 1",BEIN SPORTS 5
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/113
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="BeinSport HD Source 1",BEIN SPORTS 6
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/114
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="BeinSport HD Source 1",BEIN SPORTS 7
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/115
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="BeinSport HD Source 1",BEIN SPORTS 2
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/116
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="BeinSport HD Source 1",BEIN SPORTS 1
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/117
-#EXTINF:0 tvg-id="beINSportsXtra1.qa" group-title="BeinSport HD Source 1",BEIN SPORTS xtra 1
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/118
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEIN SPORTS French HD1
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/34017
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BEIN SPORTS French HD2
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/34018
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",Bein Sports English HD1
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/34019
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",Bein Sports English HD2
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/34020
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",AR: BeiN Sports 2 EN  FHD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/35
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",Bein Sports English HD3
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/34021
-#EXTINF:0 tvg-id="NBAtv.sport" group-title="BeinSport HD Source 1",BeIN Sports NBA HD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/34022
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",BeIN Sports Extra 2 FHD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/35686
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",beIN Sport XTRA 1 HD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/35687
-#EXTINF:0 tvg-id="ext" group-title="BeinSport HD Source 1",beIN Sport XTRA 2 HD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/35688
-
-
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS Premium 1 UHD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/2
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS Premium 2 UHD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/3
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS Premium 3 UHD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/4
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 1 UHD LOCAL
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/9
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 2 UHD LOCAL
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/10
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 3 UHD LOCAL
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/11
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 4 UHD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/5
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 5 UHD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/6
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 6 UHD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/7
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 7 UHD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/8
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",##### BEIN SPORTS UHD #####
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/12
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 1 UHD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/13
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 2 UHD Premium
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/14
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 3 UHD Premium
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/15
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 4 UHD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/16
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 5 UHD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/17
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 6 UHD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/18
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 7 UHD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/19
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 2 UHD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/20
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 1 UHD Premium
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/21
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 3 UHD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/22
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",##### BEIN SPORTS UHD #####
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/23
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 1 UHD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/24
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 1 Premium  UHD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/25
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 2 Premium UHD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/26
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 2 UHD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/27
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 3 Premium UHD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/28
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 3 UHD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/29
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 4 UHD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/30
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 5 UHD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/31
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 6 UHD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/32
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 7 UHD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/33
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",AR: BeiN Sports 1 EN  FHD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/34
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",AR: BeiN Sports XTRA FHD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/36
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 1 ENGLISH FHD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/34023
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 2 ENGLISH FHD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/34024
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 3 ENGLISH FHD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/34025
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 1 FRENCH FHD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/34026
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BEIN SPORTS 2 FRENCH FHD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/34027
-#EXTINF:0 tvg-id="NBAtv.sport" group-title="BeinSports FHD / Hevc",BEIN SPORTS NBA FHD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/34028
-#EXTINF:0 tvg-id="ext" group-title="BeinSports FHD / Hevc",BeIN Sports Extra 1 FHD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/35685
 
 
 ##################
