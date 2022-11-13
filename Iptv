@@ -806,38 +806,31 @@ http://line.ottcst.com/KNPLC6KS3E/KRLA1GGHH8/282435
 ##################
 
 
-#EXTINF:0 tvg-id="ext" group-title="MAX KiNO",##TR: SPOR##
-http://dx.cmsdik.xyz:8080/unitetelegram/bcchff/70621
-#EXTINF:0 tvg-id="ext" group-title="MAX KiNO",TR: beIN Sports Haber HD
-http://dx.cmsdik.xyz:8080/unitetelegram/bcchff/70622
-#EXTINF:0 tvg-id="ext" group-title="MAX KiNO",TR: beIN SPORTS 1 HD
-http://dx.cmsdik.xyz:8080/unitetelegram/bcchff/70623
-#EXTINF:0 tvg-id="ext" group-title="MAX KiNO",TR: beIN SPORTS 2 HD
-http://dx.cmsdik.xyz:8080/unitetelegram/bcchff/70627
-#EXTINF:0 tvg-id="ext" group-title="MAX KiNO",TR: beIN SPORTS 3 HD
-http://dx.cmsdik.xyz:8080/unitetelegram/bcchff/70628
-#EXTINF:0 tvg-id="ext" group-title="MAX KiNO",TR: beIN SPORTS 4 HD
-http://dx.cmsdik.xyz:8080/unitetelegram/bcchff/70632
-#EXTINF:0 tvg-id="beINSPORTSMAX.tr" group-title="MAX KiNO",TR: beIN SPORTS MAX 1 HD+
-http://dx.cmsdik.xyz:8080/unitetelegram/bcchff/70633
-#EXTINF:0 tvg-id="ext" group-title="MAX KiNO",TR: beIN SPORTS MAX 2 HD
-http://dx.cmsdik.xyz:8080/unitetelegram/bcchff/70635
-#EXTINF:0 tvg-id="TivibuSpor1.tr" group-title="MAX KiNO",TR: TIVIBU SPOR 1 HD+
-http://dx.cmsdik.xyz:8080/unitetelegram/bcchff/70637
-#EXTINF:0 tvg-id="TivibuSpor2.tr" group-title="MAX KiNO",TR: TIVIBU SPOR 2 HD+
-http://dx.cmsdik.xyz:8080/unitetelegram/bcchff/70638
-#EXTINF:0 tvg-id="TivibuSpor3.tr" group-title="MAX KiNO",TR: TIVIBU SPOR 3 HD+
-http://dx.cmsdik.xyz:8080/unitetelegram/bcchff/70639
-#EXTINF:0 tvg-id="ext" group-title="MAX KiNO",TR: Spor Smart HD
-http://dx.cmsdik.xyz:8080/unitetelegram/bcchff/70640
-#EXTINF:0 tvg-id="Eurosport.tr" group-title="MAX KiNO",TR: EUROSPORT 1 HD
-http://dx.cmsdik.xyz:8080/unitetelegram/bcchff/70644
-#EXTINF:0 tvg-id="ext" group-title="MAX KiNO",TR: NBA TV HD+
-http://dx.cmsdik.xyz:8080/unitetelegram/bcchff/70646
-#EXTINF:0 tvg-id="TRT3.tr" group-title="MAX KiNO",TR: TRT SPOR HD
-http://dx.cmsdik.xyz:8080/unitetelegram/bcchff/70647
-#EXTINF:0 tvg-id="ASpor.tr" group-title="MAX KiNO",TR: A Spor HD
-http://dx.cmsdik.xyz:8080/unitetelegram/bcchff/70649
+#EXTINF:0 tvg-id="TRT3.tr" group-title="Turquia",TR: TRT SPOR HD
+http://185.71.66.45:88/225954765299439/225954765299439/800
+#EXTINF:0 tvg-id="TRTHaber.tr" group-title="Turquia",TR: TRT HABER HD
+http://185.71.66.45:88/225954765299439/225954765299439/783
+#EXTINF:0 tvg-id="TRTMuzik.tr" group-title="Turquia",TR: TRT Muzik
+http://185.71.66.45:88/225954765299439/225954765299439/813
+#EXTINF:0 tvg-id="ext" group-title="Turquia",TR:TV 8 Turk
+http://185.71.66.45:88/225954765299439/225954765299439/799
+#EXTINF:0 tvg-id="ext" group-title="Turquia",Kon TV
+http://185.71.66.45:88/225954765299439/225954765299439/2957
+#EXTINF:0 tvg-id="ext" group-title="Turquia",TR: Tivibu Sport 3 HD
+http://185.71.66.45:88/225954765299439/225954765299439/804
+#EXTINF:0 tvg-id="ext" group-title="Turquia",TR: Tivibu Spor 2 HD
+http://185.71.66.45:88/225954765299439/225954765299439/2953
+#EXTINF:0 tvg-id="ext" group-title="Turquia",TR: Tivibu Spor 1 HD
+http://185.71.66.45:88/225954765299439/225954765299439/2954
+#EXTINF:0 tvg-id="ext" group-title="Turquia",TR:BeinSport1
+http://185.71.66.45:88/225954765299439/225954765299439/526
+#EXTINF:0 tvg-id="ext" group-title="Turquia",TR:BeinSport2
+http://185.71.66.45:88/225954765299439/225954765299439/525
+#EXTINF:0 tvg-id="ext" group-title="Turquia",TR:BeinSport3
+http://185.71.66.45:88/225954765299439/225954765299439/524
+#EXTINF:0 tvg-id="ext" group-title="Turquia",TR:BeinSport4
+http://185.71.66.45:88/225954765299439/225954765299439/2939
+
 
 #############
 
